@@ -1,0 +1,87 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno-"1" ,FM 2
+https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/.m3u8
+
+#EXTINF:-1 tvg-chno-"2",WOW
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
+
+#EXTINF:-1 tvg-chno-"3",CHINOLA
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"4",TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"5",RETRO MOVIES
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/.m3u8
+
+#EXTINF:-1 tvg-chno-"6",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"7",TELEMAS
+https://www.webmedialive.org:1936/8024/8024/.m3u8  
+
+#EXTINF:-1 tvg-chno-"8",FM
+https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/.m3u8 
+
+#EXTINF:-1 tvg-chno-"9",TELENORD 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/.m3u8 
+
+#EXTINF:-1 tvg-chno-"10",TELENORD 8
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8  
+
+#EXTINF:-1 tvg-chno-"11",MICROVISION
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
+
+#EXTINF:-1 tvg-chno-"12",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
+
+#EXTINF:-1 tvg-chno-"13",HM
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
+
+#EXTINF:-1 tvg-chno-"14",BOREAL
+https://5b38ce71f1f00.streamlock.net/8180/8180/.m3u8  
+
+#EXTINF:-1 tvg-chno-"15",ORBIT
+https://ss3.domint.net:3134/otv_str/orbittv/.m3u8  
+
+#EXTINF:-1 tvg-chno-"16",AME 47
+https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8 
+
+#EXTINF:-1 tvg-chno-"17",CASCARA TV
+https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8 
+
+#EXTINF:-1 tvg-chno-"18",FUEGOTV
+https://5790d294af2dc.streamlock.net/8020/8020/.m3u8 
+
+#EXTINF:-1 tvg-chno-"19",BUIN
+https://bst.buin.cl/0.m3u8
+
+#EXTINF:-1 tvg-chno-"20",VILLA TV
+https://cdn4.hostlagarto.com:8081/static/villatv3/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"21",CITRICO TV
+https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
