@@ -63,6 +63,21 @@ https://cdn4.hostlagarto.com:8081/static/villatv3/chunks.m3u8
 #EXTINF:-1 tvg-chno-"21",CITRICO TV
 https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
 
+#EXTINF:-1 tvg-chno-"22",ACB MOVIES
+https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
+
+#EXTINF:-1 tvg-chno-"23",TELESISTEMA
+https://ss3.domint.net:3114/t11_str/telesistema/.m3u8
+
+#EXTINF:-1 tvg-chno-"24",READY
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
+
+#EXTINF:-1 tvg-chno-"25",TELEANTILLAS
+https://ss4.domint.net:3040/ta2_str/teleantillas/.m3u8
+
+
+
+
 
 
 
