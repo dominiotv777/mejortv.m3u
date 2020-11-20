@@ -75,6 +75,22 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-chno-"25",TELEANTILLAS
 https://ss4.domint.net:3040/ta2_str/teleantillas/.m3u8
 
+#EXTINF:-1 tvg-chno-"26",TELECARIBE RD
+https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8 
+
+#EXTINF:-1 tvg-chno-"27",CGTN               
+https://livees.cgtn.com/1000e/prog_index.m3u8 
+
+#EXTINF:-1 tvg-chno-"28",AMERICA HD              
+https://srv4.zcast.com.br/erickzambra/erickzambra/.m3u8
+
+#EXTINF:-1 tvg-chno-"29",ATACAMA            
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno-"30",UTV           
+https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8 
+
+
 
 
 
