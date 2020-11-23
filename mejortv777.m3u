@@ -120,6 +120,19 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"40",HQM KIDS         
 https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/index-f2-v1-a1.m3u8
 
+#EXTINF:-1 tvg-chno-"41",TATETI JUNIOR         
+https://dcunilive254-lh.akamaihd.net/i/dclive_1@21315/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-chno-"42",XABARIN         
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"43",SOLDADOS DE JESUS KIDS         
+https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/.m3u8 
+
+#EXTINF:-1 tvg-chno-"44",DIOS TV KIDS         
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8  
+
+
 
 
 
