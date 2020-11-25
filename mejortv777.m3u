@@ -165,10 +165,10 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 #EXTINF:-1 tvg-chno-"55",DTV HONDURAS    
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"56",SENTANA SPORT 1    
+#EXTINF:-1 tvg-chno-"56", SPORTS 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
 
-#EXTINF:-1 tvg-chno-"57",SENTANA SPORT MAS    
+#EXTINF:-1 tvg-chno-"57", SPORTS MAS    
 http:\\ott-cdn.ucom.am\s82\04.m3u8
 
 #EXTINF:-1 tvg-chno-"58",RED BULL   
