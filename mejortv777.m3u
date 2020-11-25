@@ -165,6 +165,24 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 #EXTINF:-1 tvg-chno-"55",DTV HONDURAS    
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8 
 
+#EXTINF:-1 tvg-chno-"56",SENTANA SPORT 1    
+http:\\ott-cdn.ucom.am\s81\04.m3u8
+
+#EXTINF:-1 tvg-chno-"57",SENTANA SPORT MAS    
+http:\\ott-cdn.ucom.am\s82\04.m3u8
+
+#EXTINF:-1 tvg-chno-"58",RED BULL   
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-chno-"59",SPORT ITALIA
+https://spottsportitalia.akamaized.net/hls/live/2006300/spottsportitaliahls04/spottsportitaliahls04_3000/chunklist.m3u8?hdntl=exp=1598564169~acl=/*~data=hdntl~hmac=9d9894aeaccb5d1b510333047ab4b59fc936d530b625ff83fc5f31b55d0f4ec1
+
+#EXTINF:-1 tvg-chno-"60",MS MOTOR   
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+
+
+
 
 
 
