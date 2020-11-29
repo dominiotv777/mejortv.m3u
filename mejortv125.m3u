@@ -84,11 +84,11 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-chno-"28",AMERICA HD              
 https://srv4.zcast.com.br/erickzambra/erickzambra/.m3u8
 
-#EXTINF:-1 tvg-chno-"29",ATACAMA            
-https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"29",TELEAMAZONAS           
+https://playback.akamaized.net/streams/1359588_4428723_lsieomqmjf50hfouq2b_1/media/1359588_4428723_lsieomqmjf50hfouq2b_1@628000p.m3u8?dw=14400&ts=1606676400&hdnts=exp=1606850812~acl=/streams/1359588_4428723_lsieomqmjf50hfouq2b_1/media*~hmac=25dafe50c8c30402ce62e47cb9429c8cde30530d68214231bbf495d845606796
 
-#EXTINF:-1 tvg-chno-"30",UTV           
-https://v2.tustreaming.cl/utvsc/live1/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-chno-"30",C21           
+https://tls.cdnz.cl/canal21tv/live/.m3u8 
 
 #EXTINF:-1 tvg-chno-"31",TELSUR COSTA RICA           
 https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8 
@@ -185,7 +185,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606521296/ei/c
 
 
 #EXTINF:-1 tvg-chno-"62",TV JUNIOR BABY SERIES 24 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606518608/ei/8DLBX8vqLIPNj-8PmPWU6Ak/ip/2800%3A484%3Ab38c%3Ae00%3Afdd2%3Ae725%3Ae1aa%3Ae20b/id/keDU7II5ILI.0/source/yt_live_broadcast/requiressl/yes/tx/23935848/txs/23935842%2C23935843%2C23935844%2C23935845%2C23935846%2C23935847%2C23935848%2C23935849%2C23935850/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFhjzcDmQ997LrxJ3s5SoaDpgPfeAFK6mtXYGbxFpIQUCIQDbHwJkmLjpC39wguCs_y_zdP-UU1gpZxjldeZTvjzBsQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-chno-"63",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8  
@@ -209,22 +208,6 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
