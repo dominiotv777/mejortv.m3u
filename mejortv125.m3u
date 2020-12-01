@@ -33,8 +33,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",VALLEVISION
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
+#EXTINF:-1 tvg-chno-"12",NORT MOVIES
+http://tv.radiotel.net:1935/nortv/nortv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
@@ -84,8 +84,8 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-chno-"28",AMERICA HD              
 https://srv4.zcast.com.br/erickzambra/erickzambra/.m3u8
 
-#EXTINF:-1 tvg-chno-"29",TELEAMAZONAS           
-https://playback.akamaized.net/streams/1359588_4428723_lsieomqmjf50hfouq2b_1/media/1359588_4428723_lsieomqmjf50hfouq2b_1@628000p.m3u8?dw=14400&ts=1606676400&hdnts=exp=1606850812~acl=/streams/1359588_4428723_lsieomqmjf50hfouq2b_1/media*~hmac=25dafe50c8c30402ce62e47cb9429c8cde30530d68214231bbf495d845606796
+#EXTINF:-1 tvg-chno-"29",FRANCE 24           
+https://vxlive.cdn.antel.net.uy/auth_livesignal_701,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNzAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MDY4Nzk1NDUmcmFuZG9tPUZOWEE3cTVNOU4mYy1pcD0xOTIuMjQxLjI0OC4xNTgsNDM5NjI3ODUwNTk3MmYwOGY2MGI2NGM0NGI2OTE4OGFlMTUxNGI5ZWNhMjBhYjk1ZGI4OWY0MTA4ZjA4Mzc0OA==/vxfmt=hls/h_d828407a294da675a0e15763eb5ff980/var3000000/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"30",C21           
 https://tls.cdnz.cl/canal21tv/live/.m3u8 
@@ -180,11 +180,11 @@ https://tls.cdnz.cl/cdofree/smil:cdn.smil/.m3u8
 #EXTINF:-1 tvg-chno-"60",MS MOTOR   
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",TV JUNIOR SERIES 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606521296/ei/cD3BX4DxKcHm4QTz55iABg/ip/2800%3A484%3Ab38c%3Ae00%3A6d11%3A1496%3A8cdb%3Aaa0/id/ozM7Fk2n4pc.1/source/yt_live_broadcast/requiressl/yes/tx/23935848/txs/23935842%2C23935843%2C23935844%2C23935845%2C23935846%2C23935847%2C23935848%2C23935849%2C23935850/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgJ34ebMEm1hophaYOPGyTky8HNug_v4YAnRGh09tdmZACIAdVGd8L95JMu-QnPe9nQgdKC1Mg6FVk747XPxiu5iqR/file/index.m3u8
+#EXTINF:-1 tvg-chno-"61",MICROVISION
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-
-#EXTINF:-1 tvg-chno-"62",TV JUNIOR BABY SERIES 24 
+#EXTINF:-1 tvg-chno-"62",MEGA TV
+https://cp.sradiotv.com:1936/Stream/Stream/.m3u8
 
 #EXTINF:-1 tvg-chno-"63",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8  
@@ -195,26 +195,25 @@ https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
 #EXTINF:-1 tvg-chno-"65",PAT TV
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/.m3u8 
 
-#EXTINF:-1 tvg-chno-"67",TICAVISION
+#EXTINF:-1 tvg-chno-"66",TICAVISION
 https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8 
 
-#EXTINF:-1 tvg-chno-"68",DAN TV
+#EXTINF:-1 tvg-chno-"67",DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"69",PH
+#EXTINF:-1 tvg-chno-"68",PH
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"70",ROCAVISION
+#EXTINF:-1 tvg-chno-"69",ROCAVISION
 https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-chno-"70",ROMANA TV
+http://tv.romanatv42.com/hls/live.m3u8                  
+
+
+
+
  
-
-
-
-
-
-
-
 
 
 
