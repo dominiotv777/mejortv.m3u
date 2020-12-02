@@ -81,11 +81,11 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-chno-"27",CGTN               
 https://livees.cgtn.com/1000e/prog_index.m3u8 
 
-#EXTINF:-1 tvg-chno-"28",AMERICA HD              
-https://srv4.zcast.com.br/erickzambra/erickzambra/.m3u8
+#EXTINF:-1 tvg-chno-"28",MEGA TV             
+https://cp.sradiotv.com:1936/Stream/Stream/.m3u8 
 
-#EXTINF:-1 tvg-chno-"29",FRANCE 24           
-https://vxlive.cdn.antel.net.uy/auth_livesignal_701,vxttoken=cGF0aFVSST0lMkZhdXRoX2xpdmVzaWduYWxfNzAxJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2MDY4Nzk1NDUmcmFuZG9tPUZOWEE3cTVNOU4mYy1pcD0xOTIuMjQxLjI0OC4xNTgsNDM5NjI3ODUwNTk3MmYwOGY2MGI2NGM0NGI2OTE4OGFlMTUxNGI5ZWNhMjBhYjk1ZGI4OWY0MTA4ZjA4Mzc0OA==/vxfmt=hls/h_d828407a294da675a0e15763eb5ff980/var3000000/playlist.m3u8
+#EXTINF:-1 tvg-chno-"29",24 H 
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/index_1500_av-p.m3u8          
 
 #EXTINF:-1 tvg-chno-"30",C21           
 https://tls.cdnz.cl/canal21tv/live/.m3u8 
@@ -96,8 +96,8 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8
 #EXTINF:-1 tvg-chno-"32",MULTIVISION ARGENTINA          
 https://panel.dattalive.com/8250/8250/.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",TELE UNO          
-https://5d16127744872.streamlock.net/TVUNO/TVUNO/.m3u8  
+#EXTINF:-1 tvg-chno-"33", CINCO TV         
+https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"34",SEÑAL COLOMBIA          
 https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8  
@@ -123,8 +123,8 @@ http://toonxtv.net/hls/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-chno-"41",TATETI JUNIOR         
 https://dcunilive254-lh.akamaihd.net/i/dclive_1@21315/index_150_av-p.m3u8
 
-#EXTINF:-1 tvg-chno-"42",XABARIN         
-http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-chno-"42",TV JUNIOR         
+https://www.youtube.com/watch?v=q6MT4sOhPfY
 
 #EXTINF:-1 tvg-chno-"43",SOLDADOS DE JESUS KIDS         
 https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/.m3u8 
@@ -183,8 +183,8 @@ https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/.m3u8
 #EXTINF:-1 tvg-chno-"61",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"62",MEGA TV
-https://cp.sradiotv.com:1936/Stream/Stream/.m3u8
+#EXTINF:-1 tvg-chno-"62",BHTV
+https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u88
 
 #EXTINF:-1 tvg-chno-"63",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8  
@@ -214,6 +214,81 @@ http://tv.romanatv42.com/hls/live.m3u8
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
 
 
 
