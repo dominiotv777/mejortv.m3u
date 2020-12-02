@@ -208,7 +208,10 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"70",ROMANA TV
-http://tv.romanatv42.com/hls/live.m3u8                  
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-chno-"71",PELIS ANIMAX 24
+https://seriesanimadas.org/pelicula/boku-no-hero-academia-the-movie-2-heroes-rising                 
 
 
 
