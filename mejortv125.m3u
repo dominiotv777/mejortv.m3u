@@ -126,8 +126,8 @@ https://dcunilive254-lh.akamaihd.net/i/dclive_1@21315/index_150_av-p.m3u8
 #EXTINF:-1 tvg-chno-"42",TV JUNIOR         
 https://www.youtube.com/watch?v=keIt6LJEC44
 
-#EXTINF:-1 tvg-chno-"43",SOLDADOS DE JESUS KIDS         
-https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/.m3u8 
+#EXTINF:-1 tvg-chno-"43",CINE ANIMAX 24 A LA CARTA  
+https://www.youtube.com/watch?v=TbKGfoyIZpI 
 
 #EXTINF:-1 tvg-chno-"44",DIOS TV KIDS         
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8  
@@ -210,8 +210,7 @@ https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunk
 #EXTINF:-1 tvg-chno-"70",ROMANA TV
 http://tv.romanatv42.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-chno-"71",PELICULAS ANIMAX 24 
-https://www.youtube.com/watch?v=RHsgZP6Gseg&list=PLeuz4LBKC-2WohEfpSb9jv8fUJgh4Trtt&index=18
+
 
 
 
