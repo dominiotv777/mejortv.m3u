@@ -210,8 +210,8 @@ https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunk
 #EXTINF:-1 tvg-chno-"70",ROMANA TV
 http://tv.romanatv42.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-chno-"71",
-https://vd294.mycdn.me/video.m3u8
+#EXTINF:-1 tvg-chno-"71",SERIES
+https://vd294.mycdn.me/video.m3u8?
 
 
 
