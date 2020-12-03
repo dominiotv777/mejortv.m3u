@@ -211,7 +211,9 @@ https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunk
 http://tv.romanatv42.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-chno-"71",PELIS ANIMAX 24
-https://www.youtube.com/watch?v=OJ_hhYt0Dig&list=PL9kvoia9QAFj79luJmYShdUQYF8XEEqlE&index=53
+
+#EXTINF:-1 tvg-chno-"71",PELIS ANIMAX 24
+https://ok.ru/video/1787846199854
 
 
 
