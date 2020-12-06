@@ -51,8 +51,8 @@ https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
 #EXTINF:-1 tvg-chno-"17",CASCARA TV
 https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"18",FUEGOTV
-https://5790d294af2dc.streamlock.net/8020/8020/.m3u8 
+#EXTINF:-1 tvg-chno-"18",ONDA TV
+https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
 #EXTINF:-1 tvg-chno-"19",BUIN
 https://bst.buin.cl/0.m3u8
@@ -81,8 +81,8 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-chno-"27",CGTN               
 https://livees.cgtn.com/1000e/prog_index.m3u8 
 
-#EXTINF:-1 tvg-chno-"28",MEGA TV             
-https://cp.sradiotv.com:1936/Stream/Stream/.m3u8 
+#EXTINF:-1 tvg-chno-"28",TELERADIO NORTE            
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"29",24 H 
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/index_1500_av-p.m3u8          
@@ -124,10 +124,12 @@ http://toonxtv.net/hls/loco_ch/stream.m3u8
 https://dcunilive254-lh.akamaihd.net/i/dclive_1@21315/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-chno-"42",TV JUNIOR 24 (ANIMADOS SIN COMERCIALES)         
+
 https://www.youtube.com/watch?v=UemijJ1pLpc 
 
 #EXTINF:-1 tvg-chno-"43",CINE ANIMAX AL DIA (A LA CARTA ) 
-https://www.youtube.com/watch?v=MHnyb_ernnI  
+
+https://www.youtube.com/watch?v=3g2ktOQNZG4    
 
 #EXTINF:-1 tvg-chno-"44",DIOS TV KIDS         
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8  
@@ -184,7 +186,7 @@ https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/.m3u8
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 
 #EXTINF:-1 tvg-chno-"62",BHTV
-https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u88
+https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u8
 
 #EXTINF:-1 tvg-chno-"63",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8  
@@ -217,6 +219,82 @@ http://tv.romanatv42.com/hls/live.m3u8
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
 
 
 
