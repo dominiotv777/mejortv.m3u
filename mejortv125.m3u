@@ -124,10 +124,12 @@ http://toonxtv.net/hls/loco_ch/stream.m3u8
 https://dcunilive254-lh.akamaihd.net/i/dclive_1@21315/index_150_av-p.m3u8
 
 #EXTINF:-1 tvg-chno-"42",TV JUNIOR 24 (ANIMADOS SIN COMERCIALES)         
-https://www.youtube.com/watch?v=QBBHkgPYUNE
+
+https://www.youtube.com/watch?v=QBBHkgPYUNE 
 
 #EXTINF:-1 tvg-chno-"43",CINE ANIMAX AL DIA (A LA CARTA ) 
-https://www.youtube.com/watch?v=YBsDrH5TWlQ
+
+https://www.youtube.com/watch?v=herA8R22zeM  
 
 #EXTINF:-1 tvg-chno-"44",DIOS TV KIDS         
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8  
@@ -180,8 +182,8 @@ https://tls.cdnz.cl/cdofree/smil:cdn.smil/.m3u8
 #EXTINF:-1 tvg-chno-"60",MS MOTOR   
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/.m3u8 
 
-#EXTINF:-1 tvg-chno-"61",MICROVISION
-https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
+#EXTINF:-1 tvg-chno-"61",VALLEVISION
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 
 #EXTINF:-1 tvg-chno-"62",BHTV
 https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u88
@@ -209,6 +211,88 @@ https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunk
 
 #EXTINF:-1 tvg-chno-"70",ROMANA TV
 http://tv.romanatv42.com/hls/live.m3u8
+
+
+                 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
 
 
 
