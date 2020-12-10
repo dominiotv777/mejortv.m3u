@@ -12,14 +12,14 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"4",TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"5",RETRO MOVIES
+#EXTINF:-1 tvg-chno-"5",RETRO 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/.m3u8
 
-#EXTINF:-1 tvg-chno-"6",AKI TV
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"6",CINECLUBTV
+https://stmv1.zcastbr.com/cineclubtv/cineclubtv/.m3u8
 
-#EXTINF:-1 tvg-chno-"7",TELEMAS
-https://www.webmedialive.org:1936/8024/8024/.m3u8  
+#EXTINF:-1 tvg-chno-"7",LATINA INTERNACIONAL
+https://ss4.domint.net:3020/ltv_str/latinatv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"8",FM
 https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/.m3u8 
@@ -54,14 +54,14 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"18",ONDA TV
 https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
-#EXTINF:-1 tvg-chno-"19",BUIN
-https://bst.buin.cl/0.m3u8
+#EXTINF:-1 tvg-chno-"19",FRANCE24
+http:\\static.france24.com\live\F24_ES_LO_HLS\live_web.m3u8
 
 #EXTINF:-1 tvg-chno-"20",VILLA TV
 https://cdn4.hostlagarto.com:8081/static/villatv3/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"21",CITRICO TV
-https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"21",TELESOLTV
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"22",ACB MOVIES
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
@@ -81,8 +81,8 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-chno-"27",CGTN               
 https://livees.cgtn.com/1000e/prog_index.m3u8 
 
-#EXTINF:-1 tvg-chno-"28",TELERADIO NORTE            
-https://cdn4.hostlagarto.com:8081/static/teleradionortetv/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"28",RETRO 3 SERIES CLASICAS           
+https://panel.streamingtv-mediacp.online:1936/876769/876769/.m3u8
 
 #EXTINF:-1 tvg-chno-"29",24 H 
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/index_1500_av-p.m3u8          
@@ -123,11 +123,13 @@ http://toonxtv.net/hls/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-chno-"41",TATETI JUNIOR         
 https://dcunilive254-lh.akamaihd.net/i/dclive_1@21315/index_150_av-p.m3u8
 
-#EXTINF:-1 tvg-chno-"42",TV JUNIOR 24 (TEMPORADAS DE SERIES ANIMADAS SIN COMERCIALES) ESTE CANAL CUENTA CON SISTEMA DE PAUSA INTELIGENTE.        
-https://www.youtube.com/watch?v=ydrHfWVw4cY 
+#EXTINF:-1 tvg-chno-"42",TV JUNIOR 24 (TEMPORADAS DE SERIES SIN COMERCIALES)SISTEMA DE PAUSA INTELIGENTE.        
 
-#EXTINF:-1 tvg-chno-"43",CINE ANIMAX AL DIA (A LA CARTA )ESTE CANAL CUENTA CON SISTEMA DE PAUSA INTELIGENTE 
-https://www.youtube.com/watch?v=t4wtCw0uSz8   
+https://www.youtube.com/watch?v=k1IPrhstKkI  
+
+#EXTINF:-1 tvg-chno-"43",CINE ANIMAX AL DIA (A LA CARTA )SISTEMA DE PAUSA INTELIGENTE 
+
+https://www.youtube.com/watch?v=4fxA7tfwnfc https://www.youtube.com/watch?v=LFs_itH5-YI    
 
 #EXTINF:-1 tvg-chno-"44",DIOS TV KIDS         
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8  
@@ -183,8 +185,8 @@ https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/.m3u8
 #EXTINF:-1 tvg-chno-"61",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 
-#EXTINF:-1 tvg-chno-"62",BHTV
-https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:-1 tvg-chno-"62",IMAGEN UNIVERSAL
+https://ss2.domint.net:3110/iutv_str/imagenuniversal/.m3u8
 
 #EXTINF:-1 tvg-chno-"63",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8  
@@ -217,6 +219,85 @@ http://tv.romanatv42.com/hls/live.m3u8
 
 
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
 
 
 
