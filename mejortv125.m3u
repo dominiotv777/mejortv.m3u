@@ -109,7 +109,7 @@ https://master.tucableip.com/reconline/live/video.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/.m3u8 
 
 #EXTINF:-1 tvg-chno-"37",RT          
-https://rt-esp-gd.secure2.footprint.net/1102_1600Kb.m3u8  
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8 
 
 #EXTINF:-1 tvg-chno-"38",DW          
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
@@ -118,16 +118,16 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-chno-"40",LOCOMOTION         
-http://toonxtv.net/hls/loco_ch/stream.m3u8 
+http://207.180.206.247/hls/locotv/stream.m3u8
 
 #EXTINF:-1 tvg-chno-"41",TATETI JUNIOR         
-https://dcunilive254-lh.akamaihd.net/i/dclive_1@21315/index_150_av-p.m3u8
+https://www.youtube.com/watch?v=BQYvtMmoZW4
 
-#EXTINF:-1 tvg-chno-"42",TV JUNIOR 24 (TEMPORADAS DE SERIES SIN COMERCIALES)SISTEMA DE PAUSA INTELIGENTE.        
-https://youtu.be/urTdDSueSDI  
+#EXTINF:-1 tvg-chno-"42", JUNIOR 24 TEMPORADAS (SERIES SIN COMERCIALES)SISTEMA PAUSA INTELIGENTE.        
+https://www.youtube.com/watch?v=tiwplpGeyQs 
 
 #EXTINF:-1 tvg-chno-"43",CINE ANIMAX AL DIA (A LA CARTA )SISTEMA PAUSA INTELIGENTE 
-https://youtu.be/T5Ew4uQyuh4  
+https://www.youtube.com/watch?v=VE0TOEtXbC4
 
 #EXTINF:-1 tvg-chno-"44",DIOS TV KIDS         
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8  
