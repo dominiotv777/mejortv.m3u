@@ -174,8 +174,8 @@ http:\\ott-cdn.ucom.am\s82\04.m3u8
 #EXTINF:-1 tvg-chno-"58",RED BULL   
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
-#EXTINF:-1 tvg-chno-"59",CDO
-https://tls.cdnz.cl/cdofree/smil:cdn.smil/.m3u8 
+#EXTINF:-1 tvg-chno-"59",FITE
+https://nrpus.bozztv.com/36bay2/gusa-fite/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-chno-"60",MS MOTOR   
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/.m3u8 
