@@ -67,7 +67,7 @@ https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
 
 #EXTINF:-1 tvg-chno-"23",TELESISTEMA
-https://ss3.domint.net:3114/t11_str/telesistema/.m3u8
+https://ss5.domint.net:3016/tv11_str/canal11/.m3u8
 
 #EXTINF:-1 tvg-chno-"24",READY
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
@@ -121,13 +121,13 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://207.180.206.247/hls/locotv/stream.m3u8
 
 #EXTINF:-1 tvg-chno-"41",TATETI JUNIOR         
-https://www.youtube.com/watch?v=BQYvtMmoZW4
+https://www.youtube.com/watch?v=37yHTsDp1_8
 
 #EXTINF:-1 tvg-chno-"42", JUNIOR 24 TEMPORADAS (SERIES SIN COMERCIALES)SISTEMA PAUSA INTELIGENTE.        
-https://www.youtube.com/watch?v=tiwplpGeyQs 
+ https://www.youtube.com/watch?v=pT1p-AZWLG8  
 
 #EXTINF:-1 tvg-chno-"43",CINE ANIMAX AL DIA (A LA CARTA )SISTEMA PAUSA INTELIGENTE 
-https://www.youtube.com/watch?v=VE0TOEtXbC4
+https://www.youtube.com/watch?v=BbQYsp1TPrU  
 
 #EXTINF:-1 tvg-chno-"44",DIOS TV KIDS         
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8  
@@ -177,8 +177,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-chno-"59",FITE
 https://nrpus.bozztv.com/36bay2/gusa-fite/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"60",MS MOTOR   
-https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/.m3u8 
+#EXTINF:-1 tvg-chno-"60", EVASTREAM   
+https://hd.chileservidores.cl:1936/bajocerovideo/bajocerovideo/.m3u8  
 
 #EXTINF:-1 tvg-chno-"61",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
