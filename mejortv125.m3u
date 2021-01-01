@@ -165,8 +165,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-chno-"55",DIOS TV KIDS (CANAL MENSAJE)       
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"56",GAMERCINEMA 4K         
-https://www.youtube.com/watch?v=dOKNUblrFFg
+##EXTINF:-1 tvg-chno-"56",CACHIPUN (CLASICOS DE TU INFANCIA)         
+https://tls.cdnz.cl/cachipuntv/live/.m3u8
 
 #EXTINF:-1 tvg-chno-"57",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -174,13 +174,11 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
 http://207.180.206.247/hls/locotv/stream.m3u8
 
-#EXTINF:-1 tvg-chno-"59",CINE ANIMAX AL DIA (A LA CARTA )SISTEMA DE PAUSA INTELIGENTE 
-
-https://www.youtube.com/watch?v=t1t_tVlAtW0
+#EXTINF:-1 tvg-chno-"59", ANIMAX AL DIA PELICULAS Y SERIES(SISTEMA PAUSA INTELIGENTE)
+https://www.youtube.com/watch?v=C3ywI7tSsRA&t=25s
 
 #EXTINF:-1 tvg-chno-"60",JUNIOR 24 TEMPORADAS(SERIES SIN COMERCIALES)SISTEMA PAUSA INTELIGENTE.        
-
-https://www.youtube.com/watch?v=e0F8esrRO8A 
+https://www.youtube.com/watch?v=urTdDSueSDI 
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
