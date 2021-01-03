@@ -172,7 +172,7 @@ https://tls.cdnz.cl/cachipuntv/live/.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
-http://207.180.206.247/hls/locotv/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"59", ANIMAX AL DIA PELICULAS Y SERIES(SISTEMA PAUSA INTELIGENTE)
 https://www.youtube.com/watch?v=C3ywI7tSsRA&t=25s
