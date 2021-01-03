@@ -117,8 +117,8 @@ https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/.m3u8
 #EXTINF:-1 tvg-chno-"39",TICAVISION
 https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8
 
-#EXTINF:-1 tvg-chno-"40",TELESOLTV
-https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"40",LIMONTV
+https://59ef525c24caa.streamlock.net/limontv/limontv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"41",EXTREMA (CANAL MENSAJE)   
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
