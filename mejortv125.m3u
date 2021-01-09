@@ -129,8 +129,8 @@ http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
 #EXTINF:-1 tvg-chno-"43",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",MULTIVISION ARGENTINA            
-https://panel.dattalive.com/8250/8250/.m3u8  
+#EXTINF:-1 tvg-chno-"44",SOLTELEVISION           
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/.m3u8 
    
 #EXTINF:-1 tvg-chno-"45",EUROLATINA         
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8  
@@ -174,11 +174,11 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
 http://51.222.85.85:81/hls/loco/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"59", ANIMAX AL DIA PELICULAS Y SERIES(SISTEMA PAUSA INTELIGENTE)
-https://www.youtube.com/watch?v=C3ywI7tSsRA&t=25s
+#EXTINF:-1 tvg-chno-"59",SERIES24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES
+https://www.youtube.com/watch?v=q6MT4sOhPfY
 
-#EXTINF:-1 tvg-chno-"60",JUNIOR 24 TEMPORADAS(SERIES SIN COMERCIALES)SISTEMA PAUSA INTELIGENTE.        
-https://www.youtube.com/watch?v=urTdDSueSDI 
+#EXTINF:-1 tvg-chno-"60",JUNIOR24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES       
+https://www.youtube.com/watch?v=xGuabW5arow  
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
