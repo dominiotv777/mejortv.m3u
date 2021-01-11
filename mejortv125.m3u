@@ -33,8 +33,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",NORT MOVIES
-http://tv.radiotel.net:1935/nortv/nortv/.m3u8 
+##EXTINF:-1 tvg-chno-"12",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
@@ -57,8 +57,8 @@ https://ss6.domint.net:3052/otv_str/tv10/.m3u8
 #EXTINF:-1 tvg-chno-"19",EVASTREAM   
 https://hd.chileservidores.cl:1936/bajocerovideo/bajocerovideo/.m3u8
 
-#EXTINF:-1 tvg-chno-"20",VILLA TV
-https://cdn4.hostlagarto.com:8081/static/villatv3/chunks.m3u8
+#EXTINF:-1 tvg-chno-"20",CANAL 11 TUTV
+https://5948cea281c58.streamlock.net/canal11/canal11/.m3u8
 
 #EXTINF:-1 tvg-chno-"21",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
@@ -175,10 +175,10 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"59",SERIES24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES
-https://www.youtube.com/watch?v=q6MT4sOhPfY
+https://www.youtube.com/watch?v=e-cebyjhWxo
 
 #EXTINF:-1 tvg-chno-"60",JUNIOR24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES       
-https://www.youtube.com/watch?v=xGuabW5arow  
+https://www.youtube.com/watch?v=7NuA3O-tiSE  
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
