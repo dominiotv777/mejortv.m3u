@@ -9,8 +9,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"3",CHINOLA
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"4",TVS
-http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"4",CANANGATV
+https://ss4.domint.net:3024/cana_str/canangatv/.m3u8
 
 #EXTINF:-1 tvg-chno-"5",DTV HONDURAS    
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
@@ -33,8 +33,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-##EXTINF:-1 tvg-chno-"12",AKI TV
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"12",GLOBALTV
+https://ss6.domint.net:3016/gtv_str/globalhd/.m3u8  
 
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
@@ -48,17 +48,17 @@ https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 #EXTINF:-1 tvg-chno-"16",AME 47
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8 
 
-#EXTINF:-1 tvg-chno-"17",CASCARA TV
-https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8 
+#EXTINF:-1 tvg-chno-"17",CROWTV
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"18",ONDA TV
 https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
-#EXTINF:-1 tvg-chno-"19",EVASTREAM   
-https://hd.chileservidores.cl:1936/bajocerovideo/bajocerovideo/.m3u8
+#EXTINF:-1 tvg-chno-"19",TELERADIONORTE  
+https://cdn4.hostlagarto.com:8081/static/teleradionortetv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"20",CANAL 11 TUTV
-https://5948cea281c58.streamlock.net/canal11/canal11/.m3u8
+#EXTINF:-1 tvg-chno-"20",BUIN SOMOS TODOS
+https://bst.buin.cl/0.m3u8 
 
 #EXTINF:-1 tvg-chno-"21",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
@@ -82,7 +82,7 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 https://ss2.domint.net:3110/iutv_str/imagenuniversal/.m3u8
  
 #EXTINF:-1 tvg-chno-"28",RETRO 3 SERIES CLASICAS           
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8
+https://panel.streamingtv-mediacp.online:1936/876769/876769/.m3u8
 
 #EXTINF:-1 tvg-chno-"29",DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8          
@@ -114,11 +114,11 @@ https://tls.cdnz.cl/canal21tv/live/.m3u8
 #EXTINF:-1 tvg-chno-"38",PAT TV
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/.m3u8
 
-#EXTINF:-1 tvg-chno-"39",TICAVISION
-https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8
+#EXTINF:-1 tvg-chno-"39",RADIO AMERICATV
+https://srv4.zcast.com.br/erickzambra/erickzambra/.m3u8
 
 #EXTINF:-1 tvg-chno-"40",LIMONTV
-https://59ef525c24caa.streamlock.net/limontv/limontv/.m3u8 
+https://59ef525c24caa.streamlock.net/limontv/limontv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"41",EXTREMA (CANAL MENSAJE)   
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
@@ -129,8 +129,8 @@ http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
 #EXTINF:-1 tvg-chno-"43",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",SOLTELEVISION           
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/.m3u8 
+#EXTINF:-1 tvg-chno-"44",VISION NDV           
+https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8  
    
 #EXTINF:-1 tvg-chno-"45",EUROLATINA         
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8  
@@ -165,20 +165,21 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-chno-"55",DIOS TV KIDS (CANAL MENSAJE)       
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-##EXTINF:-1 tvg-chno-"56",CACHIPUN (CLASICOS DE TU INFANCIA)         
+#EXTINF:-1 tvg-chno-"56",CACHIPUN (CLASICOS DE TU INFANCIA)         
 https://tls.cdnz.cl/cachipuntv/live/.m3u8
 
 #EXTINF:-1 tvg-chno-"57",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
-http://51.222.85.85:81/hls/loco/index.m3u8 
+http://207.180.206.247/hls/locotv/stream.m3u8
 
 #EXTINF:-1 tvg-chno-"59",SERIES24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES
 https://www.youtube.com/watch?v=e-cebyjhWxo
 
 #EXTINF:-1 tvg-chno-"60",JUNIOR24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES       
-https://www.youtube.com/watch?v=7NuA3O-tiSE  
+
+https://www.youtube.com/watch?v=7NuA3O-tiSE 
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
@@ -199,7 +200,7 @@ http:\\static.france24.com\live\F24_ES_LO_HLS\live_web.m3u8
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-chno-"67",DW          
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
   
 #EXTINF:-1 tvg-chno-"68",24 H 
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/index_1500_av-p.m3u8
@@ -209,28 +210,6 @@ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
 #EXTINF:-1 tvg-chno-"70",26          
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
