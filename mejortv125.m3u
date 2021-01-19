@@ -82,7 +82,7 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 https://ss2.domint.net:3110/iutv_str/imagenuniversal/.m3u8
  
 #EXTINF:-1 tvg-chno-"28",RETRO 3 SERIES CLASICAS           
-https://panel.streamingtv-mediacp.online:1936/876769/876769/.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8 
 
 #EXTINF:-1 tvg-chno-"29",DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8          
@@ -102,11 +102,11 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
 #EXTINF:-1 tvg-chno-"34",REC ONLINE DIGITAL          
 https://master.tucableip.com/reconline/live/video.m3u8   
 
-#EXTINF:-1 tvg-chno-"35",SEÑAL COLOMBIA          
-https://streaming5.rtvc.gov.co/live-750/SC/index.m3u8
+#EXTINF:-1 tvg-chno-"35",BHTV          
+https://5c3fb01839654.streamlock.net:554/iptvbhtv/livebhtvtv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"36",ROMANA TV
-http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 tvg-chno-"36",ALEGRETV
+https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"37",C21           
 https://tls.cdnz.cl/canal21tv/live/.m3u8
@@ -172,14 +172,13 @@ https://tls.cdnz.cl/cachipuntv/live/.m3u8
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
-http://207.180.206.247/hls/locotv/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"59",SERIES24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES
-https://www.youtube.com/watch?v=e-cebyjhWxo
+#EXTINF:-1 tvg-chno-"59",SERIES24/7 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES
+https://www.youtube.com/watch?v=rkV7Dbeajg0
 
-#EXTINF:-1 tvg-chno-"60",JUNIOR24 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES       
-
-https://www.youtube.com/watch?v=7NuA3O-tiSE 
+#EXTINF:-1 tvg-chno-"60",ANIMAX SERIES SEMANALES SISTEMA PAUSA INTELIGENTE( TRANSMITIMOS DE VIMEO PREMIUM Y YOUTUBE PREMIUM)       
+https://www.youtube.com/watch?v=88fYZuzucRA
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
