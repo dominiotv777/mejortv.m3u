@@ -22,7 +22,7 @@ https://stmv1.zcastbr.com/cineclubtv/cineclubtv/.m3u8
 https://ss4.domint.net:3020/ltv_str/latinatv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"8",FM
-https://stmv.panel.mivideo.pro/fmtvmundo3/fmtvmundo3/.m3u8 
+https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8 
 
 #EXTINF:-1 tvg-chno-"9",TELENORD 10
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/.m3u8 
@@ -33,8 +33,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",GLOBALTV
-https://ss6.domint.net:3016/gtv_str/globalhd/.m3u8  
+#EXTINF:-1 tvg-chno-"12",CNRTV
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8  
 
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
@@ -54,8 +54,8 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"18",ONDA TV
 https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
-#EXTINF:-1 tvg-chno-"19",TELERADIONORTE  
-https://cdn4.hostlagarto.com:8081/static/teleradionortetv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"19",MULTIMEDIOS LA COLONIA 
+https://srv3.zcast.com.ar/carlosr/carlosr/.m3u8 
 
 #EXTINF:-1 tvg-chno-"20",BUIN SOMOS TODOS
 https://bst.buin.cl/0.m3u8 
