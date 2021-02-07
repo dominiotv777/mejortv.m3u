@@ -33,8 +33,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",CNRTV
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8  
+#EXTINF:-1 tvg-chno-"12",PINAMAR TV
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8  
 
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
@@ -141,8 +141,8 @@ https://5b38ce71f1f00.streamlock.net/8196/8196/.m3u8
 #EXTINF:-1 tvg-chno-"47",RETRO PLUS        
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/.m3u8
 
-#EXTINF:-1 tvg-chno-"48",RETRO PLUS 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/.m3u8  
+#EXTINF:-1 tvg-chno-"48",BRAGADO TV
+https://inliveserver.com:1936/9516/9516/.m3u8  
 
 #EXTINF:-1 tvg-chno-"49",TV EXITOS        
 http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
@@ -150,8 +150,8 @@ http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"50",HOT ROCK        
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"51",URBAN CRISTV (CANAL MENSAJE)      
-https://5790d294af2dc.streamlock.net/8160/8160/.m3u8 
+#EXTINF:-1 tvg-chno-"51",LA NUEVA TV (CANAL MENSAJE)      
+https://5b50404ec5e4c.streamlock.net/lanueva/ngrp:lanueva_all/.m3u8 
 
 #EXTINF:-1 tvg-chno-"52",AMOR I VIDA  (CANAL MENSAJE)     
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
@@ -174,8 +174,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"59",SERIES24/7 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES
-https://www.youtube.com/watch?v=rkV7Dbeajg0
+#EXTINF:-1 tvg-chno-"59",SERIES 24/7 TEMPORADAS DE SERIES SEMANALES SIN COMERCIALES
+https://www.youtube.com/watch?v=E0ENeSGIUlE
 
 #EXTINF:-1 tvg-chno-"60",ANIMAX SERIES SEMANALES SISTEMA PAUSA INTELIGENTE( TRANSMITIMOS DE VIMEO PREMIUM Y YOUTUBE PREMIUM)       
 https://www.youtube.com/watch?v=88fYZuzucRA
@@ -192,8 +192,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-chno-"64",FITE TV
 https://nrpus.bozztv.com/36bay2/gusa-fite/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"65",LA 1
-https://rtvelivestream.akamaized.net/la1_dvr_1850.m3u8
+#EXTINF:-1 tvg-chno-"65",TELE SUR INF
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"66",CGTN               
 https://livees.cgtn.com/1000e/prog_index.m3u8
