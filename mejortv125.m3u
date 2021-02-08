@@ -33,8 +33,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",PINAMAR TV
-http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8  
+#EXTINF:-1 tvg-chno-"12",MILENIUM TV
+https://panel.tuvideostreaming.com:19360/8002/8002.m3u8  
 
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
@@ -75,8 +75,8 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-chno-"25",TELEANTILLAS
 https://ss4.domint.net:3040/ta2_str/teleantillas/.m3u8
 
-#EXTINF:-1 tvg-chno-"26",TELECARIBE RD
-https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8 
+#EXTINF:-1 tvg-chno-"26",MULTIVISION TV
+https://panel.dattalive.com/8250/8250/.m3u8
 
 #EXTINF:-1 tvg-chno-"27",IMAGEN UNIVERSAL
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
