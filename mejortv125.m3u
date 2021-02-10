@@ -63,8 +63,8 @@ https://bst.buin.cl/0.m3u8
 #EXTINF:-1 tvg-chno-"21",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",ACB MOVIES
-https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/.m3u8
+#EXTINF:-1 tvg-chno-"22",HUASCO TV
+https://paneltv.online:1936/8062/8062/.m3u8
 
 #EXTINF:-1 tvg-chno-"23",TELESISTEMA
 https://ss5.domint.net:3016/tv11_str/canal11/.m3u8
@@ -75,8 +75,8 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-chno-"25",TELEANTILLAS
 https://ss4.domint.net:3040/ta2_str/teleantillas/.m3u8
 
-#EXTINF:-1 tvg-chno-"26",MULTIVISION TV
-https://panel.dattalive.com/8250/8250/.m3u8
+#EXTINF:-1 tvg-chno-"26",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"27",IMAGEN UNIVERSAL
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
