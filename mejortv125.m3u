@@ -24,8 +24,8 @@ https://ss4.domint.net:3020/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"8",FM
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8 
 
-#EXTINF:-1 tvg-chno-"9",TELENORD 10
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/.m3u8 
+#EXTINF:-1 tvg-chno-"9",CITRICO TV
+https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"10",TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8  
