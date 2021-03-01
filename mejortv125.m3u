@@ -174,10 +174,10 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"59",SERIES 24/7 TEMPORADAS DE SERIES SEMANALES (TRANSMITIMOS DE YOUTUBE PREMIUM)
-https://www.youtube.com/watch?v=qDGaagwWCTg
+#EXTINF:-1 tvg-chno-"59",SERIES 24/7 (TRANSMITIMOS DE YOUTUBETV PREMIUM)
+https://www.youtube.com/watch?v=bMu7AKPwUsU
 
-#EXTINF:-1 tvg-chno-"60",ANIMAX SERIES COMPLETAS. SISTEMA PAUSA INTELIGENTE( TRANSMITIMOS DE YOUTUBETV PREMIUM)       
+#EXTINF:-1 tvg-chno-"60",ANIMAX SERIES COMPLETAS. SISTEMA PAUSA INTELIGENTE (TRANSMITIMOS DE YOUTUBETV PREMIUM)       
 https://www.youtube.com/watch?v=Kzuu3AHKfw4
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
