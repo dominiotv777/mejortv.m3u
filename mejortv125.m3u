@@ -9,8 +9,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"3",CHINOLA
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"4",CANANGATV
-https://ss4.domint.net:3024/cana_str/canangatv/.m3u8
+#EXTINF:-1 tvg-chno-"4",LA CALETATV
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"5",DTV HONDURAS    
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
@@ -144,14 +144,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/.m3u
 #EXTINF:-1 tvg-chno-"48",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8  
 
-#EXTINF:-1 tvg-chno-"49",TV EXITOS        
-http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"49",PORTAL FOX MIX       
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
 #EXTINF:-1 tvg-chno-"50",HOT ROCK        
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-chno-"51",LA NUEVA TV (CANAL MENSAJE)      
-https://5b50404ec5e4c.streamlock.net/lanueva/ngrp:lanueva_all/.m3u8 
+https://5e85d90130e77.streamlock.net/6004/6004/.m3u8 
 
 #EXTINF:-1 tvg-chno-"52",AMOR Y VIDA  (CANAL MENSAJE)     
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
@@ -175,7 +175,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-chno-"59",SERIES 24/7 (TRANSMITIMOS DESDE YOUTUBETV PREMIUM)
-https://www.youtube.com/watch?v=bMu7AKPwUsU
+https://www.youtube.com/watch?v=UemijJ1pLpc
 
 #EXTINF:-1 tvg-chno-"60",ANIMAX SERIES COMPLETAS. SISTEMA PAUSA INTELIGENTE (TRANSMITIMOS DESDE YOUTUBETV PREMIUM)       
 https://www.youtube.com/watch?v=Kzuu3AHKfw4
