@@ -204,8 +204,9 @@ https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
 #EXTINF:-1 tvg-chno-"68",24 H 
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/index_1500_av-p.m3u8
 
-#EXTINF:-1 tvg-chno-"69",EURONEWS         
-https://manifest.googlevideo.comapimanifesthls_variantexpire1615101630/eiXipEYOXXMZLCzLUPxLiNoAsip2800%3A484%3Ab379%3Abf00%3A9b1%3A9073%3A678f%3A6034idJbKgQhFlMdU.2sourceyt_live_broadcastrequiresslyeshfr1playlist_duration30manifest_duration30maudio1vprv1go1nvgoi1keepaliveyesfexp24001374%2C24007246dover11itag0playlist_typeDVRsparamsexpire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_typesigAOq0QJ8wRgIhAIdoAHHvG88mU1mYgIdpXIZ8wY2Bzmpht-VS16EDGtsdAiEApIjgbMRnpJvT3fLpzohAp3dT8CQDw0gn24fd8d7xNmw%3Dfileindex.m3u8
+#EXTINF:-1 tvg-chno-"69",FRANCE 24
+https://www.youtube.com/watch?v=veksloiBc3Q
+
 #EXTINF:-1 tvg-chno-"70",26          
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/.m3u8
 
