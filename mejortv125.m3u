@@ -99,8 +99,8 @@ https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunk
 #EXTINF:-1 tvg-chno-"33", CINCO TV         
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"34",REC ONLINE DIGITAL          
-https://master.tucableip.com/reconline/live/video.m3u8   
+#EXTINF:-1 tvg-chno-"34",TV VISION         
+https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8   
 
 #EXTINF:-1 tvg-chno-"35",TELE TUYA        
 https://vcp.myplaytv.com/tlthd/tlthd/.m3u8
