@@ -39,8 +39,8 @@ https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",BOREAL
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w827805239_b4259840_DVR.m3u8  
+#EXTINF:-1 tvg-chno-"14",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",ORBIT
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8  
