@@ -39,7 +39,7 @@ https://panel.tuvideostreaming.com:19360/8002/8002.m3u8
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",AKI TV.
+#EXTINF:-1 tvg-chno-"14",AKI TV
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",ORBIT
