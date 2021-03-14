@@ -63,8 +63,8 @@ https://ss3.domint.net:3150/ta2_str/teleantillas/.m3u8
 #EXTINF:-1 tvg-chno-"21",VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",CNR TV
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
+#EXTINF:-1 tvg-chno-"22",TELEAMAZONAS
+https://playback.akamaized.net/streams/1359588_4428723_lsiupeusykjmay9mhrz_1/media/1359588_4428723_lsiupeusykjmay9mhrz_1@2756000p.m3u8?dw=14400&ts=1615687200&hdnts=exp=1615861289~acl=/streams/1359588_4428723_lsiupeusykjmay9mhrz_1/media*~hmac=283e17261afcf983fab08b3fd5732face25cef39f125d62faf95e418d949bd3b
 
 #EXTINF:-1 tvg-chno-"23",TELESISTEMA
 https://ss5.domint.net:3016/tv11_str/canal11/.m3u8
