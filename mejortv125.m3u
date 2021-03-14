@@ -136,7 +136,7 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8  
 
 #EXTINF:-1 tvg-chno-"46",TV EXITOS      
-http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8 
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8  
 
 #EXTINF:-1 tvg-chno-"47",RETRO PLUS        
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/.m3u8
