@@ -33,8 +33,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"12",MILENIUM TV
-https://panel.tuvideostreaming.com:19360/8002/8002.m3u8  
+#EXTINF:-1 tvg-chno-"12",PINAMAR TV
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
 
 #EXTINF:-1 tvg-chno-"13",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
