@@ -111,8 +111,8 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"37",C21           
 https://tls.cdnz.cl/canal21tv/live/.m3u8
 
-#EXTINF:-1 tvg-chno-"38",CASCARA TV
-https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8  
+#EXTINF:-1 tvg-chno-"38",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8 
