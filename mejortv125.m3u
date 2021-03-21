@@ -162,8 +162,8 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"54",CBN EN ESPAÑOL (CANAL MENSAJE)   
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-chno-"55",DIOS TV KIDS (CANAL MENSAJE)       
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"55",SOLDADOS DE JESUS TV(CANAL MENSAJE)       
+https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"56",GAMERCINEMA 4K        
  https://www.youtube.com/watch?v=XAwRaICn4U4 
@@ -174,8 +174,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"59",TOONC
-https://dbghae58x7vt67da.ezcdn483.net:8443/hls/d7zi3sak.m3u8?s=8ug-DZQq7iMqQEQKW-Rs9w&e=1616302669
+#EXTINF:-1 tvg-chno-"59",MI TV CLASICA
+https://mitv.getstreamhosting.com:30443/abr/stream/live/livestream_source/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"60",ANIMAX SERIES COMPLETAS. SISTEMA PAUSA INTELIGENTE (TRANSMITIMOS DESDE YOUTUBETV PREMIUM)       
 https://www.youtube.com/watch?v=7C_d0EVnD2I&t=5s
