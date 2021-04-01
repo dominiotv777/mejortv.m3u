@@ -99,8 +99,8 @@ https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunk
 #EXTINF:-1 tvg-chno-"33", CASCARA TV         
 https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8   
 
-#EXTINF:-1 tvg-chno-"34",LA CALETA TV       
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8     
+#EXTINF:-1 tvg-chno-"34",AKI TV    
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8      
 
 #EXTINF:-1 tvg-chno-"35",TELE TUYA        
 https://vcp.myplaytv.com/tlthd/tlthd/.m3u8
