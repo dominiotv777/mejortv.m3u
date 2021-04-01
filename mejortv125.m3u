@@ -75,11 +75,11 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-chno-"25",TV MAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"26",CNR TV
+#EXTINF:-1 tvg-chno-"26",REC ONLINE
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8 
 
 #EXTINF:-1 tvg-chno-"27",IMAGEN UNIVERSAL
-https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
+https://video.misistemareseller.com/Jonnytv/Jonnytv/.m3u8
  
 #EXTINF:-1 tvg-chno-"28",RETRO 3 PELICULAS CLASICAS           
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8 
