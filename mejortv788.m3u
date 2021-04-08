@@ -102,8 +102,8 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"34",AKI TV    
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8      
 
-#EXTINF:-1 tvg-chno-"35",EXPRESION TV        
-https://srv3.zcast.com.br/expreszion/expreszion/.m3u8
+#EXTINF:-1 tvg-chno-"35",SAJAMO TV INTERNACIONAL        
+https://vdo2.streamgato.us:3438/live/sajomatvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"36",ALEGRETV
 https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
