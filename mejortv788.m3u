@@ -93,8 +93,8 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"31",TELSUR COSTA RICA           
 https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8 
 
-#EXTINF:-1 tvg-chno-"32",EXPREZION TV
-https://srv3.zcast.com.br/expreszion/expreszion/.m3u8 
+#EXTINF:-1 tvg-chno-"32",ROCAVISION
+https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"33", CASCARA TV         
 https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8   
