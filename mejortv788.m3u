@@ -54,8 +54,8 @@ https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"18",ONDA TV
 https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
-#EXTINF:-1 tvg-chno-"19",ACV MOVIES
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8
+#EXTINF:-1 tvg-chno-"19",TV VISION RD
+https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
 
 #EXTINF:-1 tvg-chno-"20",TELEANTILLAS
 https://ss3.domint.net:3150/ta2_str/teleantillas/.m3u8 
@@ -69,8 +69,8 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-chno-"23",TELESISTEMA
 https://ss5.domint.net:3016/tv11_str/canal11/.m3u8
 
-#EXTINF:-1 tvg-chno-"24",CANAL57.CL
-https://593b04c4c5670.streamlock.net/8148/8148/.m3u8
+#EXTINF:-1 tvg-chno-"24",TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"25",TV MAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
