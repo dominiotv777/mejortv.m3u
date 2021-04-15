@@ -48,8 +48,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 #EXTINF:-1 tvg-chno-"16",AME 47
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8 
 
-#EXTINF:-1 tvg-chno-"17",CROWTV
-https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"17",CNR TV
+https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8 
 
 #EXTINF:-1 tvg-chno-"18",ONDA TV
 https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
@@ -135,8 +135,8 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-chno-"45",EUROLATINA         
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8  
 
-#EXTINF:-1 tvg-chno-"46",TV EXITOS      
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8  
+#EXTINF:-1 tvg-chno-"46",TVHD TROPICAL      
+https://5d79ae45bc63b.streamlock.net/radiotropical952/radiotropical952/.m3u8  
 
 #EXTINF:-1 tvg-chno-"47",RETRO PLUS        
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/.m3u8
@@ -147,8 +147,8 @@ https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
 #EXTINF:-1 tvg-chno-"49",PORTAL FOX MIX       
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
-#EXTINF:-1 tvg-chno-"50",LEVEL        
-https://servers.amelbasoluciones.co:19360/xleveltv/xleveltv.m3u8
+#EXTINF:-1 tvg-chno-"50",RCKTV        
+https://inliveserver.com:1936/11530/11530/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"51",LA NUEVA TV (CANAL MENSAJE)      
 https://5e85d90130e77.streamlock.net/6004/6004/.m3u8 
@@ -166,7 +166,7 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 https://livestreamcdn.net:444/SoldaditosdeJesusTV/SoldaditosdeJesusTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"56",TV JUNIOR 24/7         
-https://www.youtube.com/watch?v=MfFaROTT448
+https://www.youtube.com/watch?v=41cTAHS32e8
 
 #EXTINF:-1 tvg-chno-"57",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -177,8 +177,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-chno-"59",MI TV CLASICA
 https://mitv.getstreamhosting.com:30443/abr/stream/live/livestream_source/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"60",ANIMAX SERIES. SISTEMA PAUSA INTELIGENTE       
-https://www.youtube.com/watch?v=BJP2AtXg5T0
+#EXTINF:-1 tvg-chno-"60",ANIMAX PELICULAS. (VIGENTE HASTA 18 DE ABRIL)     
+https://www.youtube.com/watch?v=t7uBgGGQjkU
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
