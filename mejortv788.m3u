@@ -174,10 +174,10 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"58",LOCOMOTION         
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"59",MI TV CLASICA
-https://mitv.getstreamhosting.com:30443/abr/stream/live/livestream_source/chunks.m3u8
+#EXTINF:-1 tvg-chno-"59",ANIMAX SERIES (VIGENTE HASTA EL 30 DE ABRIL)
+https://www.youtube.com/watch?v=M9bCUkmtZ8I
 
-#EXTINF:-1 tvg-chno-"60",ANIMAX PELICULAS. (VIGENTE HASTA 18 DE ABRIL)     
+#EXTINF:-1 tvg-chno-"60",ANIMAX PELICULAS. (VIGENTE HASTA EL 18 DE ABRIL)     
 https://www.youtube.com/watch?v=t7uBgGGQjkU
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
