@@ -9,8 +9,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"3",CHINOLA
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"4",CANANGA TV
-https://ss2.domint.net:3220/cana_str/canangatv/.m3u8 
+#EXTINF:-1 tvg-chno-"4",ZEEMUNDO
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1593193795-now.m3u8 
 
 #EXTINF:-1 tvg-chno-"5",DTV HONDURAS    
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
