@@ -165,8 +165,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-chno-"55",MI TV CLASICA     
 https://mitv.getstreamhosting.com:30443/abr/stream/live/livestream_source/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"56",TV JUNIOR 24/7         
-https://www.youtube.com/watch?v=O97qCuJ_AeI
+#EXTINF:-1 tvg-chno-"56",KIDFLIX         
+https://www.youtube.com/watch?v=V080tUp_MuQ&list=PLG_nGpEe-ixR2PfnyUjKye0bNlyQAAKHU&index=2
 
 #EXTINF:-1 tvg-chno-"57",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -177,8 +177,8 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-chno-"59",ANIMAX SERIES (VIGENTE HASTA EL 15 DE MAYO)
 https://www.youtube.com/watch?v=kkhPlOI30V8
 
-#EXTINF:-1 tvg-chno-"60",ANIMAX PELICULAS. (VIGENTE HASTA EL 25 DE ABRIL)     
-https://www.youtube.com/watch?v=TbKGfoyIZpI
+#EXTINF:-1 tvg-chno-"60",ANIMAX PELICULAS. (VIGENTE HASTA EL 02 DE MAYO)     
+https://www.youtube.com/watch?v=herA8R22zeM
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
