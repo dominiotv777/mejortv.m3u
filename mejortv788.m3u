@@ -36,8 +36,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 #EXTINF:-1 tvg-chno-"12",CINECABLE
 https://cp.sradiotv.com:1936/quevedo/quevedo/.m3u8 
 
-#EXTINF:-1 tvg-chno-"13",C21
-https://tls.cdnz.cl/canal21tv/live/.m3u8 
+#EXTINF:-1 tvg-chno-"13",BUIN TV
+https://bst.buin.cl/0.m3u8 
 
 #EXTINF:-1 tvg-chno-"14",FM 3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8 
