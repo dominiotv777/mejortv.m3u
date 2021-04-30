@@ -132,8 +132,8 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 #EXTINF:-1 tvg-chno-"44",VISION NDV           
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8  
    
-#EXTINF:-1 tvg-chno-"45",EUROLATINA         
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8  
+#EXTINF:-1 tvg-chno-"45",INFINITA RADIO        
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"46",TV EXITOS      
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8  
