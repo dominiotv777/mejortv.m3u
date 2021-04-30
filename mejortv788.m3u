@@ -12,8 +12,8 @@ https://master.tucableip.com/reconline/live/video.m3u8
 #EXTINF:-1 tvg-chno-"4",BOREAL TV
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"5",CINE CARIBE    
-https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8 
+#EXTINF:-1 tvg-chno-"5",CROW TV    
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"6",CINECLUBTV
 https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/.m3u8
