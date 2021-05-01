@@ -18,8 +18,8 @@ https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"6",CINECLUBTV
 https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/.m3u8
 
-#EXTINF:-1 tvg-chno-"7",LATINA INTERNACIONAL
-https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8  
+#EXTINF:-1 tvg-chno-"7",CITRICO TV
+https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8  
 
 #EXTINF:-1 tvg-chno-"8",FM 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8 
