@@ -6,8 +6,8 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/.m3u8
 #EXTINF:-1 tvg-chno-"2",WOW
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"3",REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8
+#EXTINF:-1 tvg-chno-"3",ELIAS TV
+https://mediastreamm.com:19360/jntv/jntv.m3u8
 
 #EXTINF:-1 tvg-chno-"4",BOREAL TV
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8 
