@@ -138,8 +138,8 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/.m3u8
 #EXTINF:-1 tvg-chno-"46",TV EXITOS      
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8  
 
-#EXTINF:-1 tvg-chno-"47",RETRO PLUS        
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/.m3u8
+#EXTINF:-1 tvg-chno-"47",ZAPPING MUSIG       
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 
 #EXTINF:-1 tvg-chno-"48",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8  
