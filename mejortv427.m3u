@@ -165,8 +165,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-chno-"55",ANIMELOVING     
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-chno-"56",KIDFLIX (VIGENTE HASTA EL 02 DE MAYO)        
-https://www.youtube.com/watch?v=V080tUp_MuQ&list=PLG_nGpEe-ixR2PfnyUjKye0bNlyQAAKHU&index=2
+#EXTINF:-1 tvg-chno-"56",DREIKO        
+https://inliveserver.com:1936/dreikoarts/dreikoarts/.m3u8
 
 #EXTINF:-1 tvg-chno-"57",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
