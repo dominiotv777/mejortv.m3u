@@ -24,8 +24,8 @@ https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"8",FM 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8 
 
-#EXTINF:-1 tvg-chno-"9",TELE 2 WEB
-https://inliveserver.com:1936/11516/11516/.m3u8 
+#EXTINF:-1 tvg-chno-"9",GEOVISION
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/.m3u8
 
 #EXTINF:-1 tvg-chno-"10",HM
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
