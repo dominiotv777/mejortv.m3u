@@ -135,8 +135,8 @@ https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-chno-"45",INFINITA RADIO        
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"46",LATINOS UP     
-https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8
+#EXTINF:-1 tvg-chno-"46",TV EXITOS     
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8 
 
 #EXTINF:-1 tvg-chno-"47",ZAPPING MUSIG       
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
