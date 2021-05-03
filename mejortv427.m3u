@@ -12,8 +12,8 @@ https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 #EXTINF:-1 tvg-chno-"4",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
 
-#EXTINF:-1 tvg-chno-"5",AKI TV   
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"5",LATINOS UP   
+https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",CINECLUBTV
 https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/.m3u8
