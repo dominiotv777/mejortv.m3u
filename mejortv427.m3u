@@ -18,8 +18,8 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8
 #EXTINF:-1 tvg-chno-"6",CINECLUBTV
 https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/.m3u8
 
-#EXTINF:-1 tvg-chno-"7",CITRICO TV
-https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"7",BOREAL TELEVISION
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8  
 
 #EXTINF:-1 tvg-chno-"8",FM 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8 
