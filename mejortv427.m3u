@@ -129,8 +129,8 @@ http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
 #EXTINF:-1 tvg-chno-"43",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",CHINOLA TV          
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"44",LATINA INTERNACIONAL         
+https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8   
    
 #EXTINF:-1 tvg-chno-"45",INFINITA RADIO        
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/.m3u8  
@@ -165,8 +165,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-chno-"55",ANIMELOVING     
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-chno-"56",DREIKO        
-https://inliveserver.com:1936/dreikoarts/dreikoarts/.m3u8
+#EXTINF:-1 tvg-chno-"56",CHINOLA TV          
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"57",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
