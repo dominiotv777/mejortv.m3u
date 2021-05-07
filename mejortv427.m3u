@@ -132,23 +132,23 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 #EXTINF:-1 tvg-chno-"44",LATINA INTERNACIONAL         
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8   
    
-#EXTINF:-1 tvg-chno-"45",INFINITA RADIO        
-https://rtmp02.portalexpress.es/infinitatv/infinitatv/.m3u8  
+#EXTINF:-1 tvg-chno-"45",ANIMELOVING     
+http://azxtv.com/hls/stream.m3u8 
 
-#EXTINF:-1 tvg-chno-"46",TV EXITOS     
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8 
+#EXTINF:-1 tvg-chno-"46",CHINOLA TV          
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"47",ZAPPING MUSIG       
-https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
+#EXTINF:-1 tvg-chno-"47",PEQUERADIO          
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno-"48",TOP LATINO
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8  
+#EXTINF:-1 tvg-chno-"48",LOCOMOTION         
+http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"49",PORTAL FOX MIX       
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1 tvg-chno-"49",ANIMIX SERIES "AZUR LINE"(VIGENTE HASTA EL 15 DE MAYO)
+https://www.youtube.com/watch?v=kkhPlOI30V8
 
-#EXTINF:-1 tvg-chno-"50",RCKTV        
-https://inliveserver.com:1936/11530/11530/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"50",PLANETA JUNIOR     
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
 
 #EXTINF:-1 tvg-chno-"51",URBAN (CANAL MENSAJE)      
 https://5790d294af2dc.streamlock.net/8160/8160/.m3u8 
@@ -162,23 +162,23 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"54",CBN EN ESPAÑOL (CANAL MENSAJE)   
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-chno-"55",ANIMELOVING     
-http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-chno-"55",INFINITA RADIO        
+https://rtmp02.portalexpress.es/infinitatv/infinitatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"56",CHINOLA TV          
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"56",TV EXITOS     
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-chno-"57",PEQUERADIO          
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-chno-"57",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/.m3u8
 
-#EXTINF:-1 tvg-chno-"58",LOCOMOTION         
-http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-chno-"58",ZAPPING MUSIG       
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 
-#EXTINF:-1 tvg-chno-"59",ANIMIX SERIES "AZUR LINE"(VIGENTE HASTA EL 15 DE MAYO)
-https://www.youtube.com/watch?v=kkhPlOI30V8
+#EXTINF:-1 tvg-chno-"59",PORTAL FOX MIX       
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
-#EXTINF:-1 tvg-chno-"60",PLANETA JUNIOR     
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-chno-"60",RCKTV        
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
