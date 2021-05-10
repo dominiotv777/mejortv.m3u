@@ -36,8 +36,8 @@ https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8
 #EXTINF:-1 tvg-chno-"12",AKI TV
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"13",MILENIUM TV
-https://video.turadioonline.com.ar:5443/LiveApp/streams/017475634527020836600699.m3u8
+#EXTINF:-1 tvg-chno-"13",ENFOQUE DIGITAL
+https://stmv1.zcastbr.com/edtvchile/edtvchile/.m3u8
 
 #EXTINF:-1 tvg-chno-"14",FM 3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8 
