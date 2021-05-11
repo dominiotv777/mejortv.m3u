@@ -174,8 +174,8 @@ http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/1.m3u8
 #EXTINF:-1 tvg-chno-"58",MIX CONCIERTOS     
 http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/7.m3u8
 
-#EXTINF:-1 tvg-chno-"59",PURO ROCK       
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
+#EXTINF:-1 tvg-chno-"59",ZAPPING MUSIC      
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 
 #EXTINF:-1 tvg-chno-"60",RCKTV        
 https://inliveserver.com:1936/11530/11530/playlist.m3u8
