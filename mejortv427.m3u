@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno-"1" ,FM 2
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/.m3u8 
 
-#EXTINF:-1 tvg-chno-"2",REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8
+#EXTINF:-1 tvg-chno-"2",TENARENSES
+https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8 
 
 #EXTINF:-1 tvg-chno-"3",ELIA TV
 https://mediastreamm.com:3488/live/mejiatvlive.m3u8
