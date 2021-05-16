@@ -21,8 +21,8 @@ https://stmv.panel.mivideo.pro/cinetv/cinetv/.m3u8
 #EXTINF:-1 tvg-chno-"7",BOREAL TELEVISION
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8  
 
-#EXTINF:-1 tvg-chno-"8",FM 1
-https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8 
+#EXTINF:-1 tvg-chno-"8",ACB
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8
 
 #EXTINF:-1 tvg-chno-"9",THEMA TV
 https://unlimited1-us.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
