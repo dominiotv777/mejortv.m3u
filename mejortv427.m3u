@@ -15,8 +15,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"5",LATINOS UP   
 https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8
 
-#EXTINF:-1 tvg-chno-"6",CINECLUBTV
-https://stmv.panel.mivideo.pro/cinetv/cinetv/.m3u8
+#EXTINF:-1 tvg-chno-"6",CENTRAL TV 
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
 
 #EXTINF:-1 tvg-chno-"7",BOREAL TELEVISION
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8  
