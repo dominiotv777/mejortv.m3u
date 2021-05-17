@@ -27,8 +27,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 #EXTINF:-1 tvg-chno-"9",LA ROMANA
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"10",HM
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"10",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8  
 
 #EXTINF:-1 tvg-chno-"11",MICROVISION
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
