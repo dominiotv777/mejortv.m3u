@@ -51,8 +51,8 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"17",CNR TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8 
 
-#EXTINF:-1 tvg-chno-"18",ONDA TV
-https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
+#EXTINF:-1 tvg-chno-"18",MULTIMEDIOS 
+https://srv3.zcast.com.ar/carlosr/carlosr/.m3u8  
 
 #EXTINF:-1 tvg-chno-"19",SAN ISIDRO TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
