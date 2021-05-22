@@ -30,8 +30,8 @@ https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"10",AKI TV
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"11",MICROVISION
-https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
+#EXTINF:-1 tvg-chno-"11",SARIMA TV
+https://stream.oursnetworktv.com/latin/SarimaTv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"12",DTV PELIS
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
