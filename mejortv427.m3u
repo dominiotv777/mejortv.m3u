@@ -93,8 +93,8 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"31",UNIKA TV         
 https://video.misistemareseller.com/unikatv/unikatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"32",LTV 
-https://medios.sirtel.cl/live/stream/index.m3u8 
+#EXTINF:-1 tvg-chno-"32",TELENORT 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/.m3u8  
 
 #EXTINF:-1 tvg-chno-"33", CASCARA TV         
 https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8   
