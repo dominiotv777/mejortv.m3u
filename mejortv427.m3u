@@ -27,8 +27,8 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 #EXTINF:-1 tvg-chno-"9",TELE ARTE
 https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
 
-#EXTINF:-1 tvg-chno-"10",AKI TV
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"10",TV COTUI
+https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8   
 
 #EXTINF:-1 tvg-chno-"11",CENTRAL TV 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8  
