@@ -48,8 +48,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 #EXTINF:-1 tvg-chno-"16",HMTV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"17",CNR TV
-https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8 
+#EXTINF:-1 tvg-chno-"17",LA MIA TV
+https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
 
 #EXTINF:-1 tvg-chno-"18",MULTIMEDIOS 
 https://srv3.zcast.com.ar/carlosr/carlosr/.m3u8  
