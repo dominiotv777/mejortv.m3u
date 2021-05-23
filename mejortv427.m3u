@@ -21,11 +21,11 @@ https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"7",BOREAL TELEVISION
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8  
 
-#EXTINF:-1 tvg-chno-"8",FM 1
+#EXTINF:-1 tvg-chno-"8",FM 1 SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 
-#EXTINF:-1 tvg-chno-"9",LA ROMANA
-https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"9",TELE ARTE
+https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
 
 #EXTINF:-1 tvg-chno-"10",AKI TV
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8  
