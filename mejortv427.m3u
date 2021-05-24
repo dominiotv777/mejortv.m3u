@@ -39,8 +39,8 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"13",ENFOQUE DIGITAL
 https://stmv1.zcastbr.com/edtvchile/edtvchile/.m3u8
 
-#EXTINF:-1 tvg-chno-"14",FM 3
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8 
+#EXTINF:-1 tvg-chno-"14",DAMAS TV
+https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8  
