@@ -27,14 +27,14 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 #EXTINF:-1 tvg-chno-"9",TELE ARTE
 https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
 
-#EXTINF:-1 tvg-chno-"10",TV COTUI
-https://vdo2.streamgato.us:3095/live/tvcotuilive.m3u8   
+#EXTINF:-1 tvg-chno-"10",AME 47
+https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8    
 
 #EXTINF:-1 tvg-chno-"11",CENTRAL TV 
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"12",SARIMA TV
-https://stream.oursnetworktv.com/latin/SarimaTv/.m3u8
+#EXTINF:-1 tvg-chno-"12",DELTA TV
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"13",ENFOQUE DIGITAL
 https://stmv1.zcastbr.com/edtvchile/edtvchile/.m3u8
@@ -45,8 +45,8 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8
 #EXTINF:-1 tvg-chno-"15",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"16",HMTV
-https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"16",REC ONLINE
+https://master.tucableip.com/reconline/live/video.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
