@@ -168,8 +168,8 @@ https://panel.streamingtv-mediacp.online:1936/8212/8212/.m3u8
 #EXTINF:-1 tvg-chno-"56",TV EXITOS     
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-chno-"57",TV HD TROPICAL
-https://5d79ae45bc63b.streamlock.net/radiotropical952/radiotropical952/.m3u8
+#EXTINF:-1 tvg-chno-"57",POWER HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/.m3u8
 
 #EXTINF:-1 tvg-chno-"58",MIX CONCIERTOS     
 http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/7.m3u8
