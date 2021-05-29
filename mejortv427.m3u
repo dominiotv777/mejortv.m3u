@@ -102,8 +102,8 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"34",CANANGA TV    
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8     
 
-#EXTINF:-1 tvg-chno-"35", VISION NDV     
-https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
+#EXTINF:-1 tvg-chno-"35", SAS TV    
+https://stream.oursnetworktv.com/latin/sasTVgtm/.m3u8
 
 #EXTINF:-1 tvg-chno-"36",NPTV TELEVISION
 https://vdo1.streamgato.us:3060/live/nptvlive.m3u8
