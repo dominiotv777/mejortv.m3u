@@ -36,8 +36,8 @@ https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"12",CANAL 23 TV
 https://stream.oursnetworktv.com/latin/canal23Tv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"13",ENFOQUE DIGITAL
-https://stmv1.zcastbr.com/edtvchile/edtvchile/.m3u8
+#EXTINF:-1 tvg-chno-"13",ALTERNATIVA TV
+https://srv2.zcast.com.br/carlos2469/carlos2469/.m3u8  
 
 #EXTINF:-1 tvg-chno-"14",DAMAS TV
 https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
