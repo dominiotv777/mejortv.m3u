@@ -30,8 +30,8 @@ https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
 #EXTINF:-1 tvg-chno-"10",AME 47
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8    
 
-#EXTINF:-1 tvg-chno-"11",CENTRAL TV 
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8  
+#EXTINF:-1 tvg-chno-"11",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8   
 
 #EXTINF:-1 tvg-chno-"12",KNAL 4 QUICHE
 https://stream.oursnetworktv.com/latin/canal4kgtm/.m3u8
