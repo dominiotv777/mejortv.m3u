@@ -171,8 +171,8 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-chno-"57",POWER HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"58",MIX CONCIERTOS     
-http://159.69.56.148:25461/live/Mix247Web/5g5gfd5sy5sd/7.m3u8
+#EXTINF:-1 tvg-chno-"58",ONDA TV    
+https://ss6.domint.net:3052/otv_str/tv10/.m3u8  
 
 #EXTINF:-1 tvg-chno-"59",ZAPPING MUSIC      
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
