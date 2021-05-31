@@ -30,8 +30,8 @@ https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
 #EXTINF:-1 tvg-chno-"10",FM3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8   
 
-#EXTINF:-1 tvg-chno-"11",AKI TV
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8   
+#EXTINF:-1 tvg-chno-"11",EXPRESION TV GUATEMALA
+https://stream.oursnetworktv.com/latin/expresionTV/.m3u8  
 
 #EXTINF:-1 tvg-chno-"12",CANAL 23 TV
 https://stream.oursnetworktv.com/latin/canal23Tv/.m3u8 
