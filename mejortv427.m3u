@@ -15,8 +15,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"5",LATINOS UP   
 https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8
 
-#EXTINF:-1 tvg-chno-"6",LATINA INTERNACIONAL
-https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8 
+#EXTINF:-1 tvg-chno-"6",HMTV
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"7",BOREAL TELEVISION
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8  
