@@ -102,8 +102,8 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"34",CANANGA TV    
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8     
 
-#EXTINF:-1 tvg-chno-"35", CANAL 6 TV    
-https://5ed520b9e8d89.streamlock.net/canal6/smil:canal6.smil/.m3u8
+#EXTINF:-1 tvg-chno-"35", CANAL 10 TV   
+https://stream.oursnetworktv.com/latin/Canal10tvt/.m3u8
 
 #EXTINF:-1 tvg-chno-"36",NPTV TELEVISION
 https://vdo1.streamgato.us:3060/live/nptvlive.m3u8
