@@ -33,8 +33,8 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8
 #EXTINF:-1 tvg-chno-"11",EXPRESION TV GUATEMALA
 https://stream.oursnetworktv.com/latin/expresionTV/.m3u8  
 
-#EXTINF:-1 tvg-chno-"12",CANAL 23 TV
-https://stream.oursnetworktv.com/latin/canal23Tv/.m3u8 
+#EXTINF:-1 tvg-chno-"12",ROCAVISION
+https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"13",BOREAL TV
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8 
