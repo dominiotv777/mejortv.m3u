@@ -45,8 +45,8 @@ https://stream.oursnetworktv.com/latin/damaTV/.m3u8
 #EXTINF:-1 tvg-chno-"15",ORBIT TV
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"16",CENTRAL TV 
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
+#EXTINF:-1 tvg-chno-"16",REC ONLINE 
+https://master.tucableip.com/reconline/live/video.m3u8 
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
