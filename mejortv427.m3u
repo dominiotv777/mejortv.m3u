@@ -36,8 +36,8 @@ https://stream.oursnetworktv.com/latin/expresionTV/.m3u8
 #EXTINF:-1 tvg-chno-"12",CANAL 23 TV
 https://stream.oursnetworktv.com/latin/canal23Tv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"13",ALTERNATIVA TV
-https://srv2.zcast.com.br/carlos2469/carlos2469/.m3u8  
+#EXTINF:-1 tvg-chno-"13",BOREAL TV
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-chno-"14",DAMAS TV
 https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
