@@ -81,8 +81,8 @@ https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"27",IMAGEN UNIVERSAL
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
  
-#EXTINF:-1 tvg-chno-"28",RETRO 3 PELICULAS CLASICAS           
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8 
+#EXTINF:-1 tvg-chno-"28",CANAL 16 MAS TV          
+https://stream.oursnetworktv.com/latin/canaL16/.m3u8 
 
 #EXTINF:-1 tvg-chno-"29",DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8          
