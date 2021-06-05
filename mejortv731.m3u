@@ -129,8 +129,8 @@ http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
 #EXTINF:-1 tvg-chno-"43",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",CANAL 50.1      
-https://stream.oursnetworktv.com/latin/juarez50/.m3u8   
+#EXTINF:-1 tvg-chno-"44",TVS RD     
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8   
    
 #EXTINF:-1 tvg-chno-"45",ANIMELOVING     
 http://azxtv.com/hls/stream.m3u8 
