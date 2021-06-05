@@ -102,8 +102,8 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"34",CANANGA TV    
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8     
 
-#EXTINF:-1 tvg-chno-"35", CANAL 10 TV   
-https://stream.oursnetworktv.com/latin/Canal10tvt/.m3u8
+#EXTINF:-1 tvg-chno-"35", CANAL 34   
+https://stream.oursnetworktv.com/latin/Canal34/.m3u8 
 
 #EXTINF:-1 tvg-chno-"36",CANAL 38 MEGA
 https://stream.oursnetworktv.com/latin/gtmmegavision/.m3u8
