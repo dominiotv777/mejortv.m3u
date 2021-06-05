@@ -90,8 +90,8 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"30",PH
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"31",UNIKA TV         
-https://video.misistemareseller.com/unikatv/unikatv/.m3u8
+#EXTINF:-1 tvg-chno-"31",MILENIUM TV         
+https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8 
 
 #EXTINF:-1 tvg-chno-"32",TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8  
