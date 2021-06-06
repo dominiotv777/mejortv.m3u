@@ -36,8 +36,8 @@ https://stream.oursnetworktv.com/latin/expresionTV/.m3u8
 #EXTINF:-1 tvg-chno-"12",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"13",BOREAL TV
-https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-chno-"13",CITRICO
+https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8  
 
 #EXTINF:-1 tvg-chno-"14",DAMAS TV
 https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
