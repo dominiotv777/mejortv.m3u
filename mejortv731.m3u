@@ -117,8 +117,8 @@ https://stv.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"40",LIMONTV
-https://59ef525c24caa.streamlock.net/limontv/limontv/.m3u8  
+#EXTINF:-1 tvg-chno-"40",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8   
 
 #EXTINF:-1 tvg-chno-"41",EXTREMA    
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
