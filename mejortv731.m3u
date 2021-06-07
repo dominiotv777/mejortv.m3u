@@ -108,8 +108,8 @@ https://stream.oursnetworktv.com/latin/televisionCanal9/.m3u8
 #EXTINF:-1 tvg-chno-"36",SAS TV
 https://stream.oursnetworktv.com/latin/sasTVgtm/.m3u8 
 
-#EXTINF:-1 tvg-chno-"37",CINCO TV         
-https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
+#EXTINF:-1 tvg-chno-"37",GH TV         
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
 
 #EXTINF:-1 tvg-chno-"38",STGO TV
 https://stv.janus.cl/playlist/stream.m3u8 
