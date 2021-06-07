@@ -36,8 +36,8 @@ https://stream.oursnetworktv.com/latin/expresionTV/.m3u8
 #EXTINF:-1 tvg-chno-"12",LATINA INTERNACIONAL
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"13",CITRICO
-https://cdn4.hostlagarto.com:8081/static/citricotv/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"13",CINCO TV
+https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"14",DAMAS TV
 https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
