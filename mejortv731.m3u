@@ -90,7 +90,7 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"30",PH
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"31",BETS       
+#EXTINF:-1 tvg-chno-"31",BETS TV 
 https://mediastreamm.com:3488/live/mejiatvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"32",TELENORD 8
