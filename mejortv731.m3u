@@ -96,8 +96,8 @@ https://mediastreamm.com:3488/live/mejiatvlive.m3u8
 #EXTINF:-1 tvg-chno-"32",TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8  
 
-#EXTINF:-1 tvg-chno-"33", CASCARA TV         
-https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8   
+#EXTINF:-1 tvg-chno-"33",SUR TV        
+https://stream.oursnetworktv.com/latin/Surtv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"34",CANANGA TV    
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8     
