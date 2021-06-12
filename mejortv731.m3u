@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno-"1" ,FM 2
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/.m3u8
 
-#EXTINF:-1 tvg-chno-"2",ROCAVISION 
-https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"2",13 MAX AG 
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/.m3u8
 
 #EXTINF:-1 tvg-chno-"3",CINE CLUB TV
 https://stmv.panel.mivideo.pro/cineperu/cineperu/.m3u8 
