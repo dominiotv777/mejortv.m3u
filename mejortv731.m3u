@@ -111,8 +111,8 @@ https://stream.oursnetworktv.com/latin/gtmmegavision/.m3u8
 #EXTINF:-1 tvg-chno-"37",SAS TV        
 https://stream.oursnetworktv.com/latin/sasTVgtm/.m3u8
 
-#EXTINF:-1 tvg-chno-"38",STGO TV
-https://stv.janus.cl/playlist/stream.m3u8 
+#EXTINF:-1 tvg-chno-"38",CANAL 13 SL
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/.m3u8  
 
 #EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8 
