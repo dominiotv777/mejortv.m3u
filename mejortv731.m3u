@@ -123,8 +123,8 @@ https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"41",EXTREMA    
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
  
-#EXTINF:-1 tvg-chno-"42",VISION TV GUATEMALA 
-http://64.71.148.2:1935/latin/visionTVGtm/.m3u8
+#EXTINF:-1 tvg-chno-"42",DAMAS TV 
+https://stream.oursnetworktv.com/latin/damaTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"43",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
