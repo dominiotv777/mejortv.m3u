@@ -66,8 +66,8 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 #EXTINF:-1 tvg-chno-"22", PINAMAR TV
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 
-#EXTINF:-1 tvg-chno-"23",ACV 
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8 
+#EXTINF:-1 tvg-chno-"23",SUR TV
+https://stream.oursnetworktv.com/latin/Surtv/.m3u8
 
 #EXTINF:-1 tvg-chno-"24",CROW TV
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
