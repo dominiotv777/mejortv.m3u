@@ -117,8 +117,8 @@ https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/.m3u8
 #EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"40",CASCARA TV
-https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8    
+#EXTINF:-1 tvg-chno-"40",RETRO PLUS
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8   
 
 #EXTINF:-1 tvg-chno-"41",EXTREMA    
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
