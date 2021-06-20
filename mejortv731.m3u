@@ -24,8 +24,8 @@ https://stmv.panel.mivideo.pro/xtvplus/xtvplus/.m3u8
 #EXTINF:-1 tvg-chno-"8",FM 1 SUPER CLASSIC
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 
-#EXTINF:-1 tvg-chno-"9",TELE ARTE
-https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
+#EXTINF:-1 tvg-chno-"9",FM3
+https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",BELLAVISION
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8   
