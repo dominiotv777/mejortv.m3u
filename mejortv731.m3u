@@ -66,8 +66,8 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 #EXTINF:-1 tvg-chno-"22", PINAMAR TV
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 
-#EXTINF:-1 tvg-chno-"23",SUR TV
-https://stream.oursnetworktv.com/latin/Surtv/.m3u8
+#EXTINF:-1 tvg-chno-"23",TVN TV
+https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_1/38727516ae8c4aecabfc6982198cbb7b/chunklist_dvr_ssaiV.m3u8
 
 #EXTINF:-1 tvg-chno-"24",CROW TV
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
