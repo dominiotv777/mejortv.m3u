@@ -39,8 +39,8 @@ https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"13",CINCO TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",CINE CARIBE
-https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
+#EXTINF:-1 tvg-chno-"14",SUR TV
+https://stream.oursnetworktv.com/latin/Surtv/.m3u8
 
 #EXTINF:-1 tvg-chno-"15",AKI TV
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
