@@ -21,8 +21,8 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"7",CANAL9TV
 https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8  
 
-#EXTINF:-1 tvg-chno-"8",FM 1 SUPER CLASSIC
-https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
+#EXTINF:-1 tvg-chno-"8",BOREAL TV
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"9",FM3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8 
