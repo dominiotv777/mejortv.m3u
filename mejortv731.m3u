@@ -6,8 +6,8 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/.m3u8
 #EXTINF:-1 tvg-chno-"2",TELESOL AR
 https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"3",CINE CLUB TV
-https://stmv.panel.mivideo.pro/cineperu/cineperu/.m3u8 
+#EXTINF:-1 tvg-chno-"3",TENERENSES
+https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"4",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
