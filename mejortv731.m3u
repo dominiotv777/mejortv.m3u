@@ -21,8 +21,8 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"7",CANAL9TV
 https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8  
 
-#EXTINF:-1 tvg-chno-"8",BOREAL TV
-https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"8",RETRO PLUS 3
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8
 
 #EXTINF:-1 tvg-chno-"9",FM3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8 
