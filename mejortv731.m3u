@@ -162,8 +162,8 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"54",CBN EN ESPAÑOL (CANAL MENSAJE)   
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-chno-"55",PORTAL FOX MIX    
-https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
+#EXTINF:-1 tvg-chno-"55",LATINOS 1   
+https://panel.streamingtv-mediacp.online:1936/8212/8212/.m3u8
 
 #EXTINF:-1 tvg-chno-"56",TV EXITOS     
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
