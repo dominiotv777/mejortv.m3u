@@ -130,7 +130,7 @@ https://stream.oursnetworktv.com/latin/damaTV/.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 
 #EXTINF:-1 tvg-chno-"44",ENTELEVISION
-https://panel.streamingtv-mediacp.online:1936/8162/8162/.m3u      
+https://panel.streamingtv-mediacp.online:1936/8162/8162/.m3u8     
    
 #EXTINF:-1 tvg-chno-"45",ANIMELOVING     
 http://azxtv.com/hls/stream.m3u8 
