@@ -129,8 +129,8 @@ https://stream.oursnetworktv.com/latin/damaTV/.m3u8
 #EXTINF:-1 tvg-chno-"43",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",CASCARA TV  
-https://ss5.domint.net:3036/ctv_str/cascaratv/.m3u8     
+#EXTINF:-1 tvg-chno-"44",CTV 
+https://stream.oursnetworktv.com/latin/CTV2/.m3u8       
    
 #EXTINF:-1 tvg-chno-"45",ANIMELOVING     
 http://azxtv.com/hls/stream.m3u8 
