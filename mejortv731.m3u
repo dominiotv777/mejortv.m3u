@@ -96,8 +96,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 #EXTINF:-1 tvg-chno-"32",TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",CINE CLUB      
-https://stmv.panel.mivideo.pro/cineperu/cineperu/.m3u8
+#EXTINF:-1 tvg-chno-"33",15TV MEXICO     
+https://hls.gvstream.live/telesistemas/15tv.stream/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",CANANGA TV    
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8     
