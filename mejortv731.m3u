@@ -54,8 +54,8 @@ https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
 #EXTINF:-1 tvg-chno-"18",MULTIMEDIOS 
 https://srv3.zcast.com.ar/carlosr/carlosr/.m3u8  
 
-#EXTINF:-1 tvg-chno-"19",DTV
-https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 tvg-chno-"19",BOREAL TV
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-chno-"20",REC ONLINE
 https://master.tucableip.com/reconline/live/video.m3u8
