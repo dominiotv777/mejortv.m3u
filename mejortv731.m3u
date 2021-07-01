@@ -6,8 +6,8 @@ https://stmv.panel.grupolimalive.com/cineperu/cineperu/.m3u8
 #EXTINF:-1 tvg-chno-"2",CANA TV
 https://www.hostokilive.com:19360/8002/8002.m3u8
 
-#EXTINF:-1 tvg-chno-"3",CANAL 100 TV
-https://stream.oursnetworktv.com/latin/Chinique/.m3u8 
+#EXTINF:-1 tvg-chno-"3",CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"4",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
