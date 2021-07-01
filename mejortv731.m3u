@@ -45,8 +45,8 @@ https://stream.oursnetworktv.com/latin/Surtv/.m3u8
 #EXTINF:-1 tvg-chno-"15",AKI TV
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"16",DELTA TV
-https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"16",TVMAS CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
