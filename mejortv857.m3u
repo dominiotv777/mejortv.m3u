@@ -144,8 +144,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"48",LOCOMOTION         
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"49",DREIKO
-https://inliveserver.com:1936/dreikoarts/dreikoarts/.m3u8
+#EXTINF:-1 tvg-chno-"49",CANAL 66 TELEMAR
+https://stream.oursnetworktv.com/latin/canal66/.m3u8
 
 #EXTINF:-1 tvg-chno-"50",PLANETA JUNIOR     
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
