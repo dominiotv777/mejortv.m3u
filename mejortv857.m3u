@@ -145,7 +145,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-chno-"49",ITV
-https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
+http://azxtv.com/hls/stream.m3u8 
 
 #EXTINF:-1 tvg-chno-"50",PLANETA JUNIOR     
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
