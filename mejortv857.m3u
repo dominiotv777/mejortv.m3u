@@ -12,8 +12,8 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"4",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
 
-#EXTINF:-1 tvg-chno-"5",5900.TV CANAL 5  
-https://stmvideo1.livecastv.com/canal5/canal5/.m3u8
+#EXTINF:-1 tvg-chno-"5",SPTV
+https://srv4.zcast.com.br/sptv/sptv/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",HMTV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
