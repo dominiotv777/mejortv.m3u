@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno-"1" ,CINE CLUB
 https://stmv.panel.grupolimalive.com/cineperu/cineperu/.m3u8 
 
-#EXTINF:-1 tvg-chno-"2",CENTRAL TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
+#EXTINF:-1 tvg-chno-"2",5900 TV
+https://stmvideo1.livecastv.com/canal5/canal5/.m3u8 
 
 #EXTINF:-1 tvg-chno-"3",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8 
