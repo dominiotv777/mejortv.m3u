@@ -30,8 +30,8 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8
 #EXTINF:-1 tvg-chno-"10",BELLAVISION
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8   
 
-#EXTINF:-1 tvg-chno-"11",FM2
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/.m3u8
+#EXTINF:-1 tvg-chno-"11",ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/.m3u8
 
 #EXTINF:-1 tvg-chno-"12",LATINA INTERNACIONAL
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
