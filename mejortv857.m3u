@@ -24,8 +24,8 @@ https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8
 #EXTINF:-1 tvg-chno-"8",RETRO PLUS 3 SERIES CLASICAS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8
 
-#EXTINF:-1 tvg-chno-"9",FM3
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8 
+#EXTINF:-1 tvg-chno-"9",DTV
+https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"10",BELLAVISION
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8   
