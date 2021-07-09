@@ -141,8 +141,8 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"47",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno-"48",LOCOMOTION         
-http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-chno-"48",CSTV TEMPORADAS       
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/.m3u8
 
 #EXTINF:-1 tvg-chno-"49",ANIMELOVING
 http://azxtv.com/hls/stream.m3u8 
