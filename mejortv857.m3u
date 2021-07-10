@@ -78,8 +78,8 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-chno-"26",FM 1 SUPER CLASICOS
 https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/.m3u8
 
-#EXTINF:-1 tvg-chno-"27",CALETA TV
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"27",FM 2
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/.m3u8
  
 #EXTINF:-1 tvg-chno-"28",AME 47       
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
