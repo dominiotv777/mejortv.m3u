@@ -129,8 +129,8 @@ https://stream.oursnetworktv.com/latin/damaTV/.m3u8
 #EXTINF:-1 tvg-chno-"43",TELEMAX ARGENTINA
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",AKI TV
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8   
+#EXTINF:-1 tvg-chno-"44",TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8    
    
 #EXTINF:-1 tvg-chno-"45",CANAL 34 
 https://stream.oursnetworktv.com/latin/Canal34/.m3u8
