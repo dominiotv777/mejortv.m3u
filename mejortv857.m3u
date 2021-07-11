@@ -27,8 +27,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-chno-"9",DTV
 https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"10",BELLAVISION
-https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8   
+#EXTINF:-1 tvg-chno-"10",MORRO TV
+https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
 
 #EXTINF:-1 tvg-chno-"11",ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/.m3u8
