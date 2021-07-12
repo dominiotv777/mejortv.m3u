@@ -9,8 +9,8 @@ https://stmvideo1.livecastv.com/canal5/canal5/.m3u8
 #EXTINF:-1 tvg-chno-"3",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"4",WOW TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
+#EXTINF:-1 tvg-chno-"4",TVO 39
+https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-chno-"5",SPTV
 https://srv4.zcast.com.br/sptv/sptv/.m3u8
