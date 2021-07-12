@@ -102,8 +102,8 @@ https://paneltv.online:1936/8138/8138/.m3u8
 #EXTINF:-1 tvg-chno-"34",CANANGA TV    
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8     
 
-#EXTINF:-1 tvg-chno-"35", PLAY MEDIOS 30 
-https://stream.oursnetworktv.com/latin/televisionCanal9/.m3u8
+#EXTINF:-1 tvg-chno-"35", TV MAULE SUR
+https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8 
 
 #EXTINF:-1 tvg-chno-"36",CANAL 38 TV
 https://stream.oursnetworktv.com/latin/gtmmegavision/.m3u8
