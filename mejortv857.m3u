@@ -12,8 +12,8 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"4",TVO 39
 https://rctvhdstream.com:8081/tvoromanalive/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"5",SPTV
-https://srv4.zcast.com.br/sptv/sptv/.m3u8
+#EXTINF:-1 tvg-chno-"5",TV GLOB0
+https://5ee0faac3bbae.streamlock.net/8046/8046/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",HMTV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
