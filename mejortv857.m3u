@@ -90,8 +90,8 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"30",PH
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"31",ORBIT
-https://ss3.domint.net:3134/otv_str/orbittv/.m3u8  
+#EXTINF:-1 tvg-chno-"31",PINAMAR 
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
 
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
