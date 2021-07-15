@@ -141,8 +141,8 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"47",PEQUERADIO          
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno-"48",DREIKO   
-https://inliveserver.com:1936/dreikoarts/dreikoarts/.m3u8 
+#EXTINF:-1 tvg-chno-"48",ANIMELOVING 
+http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno-"49",IPE KD
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
