@@ -30,8 +30,8 @@ https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"10",MORRO TV
 https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
 
-#EXTINF:-1 tvg-chno-"11",AKI TV
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"11",ITV
+https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 
 #EXTINF:-1 tvg-chno-"12",CINE CARIBE
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
