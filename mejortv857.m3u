@@ -102,8 +102,8 @@ https://paneltv.online:1936/8138/8138/.m3u8
 #EXTINF:-1 tvg-chno-"34",CANALNUEVE  
 https://live.canalnueve.tv/canal.m3u8     
 
-#EXTINF:-1 tvg-chno-"35", SUR TV
-https://stream.oursnetworktv.com/latin/Surtv/.m3u8 
+#EXTINF:-1 tvg-chno-"35", REC ONLINE
+https://master.tucableip.com/reconline/live/video.m3u8
 
 #EXTINF:-1 tvg-chno-"36",CANAL 38 TV
 https://stream.oursnetworktv.com/latin/gtmmegavision/.m3u8
