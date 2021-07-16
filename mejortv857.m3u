@@ -42,8 +42,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
 #EXTINF:-1 tvg-chno-"14",CANAL 100 TV
 https://stream.oursnetworktv.com/latin/Chinique/.m3u8
 
-#EXTINF:-1 tvg-chno-"15",EL 3 DE CONCE
-https://5eae379fb77bb.streamlock.net/8016/8016/.m3u8  
+#EXTINF:-1 tvg-chno-"15",HMTV
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"16",TVMAS CHILE
 https://593b04c4c5670.streamlock.net/8008/8008/.m3u8
