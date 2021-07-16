@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1" ,CENTRAL
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
+#EXTINF:-1 tvg-chno-"1" ,FM2
+https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/.m3u8
 
 #EXTINF:-1 tvg-chno-"2",5900 TV
 https://stmvideo1.livecastv.com/canal5/canal5/.m3u8 
