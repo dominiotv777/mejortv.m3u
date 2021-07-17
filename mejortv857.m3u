@@ -99,8 +99,8 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-chno-"33",PLAY MEDIOS CANAL 50   
 https://stream.oursnetworktv.com/latin/televisionCanal9/.m3u8 
 
-#EXTINF:-1 tvg-chno-"34",CANALNUEVE  
-https://live.canalnueve.tv/canal.m3u8     
+#EXTINF:-1 tvg-chno-"34",VALLEVISION  
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8   
 
 #EXTINF:-1 tvg-chno-"35", LATINOS UP FLIX
 https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8 
