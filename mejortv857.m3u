@@ -27,8 +27,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-1 tvg-chno-"9",BOREAL TV
 https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"10",MORRO TV
-https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
+#EXTINF:-1 tvg-chno-"10",TELEARTE
+https://stream.oursnetworktv.com/latin/TeleArte/.m3u8   
 
 #EXTINF:-1 tvg-chno-"11",ITV
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
