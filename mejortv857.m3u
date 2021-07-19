@@ -165,8 +165,8 @@ https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 #EXTINF:-1 tvg-chno-"55",PORTAL FOX MIX   
 https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/.m3u8
 
-#EXTINF:-1 tvg-chno-"56",TV EXITOS     
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1 tvg-chno-"56",LATINOS TV     
+https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8 
 
 #EXTINF:-1 tvg-chno-"57",POWER HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/.m3u8
