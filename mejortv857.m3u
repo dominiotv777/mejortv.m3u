@@ -18,8 +18,8 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"6",SOL TELEVISION USA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
 
-#EXTINF:-1 tvg-chno-"7",CANAL9TV
-https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8  
+#EXTINF:-1 tvg-chno-"7",TV MAULE SUR
+https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8
 
 #EXTINF:-1 tvg-chno-"8",RETRO PLUS 3 SERIES CLASICAS
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8
