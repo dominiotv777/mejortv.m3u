@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1" ,ITV
-https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
+#EXTINF:-1 tvg-chno-"1" ,GEOVISION
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/.m3u8 
 
 #EXTINF:-1 tvg-chno-"2",5900 TV
 https://stmvideo1.livecastv.com/canal5/canal5/.m3u8 
