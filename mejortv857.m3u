@@ -96,8 +96,8 @@ https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",ZPTV  
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/.m3u8
+#EXTINF:-1 tvg-chno-"33",PLAY MEDIOS CANAL 50 
+https://stream.oursnetworktv.com/latin/televisionCanal9/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",VALLEVISION  
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8   
