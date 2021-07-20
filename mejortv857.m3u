@@ -129,8 +129,8 @@ https://stream.oursnetworktv.com/latin/damaTV/.m3u8
 #EXTINF:-1 tvg-chno-"43",TELESUR COSTA RICA
 https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",AKI TV
-https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"44",TELE TUYA
+https://vcp.myplaytv.com/tlthd/tlthd/.m3u8 
    
 #EXTINF:-1 tvg-chno-"45",SPTV
 https://srv4.zcast.com.br/sptv/sptv/.m3u8 
