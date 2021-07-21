@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-chno-"1" ,VISION NDV 
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"2",ITERAMERICANA
+#EXTINF:-1 tvg-chno-"2",INTERAMERICANA
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 
 #EXTINF:-1 tvg-chno-"3",CASCARA TV
