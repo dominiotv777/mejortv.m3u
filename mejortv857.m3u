@@ -39,8 +39,8 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-chno-"13",CINCO TV
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",CANAL 100 TV
-https://stream.oursnetworktv.com/latin/Chinique/.m3u8
+#EXTINF:-1 tvg-chno-"14",5900
+https://stmvideo1.livecastv.com/canal5/canal5/.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",HMTV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
