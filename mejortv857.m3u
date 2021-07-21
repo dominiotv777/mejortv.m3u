@@ -24,8 +24,8 @@ https://hostokilive.com:19360/8002/8002.m3u8
 #EXTINF:-1 tvg-chno-"8",CANAL 38 MEGATVC OURS
 https://stream.oursnetworktv.com/latin/gtmmegavision/.m3u8 
 
-#EXTINF:-1 tvg-chno-"9",BOREAL TV
-https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"9",EVASTREAM
+https://stmv.panel.mivideo.pro/evastream/evastream/.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",NUBLE RTV
 https://live.tvcontrolcp.com:1936/guzman/guzman/.m3u8 
