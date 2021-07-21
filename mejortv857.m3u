@@ -198,8 +198,8 @@ https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/.m3u8
 #EXTINF:-1 tvg-chno-"66",CGTN               
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-chno-"67",DW          
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8
+#EXTINF:-1 tvg-chno-"67",TELE SUR         
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
   
 #EXTINF:-1 tvg-chno-"68",HISPANTV
 https://live.presstv.ir/live/smil:live.smil/.m3u8
