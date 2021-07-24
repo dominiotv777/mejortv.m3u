@@ -132,8 +132,8 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8
 #EXTINF:-1 tvg-chno-"44",TELE TUYA
 https://vcp.myplaytv.com/tlthd/tlthd/.m3u8 
    
-#EXTINF:-1 tvg-chno-"45",CANAL 34 OURS
-https://stream.oursnetworktv.com/latin/Canal34/.m3u8 
+#EXTINF:-1 tvg-chno-"45",ANIMELOVING
+http://azxtv.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno-"46",CHINOLA TV          
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
