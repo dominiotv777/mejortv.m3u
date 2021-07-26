@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1" ,REC ONLINE
+#EXTINF:-1 tvg-chno-"1" ,REC ONLINE TV
 https://master.tucableip.com/reconline/live/video.m3u8
 
 #EXTINF:-1 tvg-chno-"2",INTERAMERICANA
