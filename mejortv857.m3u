@@ -171,8 +171,8 @@ https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
 #EXTINF:-1 tvg-chno-"57",POWER HD
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"58",RADIO PLAY   
-https://cdn4.hostlagarto.com:8081/static/playtv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"58",ONDA TV   
+https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
 #EXTINF:-1 tvg-chno-"59",REVOLUCION
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8
