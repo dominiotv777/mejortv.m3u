@@ -129,8 +129,8 @@ https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"43",TELESUR COSTA RICA
 https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8
 
-#EXTINF:-1 tvg-chno-"44",TELE TUYA
-https://vcp.myplaytv.com/tlthd/tlthd/.m3u8 
+#EXTINF:-1 tvg-chno-"44",DAMAS TV
+https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
    
 #EXTINF:-1 tvg-chno-"45",PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8  
