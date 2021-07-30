@@ -60,8 +60,8 @@ https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8
 #EXTINF:-1 tvg-chno-"20",FM 3
 https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8
 
-#EXTINF:-1 tvg-chno-"21",TENARENSES
-https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
+#EXTINF:-1 tvg-chno-"21",IMAGEN UNIVERSAL
+https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"22",MORRO TV
 https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
