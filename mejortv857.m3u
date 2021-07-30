@@ -168,8 +168,8 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/.m3u8
 #EXTINF:-1 tvg-chno-"56",LATINOS TV     
 https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8 
 
-#EXTINF:-1 tvg-chno-"57",POWER HD
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/.m3u8
+#EXTINF:-1 tvg-chno-"57",PANAVISION
+https://vcp.myplaytv.com/panavision/ngrp:panavision_all/.m3u8
 
 #EXTINF:-1 tvg-chno-"58",HOT ROCK  
 https://rpn1.bozztv.com/36bay2/gusa-hotrock/tracks-v1a1/mono.m3u8
