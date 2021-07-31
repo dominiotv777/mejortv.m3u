@@ -123,8 +123,8 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/.m3u8
 #EXTINF:-1 tvg-chno-"41",LA VOZ DE TUCUMAN   
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
  
-#EXTINF:-1 tvg-chno-"42",TELEVEN
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
+#EXTINF:-1 tvg-chno-"42",KNAL4
+https://stream.oursnetworktv.com/latin/canal4kgtm/.m3u8
 
 #EXTINF:-1 tvg-chno-"43", CROSSING TV
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8 
