@@ -57,8 +57,8 @@ https://srv3.zcast.com.ar/carlosr/carlosr/.m3u8
 #EXTINF:-1 tvg-chno-"19",CANAL9TV-GT
 https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8
  
-#EXTINF:-1 tvg-chno-"20",FM 3
-https://rtmp02.portalexpress.es/fmtv3/fmtv3/.m3u8
+#EXTINF:-1 tvg-chno-"20",CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"21",IMAGEN UNIVERSAL
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
