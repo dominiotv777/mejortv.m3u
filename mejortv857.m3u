@@ -75,8 +75,8 @@ https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
 #EXTINF:-1 tvg-chno-"25",TV MAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"26",REC ONLINE
-https://master.tucableip.com/reconline/live/video.m3u8 
+#EXTINF:-1 tvg-chno-"26",FM SUPER CLASICOS
+https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/.m3u8
 
 #EXTINF:-1 tvg-chno-"27",LATINA INTERNACIONAL
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
