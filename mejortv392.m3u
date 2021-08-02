@@ -96,8 +96,8 @@ https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",GALAXIA TV
-http://amixtv.com:8080/galaxiatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"33",DN STUDIO
+https://stream.oursnetworktv.com/latin/Dnstudiotv/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",VALLEVISION  
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8   
