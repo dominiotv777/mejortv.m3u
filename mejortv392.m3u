@@ -69,8 +69,8 @@ https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"23",TVN TV
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"24",TELEARTE
-https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
+#EXTINF:-1 tvg-chno-"24",PLAY MEDIOS CANAL 50
+https://stream.oursnetworktv.com/latin/televisionCanal9/.m3u8 
 
 #EXTINF:-1 tvg-chno-"25",TV MAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
