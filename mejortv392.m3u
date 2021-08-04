@@ -177,8 +177,8 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
 #EXTINF:-1 tvg-chno-"59",CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"60",RCKTV        
-https://inliveserver.com:1936/11530/11530/playlist.m3u8
+#EXTINF:-1 tvg-chno-"60",MUZZIC TV ROCK  
+https://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"61",SENTANA SPORT 1    
 http:\\ott-cdn.ucom.am\s81\04.m3u8
