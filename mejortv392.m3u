@@ -60,8 +60,8 @@ https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8
 #EXTINF:-1 tvg-chno-"20",HMTV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"21",IMAGEN UNIVERSAL
-https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
+#EXTINF:-1 tvg-chno-"21",CASCARA
+https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 
 #EXTINF:-1 tvg-chno-"22",MORRO TV
 https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
