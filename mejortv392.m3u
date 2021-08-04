@@ -189,8 +189,8 @@ http:\\ott-cdn.ucom.am\s82\04.m3u8
 #EXTINF:-1 tvg-chno-"63", RED BULL 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8 
 
-#EXTINF:-1 tvg-chno-"64",ADSPORTS
-https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/.m3u8 
+#EXTINF:-1 tvg-chno-"64",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"65",RT
  https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
