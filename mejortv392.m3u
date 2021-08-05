@@ -78,8 +78,8 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-chno-"26",FM SUPER CLASICOS
 https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/.m3u8
 
-#EXTINF:-1 tvg-chno-"27",DTV
-https://emisoras.hn:8081/dtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"27",VISION 3000
+https://ss3.domint.net:3102/v3_str/v3000/.m3u8
  
 #EXTINF:-1 tvg-chno-"28",AME 47       
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
