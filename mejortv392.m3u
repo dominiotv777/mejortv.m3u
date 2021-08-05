@@ -192,8 +192,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/.m3u8
 #EXTINF:-1 tvg-chno-"64",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"65",RT
- https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1 tvg-chno-"65",CANAL 13 SAN LUIS
+https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/.m3u8 
 
 #EXTINF:-1 tvg-chno-"66",CGTN               
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -207,8 +207,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 #EXTINF:-1 tvg-chno-"69",FRANCE24
 http:\\static.france24.com\live\F24_ES_LO_HLS\live_web.m3u8 
 
-#EXTINF:-1 tvg-chno-"70",TELETUR TV    
-https://cdn4.hostlagarto.com:8081/static/teletur/chunks.m3u8
+#EXTINF:-1 tvg-chno-"70",RT   
+ https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
 
 
