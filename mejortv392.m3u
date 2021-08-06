@@ -96,8 +96,8 @@ https://stmv.panel.mivideo.pro/evastream/evastream/.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",DN STUDIO
-https://stream.oursnetworktv.com/latin/Dnstudiotv/.m3u8
+#EXTINF:-1 tvg-chno-"33",TICA VISION
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",SUR TV  
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
