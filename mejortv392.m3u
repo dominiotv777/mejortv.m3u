@@ -96,8 +96,8 @@ https://vdo.billingchs.com:3408/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",TICA VISION
-https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8
+#EXTINF:-1 tvg-chno-"33",MICROVISION
+https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
 #EXTINF:-1 tvg-chno-"34",SUR TV  
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
