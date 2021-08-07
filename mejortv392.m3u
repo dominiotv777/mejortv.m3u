@@ -96,7 +96,7 @@ https://vdo.billingchs.com:3408/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",MICROVISION (6am fogata,7am informativo,8am peliculas,10am cocina en casa,11am informativo,2:30pm animados y peliculas, 6pm variado, 10pm peliculas) 
+#EXTINF:-1 tvg-chno-"33",MICROVISION. programacion lunea a viernes. (6 am fogata, 7 am informativo, 8 am peliculas, 10 am cocina en casa, 11 am variado , 2:30 pm animados y peliculas, 6 pm variado, 10pm peliculas) SABADO. 7 am animados, 12 pm musica, 2 pm  peliculas, 7 pm variado, 9 peliculas  
 https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
 
 #EXTINF:-1 tvg-chno-"34",SUR TV  
