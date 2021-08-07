@@ -9,8 +9,8 @@ https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 #EXTINF:-1 tvg-chno-"3",PINAMAR
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
 
-#EXTINF:-1 tvg-chno-"4",WOW
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
+#EXTINF:-1 tvg-chno-"4",GEOVISION
+https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/.m3u8 
 
 #EXTINF:-1 tvg-chno-"5",LATINA INTERNACIONAL
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
