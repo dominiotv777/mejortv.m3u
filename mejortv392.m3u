@@ -18,8 +18,8 @@ https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"6",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"7", CALETA
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"7", TVS
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"8",CANAL 38 MEGATVC OURS
 https://stream.oursnetworktv.com/latin/gtmmegavision/.m3u8 
