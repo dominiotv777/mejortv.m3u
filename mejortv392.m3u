@@ -168,8 +168,8 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/.m3u8
 #EXTINF:-1 tvg-chno-"56",LATINOS TV     
 https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8 
 
-#EXTINF:-1 tvg-chno-"57",LATINOS 1
-https://panel.streamingtv-mediacp.online:1936/8212/8212/.m3u8 
+#EXTINF:-1 tvg-chno-"57",RCKTV
+https://inliveserver.com:1936/11530/11530/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"58",OXIGENO 
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
