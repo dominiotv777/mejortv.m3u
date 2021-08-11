@@ -132,8 +132,8 @@ https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 #EXTINF:-1 tvg-chno-"44",DAMAS TV
 https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
    
-#EXTINF:-1 tvg-chno-"45",PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8  
+#EXTINF:-1 tvg-chno-"45",SUPER TOONS
+http:\\kedoo-supertoonstv-2-es.samsung.wurl.com\manifest\playlist.m3u8   
 
 #EXTINF:-1 tvg-chno-"46",CHINOLA TV          
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
