@@ -153,8 +153,8 @@ https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5dd6dae8ce788b0009
 #EXTINF:-1 tvg-chno-"51",ANIME ZONA TV     
 http://azxtv.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-chno-"52",EXTREMA      
-https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
+#EXTINF:-1 tvg-chno-"52",DIOSTV KIDS     
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-chno-"53",URBANCRISTV (CANAL MENSAJE)     
 https://5790d294af2dc.streamlock.net/8160/8160/.m3u8 
