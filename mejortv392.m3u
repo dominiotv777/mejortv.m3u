@@ -96,8 +96,8 @@ https:\\streams.the6tv.duckdns.org:2443\locals\SanDiego\xhtit-tdt.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",MICROVISION. Programacion lunes a viernes. 6 am Entrevista, 7 am Noticias, 8 am peliculas, 10 am cocina en casa, 11 am variado , 2:30 pm animados y peliculas, 6 pm variado, 10 pm peliculas. Sabado. 7 am animados, 12 pm musica, 2 pm  peliculas, 7 pm variado, 9 pm peliculas. Domingo. 7 am Religioso, 9 am musica, 11 am peliculas, 8 pm variado, 9 pm peliculas  
-https://streaming.telecablecentral.com.do/live/MicroHD/.m3u8 
+#EXTINF:-1 tvg-chno-"33",LIM TV
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 #EXTINF:-1 tvg-chno-"34",SUR TV  
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
