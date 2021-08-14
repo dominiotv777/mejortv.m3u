@@ -96,8 +96,8 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",LIM TV
-https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
+#EXTINF:-1 tvg-chno-"33",READY
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",SUR TV  
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
