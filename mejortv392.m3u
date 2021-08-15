@@ -69,8 +69,8 @@ https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"23",TVN TV
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"24",CANAL 23 TV
-https://stream.oursnetworktv.com/latin/canal23Tv/.m3u8 
+#EXTINF:-1 tvg-chno-"24",FRECUENCIA LATINA
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
 #EXTINF:-1 tvg-chno-"25",TV MAX
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
