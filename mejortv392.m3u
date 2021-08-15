@@ -102,8 +102,8 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-1 tvg-chno-"34",SUR TV  
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"35", LATINOS UP FLIX
-https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8 
+#EXTINF:-1 tvg-chno-"35", ACV
+https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8 
 
 #EXTINF:-1 tvg-chno-"36",TELEMAX ARG 
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8 
