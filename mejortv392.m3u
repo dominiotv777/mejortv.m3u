@@ -192,8 +192,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/.m3u8
 #EXTINF:-1 tvg-chno-"64",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"65",CANAL 13 SAN LUIS
-https://stream.arcast.live/sanluistv/ngrp:sanluistv_all/.m3u8 
+#EXTINF:-1 tvg-chno-"65",STGO
+https://stv.janus.cl/playlist/stream.m3u8 
 
 #EXTINF:-1 tvg-chno-"66",CGTN               
 https://livees.cgtn.com/1000e/prog_index.m3u8
