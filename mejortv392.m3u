@@ -33,10 +33,10 @@ https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 #EXTINF:-1 tvg-chno-"11",CANANGA
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"12",CINE CARIBE
+#EXTINF:-1 tvg-chno-"12",CINE CARIBE (PELICULAS, DOCUMENTAL, INFORMATIVO)
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 
-#EXTINF:-1 tvg-chno-"13",CINCO TV
+#EXTINF:-1 tvg-chno-"13",CINCO TV (PELICULAS, INFORMATIVO)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"14",5900
@@ -48,7 +48,7 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"16",CELESTE CHANNEL (PELICULAS, RELIGION, INFORMATIVO)
 https://inliveserver.com:1936/15004/15004/.m3u8
 
-#EXTINF:-1 tvg-chno-"17",LA MIA TV
+#EXTINF:-1 tvg-chno-"17",LA MIA TV ( (PELICULAS, MUSICA)
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
 
 #EXTINF:-1 tvg-chno-"18",MULTIMEDIOS 
@@ -78,7 +78,7 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-chno-"26",FM SUPER CLASICOS (SERIES ANIMADAS, PELICULAS, VARIADO)
 https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/.m3u8
 
-#EXTINF:-1 tvg-chno-"27",VALLEVISION
+#EXTINF:-1 tvg-chno-"27",VALLEVISION (PELICULAS, NOTICIAS, INFORMATIVO, ESTRENOS)
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
  
 #EXTINF:-1 tvg-chno-"28",AME 47       
