@@ -18,7 +18,7 @@ https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"6",CENTRAL TV
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"7", TVS
+#EXTINF:-1 tvg-chno-"7", TVS (ESTRENOS,PELICULAS ,INFORMATIVO)
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"8",CANAL 38 MEGATVC OURS
@@ -45,8 +45,8 @@ https://stmvideo1.livecastv.com/canal5/canal5/.m3u8
 #EXTINF:-1 tvg-chno-"15",RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"16",TVMAS CHILE
-https://593b04c4c5670.streamlock.net/8008/8008/.m3u8
+#EXTINF:-1 tvg-chno-"16",CELESTE CHANNEL (PELICULAS, RELIGION, INFORMATIVO)
+https://inliveserver.com:1936/15004/15004/.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
