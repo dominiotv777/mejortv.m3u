@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-chno-"1" ,CANAL 100 (VARIADO, ESTRENOS, PELICULAS, NOTICIAS, DEPORTES)
 https://stream.oursnetworktv.com/latin/Chinique/.m3u8 
 
-#EXTINF:-1 tvg-chno-"2",INTERAMERICANA
+#EXTINF:-1 tvg-chno-"2",INTERAMERICANA (ANIMADOS, PELICULAS, RELIGION, NOTICIAS, VARIADO) 
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 
 #EXTINF:-1 tvg-chno-"3",PINAMAR
