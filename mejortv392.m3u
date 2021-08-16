@@ -63,7 +63,7 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"21",CASCARA
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",MORRO TV
+#EXTINF:-1 tvg-chno-"22",MORRO TV (MUSICA, PELICULAS, INFORMATIVO)
 https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
 
 #EXTINF:-1 tvg-chno-"23",TVN TV
@@ -93,7 +93,7 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"31",ALEGRE TV RD
 https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"32",GEN TV
+#EXTINF:-1 tvg-chno-"32",GEN TV (SERIES ANIMADAS, PELICULAS, INFORMATIVO, VARIADO)
 https://videohd.live:19360/8010/8010.m3u8  
 
 #EXTINF:-1 tvg-chno-"33",READY
@@ -123,8 +123,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 #EXTINF:-1 tvg-chno-"41",LA VOZ DE TUCUMAN   
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
  
-#EXTINF:-1 tvg-chno-"42",VISION NDV
-https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
+#EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
+https:\\rakuten-comedymovies-2-es.samsung.wurl.com\manifest\playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"43", TENARENSES
 https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
