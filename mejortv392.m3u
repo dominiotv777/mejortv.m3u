@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1" ,CANAL 100
+#EXTINF:-1 tvg-chno-"1" ,CANAL 100 (CANAL VARIADO, ESTRENOS, PELICULAS, NOTICIAS, DEPORTES)
 https://stream.oursnetworktv.com/latin/Chinique/.m3u8 
 
 #EXTINF:-1 tvg-chno-"2",INTERAMERICANA
