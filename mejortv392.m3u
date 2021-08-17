@@ -12,7 +12,7 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-chno-"4",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"5",LATINA INTERNACIONAL
+#EXTINF:-1 tvg-chno-"5",LATINA INTERNACIONAL (RELIGION, PELICULAS, ESTRENOS, INFORMATIVO, TELENTO)
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 
 #EXTINF:-1 tvg-chno-"6",CENTRAL TV
