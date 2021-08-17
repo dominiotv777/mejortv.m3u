@@ -87,8 +87,8 @@ https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
 #EXTINF:-1 tvg-chno-"29",DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8          
 
-#EXTINF:-1 tvg-chno-"30",PH
-https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-chno-"30",CINE CLUB
+https://mediacpstreamchile.com:1936/walter/walter/.m3u8
 
 #EXTINF:-1 tvg-chno-"31",ALEGRE TV RD
 https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8 
