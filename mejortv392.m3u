@@ -96,7 +96,7 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV (SERIES ANIMADAS, PELICULAS, INFORMATIVO, VARIADO)
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",READY (CINEREADY, ESTRENOS, PELICULAS ANIMADAS, RELIGION, CULTURA, NOTICIAS, VARIADO)
+#EXTINF:-1 tvg-chno-"33",READY (CINEREADY, ESTRENOS, PELICULAS ANIMADAS, RELIGION, CULTURA, NOTICIAS, VARIADO, DEPORTES)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",SUR TV  
