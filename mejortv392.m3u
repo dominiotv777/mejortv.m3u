@@ -171,8 +171,8 @@ https://5790d294af2dc.streamlock.net/8160/8160/.m3u8
 #EXTINF:-1 tvg-chno-"57",TELEMUSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/.m3u8  
 
-#EXTINF:-1 tvg-chno-"58",OXIGENO 
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
+#EXTINF:-1 tvg-chno-"58",ONDA
+https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
 #EXTINF:-1 tvg-chno-"59",CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
