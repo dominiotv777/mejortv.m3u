@@ -66,13 +66,13 @@ https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 #EXTINF:-1 tvg-chno-"22",MORRO TV (MUSICA, PELICULAS, INFORMATIVO)
 https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
 
-#EXTINF:-1 tvg-chno-"23",TVN TV
+#EXTINF:-1 tvg-chno-"23",TVN TV (NOVELAS, FARANDULA, PELICULAS, COCINA, NOTICIAS, CONCURSO, VARIADO)
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"24",FRECUENCIA LATINA (NOVELAS, PELICULAS, ANIMADOS, MUSICA, NOTICIAS, VARIADO)
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
-#EXTINF:-1 tvg-chno-"25",TV MAX
+#EXTINF:-1 tvg-chno-"25",TV MAX (SERIES, PELICULAS, ANIMADOS, DEPORTES, FARANDULA, VARIADO)
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"26",FM SUPER CLASICOS (SERIES ANIMADAS, PELICULAS, VARIADO)
@@ -96,7 +96,7 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"32",GEN TV (SERIES ANIMADAS, PELICULAS, INFORMATIVO, VARIADO)
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",READY
+#EXTINF:-1 tvg-chno-"33",READY (CINEREADY, ESTRENOS, PELICULAS ANIMADAS, RELIGION, CULTURA, NOTICIAS, VARIADO)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",SUR TV  
@@ -120,7 +120,7 @@ https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8
 #EXTINF:-1 tvg-chno-"40",ORBIT
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 
-#EXTINF:-1 tvg-chno-"41",LA VOZ DE TUCUMAN   
+#EXTINF:-1 tvg-chno-"41",LA VOZ DE TUCUMAN (ESTRENOS, PELICULAS, INFORMATIVO)  
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
  
 #EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
