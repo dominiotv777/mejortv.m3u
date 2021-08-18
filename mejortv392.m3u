@@ -21,13 +21,13 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8
 #EXTINF:-1 tvg-chno-"7", TVS (ESTRENOS, PELICULAS ,INFORMATIVO)
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"8",CANAL 38 MEGATVC OURS
+#EXTINF:-1 tvg-chno-"8",CANAL 38 MEGATVC OURS (EVENTOS DEPORTIVOS, ESTRENOS, PELICULAS, INFORMATIVO, VARIADO)
 https://stream.oursnetworktv.com/latin/gtmmegavision/.m3u8 
 
 #EXTINF:-1 tvg-chno-"9",NUBLE
 https://live.tvcontrolcp.com:1936/guzman/guzman/.m3u8  
 
-#EXTINF:-1 tvg-chno-"10",IMAGEN UNIVERSAL
+#EXTINF:-1 tvg-chno-"10",IMAGEN UNIVERSAL (PELICULAS HD ,INFORMATIVO)
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"11",CANANGA (PELICULAS ANIMADAS, INFORMATIVO, PELICULAS ACCION)
@@ -87,7 +87,7 @@ https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
 #EXTINF:-1 tvg-chno-"29",DAN TV
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8          
 
-#EXTINF:-1 tvg-chno-"30",CINE CLUB
+#EXTINF:-1 tvg-chno-"30",CINE CLUB (MUCHO MAS QUE CINE)
 https://mediacpstreamchile.com:1936/walter/walter/.m3u8
 
 #EXTINF:-1 tvg-chno-"31",ALEGRE TV RD
@@ -111,7 +111,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/.m3u8
 #EXTINF:-1 tvg-chno-"37", CANAL 23 (ESTRENOS, PELICULAS, MUSICA, CIENCIA, CULTURA, RELIGION, VARIADO)
 https://stream.oursnetworktv.com/latin/canal23Tv/.m3u8
 
-#EXTINF:-1 tvg-chno-"38",SPTV
+#EXTINF:-1 tvg-chno-"38",SPTV (DIBUJOS ANIMADOS, SERIES, PELICULAS, INVESTIGACION, FAMILIA, VARIADOS)
 https://srv4.zcast.com.br/sptv/sptv/.m3u8
 
 #EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA
@@ -144,7 +144,7 @@ https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5ddd7c348520b40009
 #EXTINF:-1 tvg-chno-"48",PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 
-#EXTINF:-1 tvg-chno-"49",TALTAL (TEMPORADAS) 
+#EXTINF:-1 tvg-chno-"49",TALTAL TEMPORADAS (DRAGON BALLZ) 
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 
 #EXTINF:-1 tvg-chno-"50",TV KIDS  
