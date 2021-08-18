@@ -15,7 +15,7 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"5",LATINA INTERNACIONAL (RELIGION, PELICULAS, ESTRENOS, HECHOS REALES, INFORMATIVO, TELENTO)
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"6",CENTRAL TV
+#EXTINF:-1 tvg-chno-"6",CENTRAL TV (PELICULAS, INFORMATIVO)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"7", TVS (ESTRENOS, PELICULAS ,INFORMATIVO)
@@ -57,7 +57,7 @@ https://srv3.zcast.com.ar/carlosr/carlosr/.m3u8
 #EXTINF:-1 tvg-chno-"19",CANAL9TV-GT
 https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8
  
-#EXTINF:-1 tvg-chno-"20",HMTV
+#EXTINF:-1 tvg-chno-"20",HMTV (DOCUMENTAL,PELICULAS, INFORMATIVO)
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"21",CASCARA
@@ -81,7 +81,7 @@ https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/.m3u8
 #EXTINF:-1 tvg-chno-"27",VALLEVISION (PELICULAS, NOTICIAS, INFORMATIVO, ESTRENOS)
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
  
-#EXTINF:-1 tvg-chno-"28",AME 47       
+#EXTINF:-1 tvg-chno-"28",AME 47 (SERIES, FARANDULA, PELICULAS, INFORMATIVO, VARIADO)       
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
 
 #EXTINF:-1 tvg-chno-"29",DAN TV
