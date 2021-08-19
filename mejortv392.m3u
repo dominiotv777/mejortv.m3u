@@ -138,8 +138,8 @@ https://stream.oursnetworktv.com/latin/Canal34/.m3u8
 #EXTINF:-1 tvg-chno-"46",KNAL4     
 https://stream.oursnetworktv.com/latin/canal4kgtm/.m3u8 
 
-#EXTINF:-1 tvg-chno-"47",NICKCLASIC        
-https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5ddd7c348520b40009c347e2\master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
+#EXTINF:-1 tvg-chno-"47",GALAXIA TV       
+https://stream.oursnetworktv.com/latin/galaxiaTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"48",PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
