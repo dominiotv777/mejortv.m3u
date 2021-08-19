@@ -18,7 +18,7 @@ https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"6",CENTRAL TV (PELICULAS, INFORMATIVO)
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"7", CROM TV(PELICULAS ,INFORMATIVO)
+#EXTINF:-1 tvg-chno-"7", CROM TV (PELICULAS ,INFORMATIVO)
 https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"8",CANAL 38 MEGATVC OURS (EVENTOS DEPORTIVOS, ESTRENOS, PELICULAS, INFORMATIVO, VARIADO)
