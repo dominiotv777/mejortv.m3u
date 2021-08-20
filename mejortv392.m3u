@@ -63,8 +63,8 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"21",CASCARA
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",MORRO TV (MUSICA, PELICULAS, INFORMATIVO)
-https://cm.hostlagarto.com:4445/morrotv/Morrotv.myStream/chunks.m3u8   
+#EXTINF:-1 tvg-chno-"22",CANAL9TV-GT
+https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8   
 
 #EXTINF:-1 tvg-chno-"23",TVN TV (NOVELAS, FARANDULA, PELICULAS, COCINA, NOTICIAS, CONCURSO, VARIADO)
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_1/chunklist.m3u8
