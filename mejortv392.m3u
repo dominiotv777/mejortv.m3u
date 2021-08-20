@@ -54,8 +54,8 @@ https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
 #EXTINF:-1 tvg-chno-"18",MULTIMEDIOS 
 https://srv3.zcast.com.ar/carlosr/carlosr/.m3u8  
 
-#EXTINF:-1 tvg-chno-"19",CANAL 10 LA IMAGEN
-https://stream.oursnetworktv.com/latin/Canal10tvt/.m3u8 
+#EXTINF:-1 tvg-chno-"19",TV MAS CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/.m3u8 
  
 #EXTINF:-1 tvg-chno-"20",HMTV (DOCUMENTAL,PELICULAS, INFORMATIVO)
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
