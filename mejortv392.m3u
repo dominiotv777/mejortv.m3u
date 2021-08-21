@@ -90,8 +90,8 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"30",CINE CLUB (MUCHO MAS QUE CINE)
 https://mediacpstreamchile.com:1936/walter/walter/.m3u8
 
-#EXTINF:-1 tvg-chno-"31",ALEGRE TV RD
-https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"31",FRECUENCIA LATINA (NOVELAS, PELICULAS, ANIMADOS, MUSICA, NOTICIAS,FARANDULA, VARIADO)
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
 
 #EXTINF:-1 tvg-chno-"32",GEN TV (SERIES ANIMADAS, PELICULAS, INFORMATIVO, VARIADO)
 https://videohd.live:19360/8010/8010.m3u8  
