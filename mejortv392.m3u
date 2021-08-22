@@ -9,7 +9,7 @@ https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 #EXTINF:-1 tvg-chno-"3",PINAMAR
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
 
-#EXTINF:-1 tvg-chno-"4",WOW TV (SERIES ANIMADAS, NOTICIAS, PELICULAS, FARANDULA, COMEDIA, MUSICA, VARIADO)
+#EXTINF:-1 tvg-chno-"4",WOW TV (SERIES ANIMADAS, NOTICIAS, PELICULAS, FARANDULA, COMEDIA, MUSICA,)
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 
 #EXTINF:-1 tvg-chno-"5",LATINA INTERNACIONAL (RELIGION, PELICULAS, ESTRENOS, HECHOS REALES, INFORMATIVO, TELENTO)
@@ -60,8 +60,8 @@ https://593b04c4c5670.streamlock.net/8008/8008/.m3u8
 #EXTINF:-1 tvg-chno-"20",HMTV (DOCUMENTAL,PELICULAS, INFORMATIVO)
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"21",CASCARA
-https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
+#EXTINF:-1 tvg-chno-"21",AKI TV
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"22",CANAL9TV-GT
 https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8   
