@@ -63,7 +63,7 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"21",AKI TV
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"22",CANAL9TV-GT
+#EXTINF:-1 tvg-chno-"22",CANAL9TV-GT (ESTE CANAL REALIZA PAUSAS EN LA TRANSMISION PARA CARGAR PROGRAMACION)
 https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8   
 
 #EXTINF:-1 tvg-chno-"23",TVN TV (NOVELAS, FARANDULA, PELICULAS, COCINA, NOTICIAS, CONCURSO, VARIADO)
