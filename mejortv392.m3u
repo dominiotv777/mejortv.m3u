@@ -96,8 +96,8 @@ https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/33
 #EXTINF:-1 tvg-chno-"32",GEN TV (SERIES ANIMADAS, PELICULAS, INFORMATIVO, VARIADO)
 https://videohd.live:19360/8010/8010.m3u8  
 
-#EXTINF:-1 tvg-chno-"33",NPTV
-https://vdo1.streamgato.us:3149/live/nptvhdlive.m3u8
+#EXTINF:-1 tvg-chno-"33",CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 
 #EXTINF:-1 tvg-chno-"34",SUR TV (ESTE CANAL CARGA PROGRAMACION NUEVA REGULARMENTE)  
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
