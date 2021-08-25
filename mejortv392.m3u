@@ -186,8 +186,8 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 #EXTINF:-1 tvg-chno-"62",EKIZ TV 
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"63",TV PLATA (VARIADO)
-https://ss6.domint.net:3104/tvp_str/tvplata/.m3u8
+#EXTINF:-1 tvg-chno-"63",CANAL 4 EL DORADO ARG (PELICULAS, KIDS, MUSICA, INFORMATIVO)
+https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/.m3u8
 
 #EXTINF:-1 tvg-chno-"64",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8 
