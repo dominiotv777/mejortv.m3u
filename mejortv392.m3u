@@ -99,7 +99,7 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-chno-"33",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 
-#EXTINF:-1 tvg-chno-"34",SUR TV (SUPER VARIADO) (SI NO TIENES SEÑAL EN ESTE MOMENTO VOLVEMOS PRONTO ESTAMOS CARGANDO LA MEJOR PROGRAMACION Y ENTRETENIMIENTO PARA TI)  
+#EXTINF:-1 tvg-chno-"34",SUR TV (SUPER VARIADO) (SI NO TIENES SEÑAL VOLVEMOS PRONTO. ESTAMOS CARGANDO PROGRAMACION, PARA DAR A NUESTROS USUARIOS LO MEJOR EN ENTRETENIMIENTO )  
 https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"35", DN STUDIO (ANIMADOS, EVENTOS DEPORTIVOS, PELICULAS)
@@ -117,10 +117,10 @@ https://srv4.zcast.com.br/sptv/sptv/.m3u8
 #EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"40",ORBIT
+#EXTINF:-1 tvg-chno-"40",ORBIT (PELICULAS DE TODOS LOS TIEMPOS, INFORMATIVO)
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 
-#EXTINF:-1 tvg-chno-"41",LA VOZ DE TUCUMAN (ESTRENOS, PELICULAS, INFORMATIVO)  
+#EXTINF:-1 tvg-chno-"41",LA VOZ DE TUCUMAN (ESTRENOS, PELICULAS DE TODOS LOS TIEMPOS, INFORMATIVO)  
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
  
 #EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
