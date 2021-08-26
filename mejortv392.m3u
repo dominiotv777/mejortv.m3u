@@ -114,7 +114,7 @@ https://stream.oursnetworktv.com/latin/canal23Tv/.m3u8
 #EXTINF:-1 tvg-chno-"38",SPTV (DIBUJOS ANIMADOS, SERIES, PELICULAS, INVESTIGACION, FAMILIA, VARIADOS)
 https://srv4.zcast.com.br/sptv/sptv/.m3u8
 
-#EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA
+#EXTINF:-1 tvg-chno-"39",CANAL 10 MAR DEL PLATA. FINES DE SEMANA: PELICULAS, INFORMATIVO. LUNES A VIRNES: VARIADO, CONCURSOS, INFORMATIVO.
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"40",ORBIT (PELICULAS DE TODOS LOS TIEMPOS, INFORMATIVO)
@@ -126,7 +126,7 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
 #EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
 https:\\rakuten-comedymovies-2-es.samsung.wurl.com\manifest\playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"43", TENARENSES
+#EXTINF:-1 tvg-chno-"43", TENARENSES tv
 https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"44",DAMAS TV
