@@ -147,8 +147,8 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 #EXTINF:-1 tvg-chno-"49",CSTV TEMPORADAS 
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/.m3u8
 
-#EXTINF:-1 tvg-chno-"50",TV KIDS  
-https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5dd6dae8ce788b0009eaf77b\master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d4914a1d-7e84-4d3c-8c45-d8ec9a63252b&userId=&serverSideAds=true
+#EXTINF:-1 tvg-chno-"50",MAGIC. CANAL QUE REUNE LAS SERIES QUE FUERON LEYENDAS, INCLUYE PUBLICIDAD DE LA EPOCA) TIENE MILES DE SEGUIDORES EN TODO EL MUNDO
+https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
 #EXTINF:-1 tvg-chno-"51",ANIME ZONA. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ESTAMOS CARGANDO CONTENIDO. NUESTROS CANALES EN OCASIONES CARGAN PROGRAMACION.     
 http://azxtv.com/hls/stream.m3u8
