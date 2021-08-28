@@ -45,7 +45,7 @@ https://stmvideo1.livecastv.com/canal5/canal5/.m3u8
 #EXTINF:-1 tvg-chno-"15",RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"16",CELESTE CHANNEL (PELICULAS, RELIGION, INFORMATIVO)
+#EXTINF:-1 tvg-chno-"16",CELESTE CHANNEL (ESTRENOS, PELICULAS, RELIGION, INFORMATIVO)
 https://inliveserver.com:1936/15004/15004/.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV ( (PELICULAS, MUSICA, DOCUMENTAL)
@@ -183,11 +183,11 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 #EXTINF:-1 tvg-chno-"61", LOGOS TV  
 https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"62",ONDA TV
+#EXTINF:-1 tvg-chno-"62",ONDA TV (MUSICA, PELICULAS, INFORMATIVO)SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ESTAMOS CARGANDO CONTENIDO. NUESTROS CANALES EN OCASIONES CARGAN PROGRAMACION.
 https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
-#EXTINF:-1 tvg-chno-"63",ENFOQUE DIGITAL (SUPER VARIADO)
-https://stmv1.zcastbr.com/edtvchile/edtvchile/.m3u8
+#EXTINF:-1 tvg-chno-"63",TELESUR COSTA RICA (SUPER VARIADO)
+https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8 
 
 #EXTINF:-1 tvg-chno-"64",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8 
