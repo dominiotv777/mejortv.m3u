@@ -177,14 +177,14 @@ https://5e85d90130e77.streamlock.net/6004/6004/.m3u8
 #EXTINF:-1 tvg-chno-"59",AMOR Y VIDA
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
 
-#EXTINF:-1 tvg-chno-"60",TELEMUSICA
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/.m3u8
+#EXTINF:-1 tvg-chno-"60",EXTREMA (FAMILIAR)
+https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 
-#EXTINF:-1 tvg-chno-"61", TV EXITOS   
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1 tvg-chno-"61", LOGOS TV  
+https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"62",EKIZ TV 
-https://stmv.panel.mivideo.pro/ekiztv/ekiztv/.m3u8 
+#EXTINF:-1 tvg-chno-"62",ONDA TV
+https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
 
 #EXTINF:-1 tvg-chno-"63",ENFOQUE DIGITAL (SUPER VARIADO)
 https://stmv1.zcastbr.com/edtvchile/edtvchile/.m3u8
