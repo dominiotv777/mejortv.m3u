@@ -207,8 +207,8 @@ https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-chno-"69",TELETUR
 https://cdn4.hostlagarto.com:8081/static/teletur/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"70",RT   
- https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+#EXTINF:-1 tvg-chno-"70",HISPANTV 
+https://live.presstv.ir/live/smil:live.smil/.m3u8
 
 
 
