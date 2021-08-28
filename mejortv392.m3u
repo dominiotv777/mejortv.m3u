@@ -147,11 +147,11 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 #EXTINF:-1 tvg-chno-"49",CSTV TEMPORADAS 
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/.m3u8
 
-#EXTINF:-1 tvg-chno-"50",MAGIC. CANAL QUE REUNE LAS SERIES QUE FUERON LEYENDAS, INCLUYE PUBLICIDAD DE LA EPOCA) TIENE MILES DE SEGUIDORES EN TODO EL MUNDO
+#EXTINF:-1 tvg-chno-"50",MAGIC.LEYENDAS ANIMADAS. (INCLUYE PUBLICIDAD DE LA EPOCA) TIENE MILES DE SEGUIDORES EN TODO EL MUNDO
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
-#EXTINF:-1 tvg-chno-"51",ANIME ZONA. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ESTAMOS CARGANDO CONTENIDO. NUESTROS CANALES EN OCASIONES CARGAN PROGRAMACION.     
-http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-chno-"51",PEQUERADIO     
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-chno-"52",DIOSTV KIDS     
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8 
