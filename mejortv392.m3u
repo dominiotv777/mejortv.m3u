@@ -156,8 +156,8 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-chno-"52",DIOSTV KIDS     
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"53",RAKUTEM TV KIDS   
-http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8 
+#EXTINF:-1 tvg-chno-"53",PLANETA JUNIOR 1  
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
 
 #EXTINF:-1 tvg-chno-"54",CHINOLA   
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
