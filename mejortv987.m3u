@@ -195,14 +195,14 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-chno-"65",RPT BOLIVIA. FINES DE SEMANA: ANIMADOS, PELICULAS, INFORMATIVO. LUNES A VIENES: SUPER VARIADO.
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/.m3u8 
 
-#EXTINF:-1 tvg-chno-"66",CGTN               
-https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-chno-"66",C21.(VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
+https://tls.cdnz.cl/canal21tv/live/.m3u8 
 
 #EXTINF:-1 tvg-chno-"67", EURONEWS       
 http:\\euronews-euronews-spanish-2-mx.samsung.wurl.com\manifest\playlist.m3u8
   
-#EXTINF:-1 tvg-chno-"68",CNN CH 
-https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"68",CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8 
 
 #EXTINF:-1 tvg-chno-"69",TELETUR
 https://cdn4.hostlagarto.com:8081/static/teletur/chunks.m3u8
