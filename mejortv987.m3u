@@ -33,8 +33,8 @@ https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8
 #EXTINF:-1 tvg-chno-"11",CANANGA (PELICULAS ANIMADAS, INFORMATIVO, PELICULAS ACCION) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss2.domint.net:3220/cana_str/canangatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"12",ACV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8
+#EXTINF:-1 tvg-chno-"12",DELTA (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"13",CINCO TV (PELICULAS, INFORMATIVO)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
@@ -54,8 +54,8 @@ https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
 #EXTINF:-1 tvg-chno-"18",DIGITAL VISION 63 (MUSICA, PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE  NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss3.domint.net:3120/dv6_str/digitalvision/.m3u8  
 
-#EXTINF:-1 tvg-chno-"19",TV MAS CHILE
-https://593b04c4c5670.streamlock.net/8008/8008/.m3u8 
+#EXTINF:-1 tvg-chno-"19",IMAGEN UNIVERSAL. (PELICULAS HD, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO.ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
  
 #EXTINF:-1 tvg-chno-"20",SOLTELEVISION USA
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
