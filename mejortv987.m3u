@@ -45,7 +45,7 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/.m3u8
 #EXTINF:-1 tvg-chno-"15",RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"16",CELESTE CHANNEL (ESTRENOS, PELICULAS, RELIGION, INFORMATIVO)
+#EXTINF:-1 tvg-chno-"16",CELESTE CHANNEL (ESTRENOS, PELICULAS, DOCUMENTAL, INFORMATIVO)
 https://inliveserver.com:1936/15004/15004/.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV ( (PELICULAS, MUSICA, DOCUMENTAL)
