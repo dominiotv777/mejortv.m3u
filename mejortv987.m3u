@@ -78,8 +78,8 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-chno-"26",FM SUPER CLASICOS (SERIES ANIMADAS, PELICULAS, VARIADO)
 https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/.m3u8
 
-#EXTINF:-1 tvg-chno-"27",VALLEVISION (PELICULAS, NOTICIAS, INFORMATIVO, ESTRENOS)
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
+#EXTINF:-1 tvg-chno-"27",SICARDI. (VARIADO, ESTRENOS) SI NO TIENES SEÑAL, VOLVEMOS PRONTO.ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8 
  
 #EXTINF:-1 tvg-chno-"28",AME 47 (SERIES, FARANDULA, PELICULAS, INFORMATIVO, VARIADO)       
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
