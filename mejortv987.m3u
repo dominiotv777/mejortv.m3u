@@ -144,8 +144,8 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-chno-"48",RAKUTEN KIDS
 http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"49",CSTV TEMPORADAS 
-https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/.m3u8
+#EXTINF:-1 tvg-chno-"49",BOOMERANG EX 
+http://45.32.74.87:81/hls/projectboom.m3u8
 
 #EXTINF:-1 tvg-chno-"50",LOCOMOTION ACCION. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://51.222.85.85:81/hls/loco/index.m3u8 
