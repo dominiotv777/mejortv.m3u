@@ -141,8 +141,8 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"47",PINAMAR TV (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
 
-#EXTINF:-1 tvg-chno-"48",PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
+#EXTINF:-1 tvg-chno-"48",RAKUTEN KIDS
+http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"49",CSTV TEMPORADAS 
 https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/.m3u8
