@@ -84,7 +84,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-chno-"28",AME 47 (SERIES, FARANDULA, PELICULAS, INFORMATIVO, VARIADO)       
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
 
-#EXTINF:-1 tvg-chno-"29",TELEMAX. SI NO TIENES SEÑAL, VOLVEMOS PRONTO.ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"29",TELEMAX. (CIENCIA, DOCUMENTAL) SI NO TIENES SEÑAL, VOLVEMOS PRONTO.ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http:\\live-edge01.telecentro.net.ar\live\smil:tlx.smil\chunklist_w1527043435_b1828000_sleng.m3u8?        
 
 #EXTINF:-1 tvg-chno-"30",CINE CLUB (MUCHO MAS QUE CINE)
