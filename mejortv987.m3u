@@ -133,7 +133,7 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
    
 #EXTINF:-1 tvg-chno-"45",VALLEVISION (PELICULAS, NOTICIAS, INFORMATIVO, ESTRENOS) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/chunklist_w2059854959.m3u8
 
 #EXTINF:-1 tvg-chno-"46",TVS (ESTRENOS, PELICULAS, INFORMATIVO) 
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
