@@ -126,8 +126,8 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
 #EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
 https:\\rakuten-comedymovies-2-es.samsung.wurl.com\manifest\playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"43",VISION NDV. (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8 
+#EXTINF:-1 tvg-chno-"43",TICA VISION CR.(SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"44",DAMAS TV (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.oursnetworktv.com/latin/damaTV/.m3u8 
