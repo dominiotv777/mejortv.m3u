@@ -45,8 +45,8 @@ https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 #EXTINF:-1 tvg-chno-"15",RETRO PLAY
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"16",CELESTE CHANNEL (ESTRENOS, PELICULAS, DOCUMENTAL, INFORMATIVO)
-https://video02.logicahost.com.br/erick/erick/.m3u8 
+#EXTINF:-1 tvg-chno-"16",BOREAL TV ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV ( (PELICULAS, MUSICA, DOCUMENTAL)
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
@@ -78,8 +78,8 @@ https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/60580
 #EXTINF:-1 tvg-chno-"26",PHTV (PELICULAS, INFORMATIVO)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"27",SICARDI. (VARIADO, ESTRENOS) SI NO TIENES SEÑAL, VOLVEMOS PRONTO.ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8 
+#EXTINF:-1 tvg-chno-"27",AKI TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8
  
 #EXTINF:-1 tvg-chno-"28",AME 47 (SERIES, FARANDULA, PELICULAS, INFORMATIVO, VARIADO)       
 https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
