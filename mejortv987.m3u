@@ -198,13 +198,13 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/.m3u8
 #EXTINF:-1 tvg-chno-"66",C21. (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://tls.cdnz.cl/canal21tv/live/.m3u8 
 
-#EXTINF:-1 tvg-chno-"67", 26 TV  
+#EXTINF:-1 tvg-chno-"67",26 TV  
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w437900437_b1864000_sleng.m3u8
   
 #EXTINF:-1 tvg-chno-"68",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8 
 
-#EXTINF:-1 tvg-chno-"69", EURONEWS
+#EXTINF:-1 tvg-chno-"69",EURONEWS
 http:\\euronews-euronews-spanish-2-mx.samsung.wurl.com\manifest\playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"70",HISPANTV 
