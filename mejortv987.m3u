@@ -63,8 +63,8 @@ https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"21",TELEARTE (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.oursnetworktv.com/latin/TeleArte/.m3u8
 
-#EXTINF:-1 tvg-chno-"22",CANAL9TV-GT (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.oursnetworktv.com/latin/canal9Gtm/.m3u8   
+#EXTINF:-1 tvg-chno-"22",DAN TV. (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8    
 
 #EXTINF:-1 tvg-chno-"23",TVN TV (VARIADO)
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_1/chunklist.m3u8
