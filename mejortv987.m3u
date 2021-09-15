@@ -39,7 +39,7 @@ https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"13",CINCO TV (PELICULAS, INFORMATIVO)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8  
 
-#EXTINF:-1 tvg-chno-"14",IMAGEN UNIVERSAL.(PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"14",IMAGEN UNIVERSAL. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"15",RETRO PLAY
@@ -99,8 +99,8 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-chno-"33",CASCARA TV
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
 
-#EXTINF:-1 tvg-chno-"34",SUR TV (SUPER VARIADO)  SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.oursnetworktv.com/latin/Surtv/.m3u8  
+#EXTINF:-1 tvg-chno-"34",CROWTV (PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"35", TV 5 MULTIMEDIOS (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://srv3.zcast.com.br/carlosr/carlosr/.m3u8
