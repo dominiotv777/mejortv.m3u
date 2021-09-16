@@ -120,8 +120,8 @@ https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_360p/chunks.m3u8
 #EXTINF:-1 tvg-chno-"40",ORBIT (PELICULAS DE TODOS LOS TIEMPOS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 
-#EXTINF:-1 tvg-chno-"41",LA VOZ DE TUCUMAN (ESTRENOS, PELICULAS DE TODOS LOS TIEMPOS, INFORMATIVO)  
-https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
+#EXTINF:-1 tvg-chno-"41",COLOSAL TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklis.m3u8
  
 #EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
 https:\\rakuten-comedymovies-2-es.samsung.wurl.com\manifest\playlist.m3u8 
