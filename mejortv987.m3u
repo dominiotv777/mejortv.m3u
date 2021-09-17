@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",ACV . (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/.m3u8 
+#EXTINF:-1 tvg-chno-"1",CORTUBANAMA . (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"2",ITV (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8 
