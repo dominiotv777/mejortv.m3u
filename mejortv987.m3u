@@ -141,23 +141,23 @@ http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"47",PINAMAR TV (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
 
-#EXTINF:-1 tvg-chno-"48",RAKUTEN KIDS
-http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
+#EXTINF:-1 tvg-chno-"48",ONDA TV. (MUSICA,PELICUAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ss6.domint.net:3052/otv_str/tv10/.m3u8
 
-#EXTINF:-1 tvg-chno-"49",DIOS TV KIDS
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"49",TELESUR COSTA RICA  (SUPER VARIADO)
+https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8 
 
-#EXTINF:-1 tvg-chno-"50",LOCOMOTION ACCION. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http://51.222.85.85:81/hls/loco/index.m3u8 
+#EXTINF:-1 tvg-chno-"50",LTV ( SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://medios.sirtel.cl/live/stream/index.m3u8
 
-#EXTINF:-1 tvg-chno-"51",PEQUERADIO     
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-chno-"51",RPT BOLIVIA   
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/.m3u8 
 
-#EXTINF:-1 tvg-chno-"52",CN  
-https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+#EXTINF:-1 tvg-chno-"52",C21. (VARIADO)
+https://tls.cdnz.cl/canal21tv/live/.m3u8
 
-#EXTINF:-1 tvg-chno-"53",PLANETA JUNIOR 1  
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-chno-"53",CANALNUEVE (PELICULAS, VARIADO)
+https://live.canalnueve.tv/canal.m3u8
 
 #EXTINF:-1 tvg-chno-"54",CHINOLA   
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
@@ -183,20 +183,20 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 #EXTINF:-1 tvg-chno-"61",LOGOS TV  
 https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"62",ONDA TV (MUSICA, PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ss6.domint.net:3052/otv_str/tv10/.m3u8 
+#EXTINF:-1 tvg-chno-"62",RAKUTEM KIDS. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"63",TELESUR COSTA RICA (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://59ef525c24caa.streamlock.net/telesur/telesur/.m3u8 
+#EXTINF:-1 tvg-chno-"63",DIOS TV KIDS. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"64",LTV ( SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://medios.sirtel.cl/live/stream/index.m3u8
+#EXTINF:-1 tvg-chno-"64",LOCOMOTION ACCION. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-chno-"65",RPT BOLIVIA. FINES DE SEMANA: ANIMADOS, PELICULAS, INFORMATIVO. LUNES A VIENES: SUPER VARIADO.
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/.m3u8 
+#EXTINF:-1 tvg-chno-"65",PEQUERADIO. 
+ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno-"66",C21. (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
-https://tls.cdnz.cl/canal21tv/live/.m3u8 
+#EXTINF:-1 tvg-chno-"66",CN. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8 
 
 #EXTINF:-1 tvg-chno-"67",26 TV  
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w437900437_b1864000_sleng.m3u8
@@ -204,8 +204,8 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w437900437_b1
 #EXTINF:-1 tvg-chno-"68",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8 
 
-#EXTINF:-1 tvg-chno-"69",CANALNUEVE (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 tvg-chno-"69",PLANETA JUNIOR 1. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
 
 #EXTINF:-1 tvg-chno-"70",HISPANTV 
 https://live.presstv.ir/live/smil:live.smil/.m3u8
