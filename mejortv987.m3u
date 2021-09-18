@@ -168,44 +168,44 @@ https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 #EXTINF:-1 tvg-chno-"56",IP KIDS (ESPERA 10 SEGUNDOS PARA CARGAR ESTE CANAL O RESETEALO)
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-chno-"57",CBN EN ESPAÑOL
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8 
+#EXTINF:-1 tvg-chno-"57",LOCOMOTION ACCION. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://51.222.85.85:81/hls/loco/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"58",LA NUEVA TV
-https://5e85d90130e77.streamlock.net/6004/6004/.m3u8 
+#EXTINF:-1 tvg-chno-"58",RAKUTEM KIDS
+http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"59",AMOR Y VIDA
+#EXTINF:-1 tvg-chno-"59",DIOS TV KIDS.
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno-"60",PEQUERADIO.
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-chno-"61",CN. 
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+
+#EXTINF:-1 tvg-chno-"62",PLANETA JUNIOR 1. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
+
+#EXTINF:-1 tvg-chno-"63",AMOR Y VIDA. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
 
-#EXTINF:-1 tvg-chno-"60",EXTREMA (FAMILIAR)
+#EXTINF:-1 tvg-chno-"64",CBN EN ESPAÑOL. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-chno-"65",EXTREMA (FAMILIAR)
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 
-#EXTINF:-1 tvg-chno-"61",LOGOS TV  
+#EXTINF:-1 tvg-chno-"66",LOGOS TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"62",RAKUTEM KIDS. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8
-
-#EXTINF:-1 tvg-chno-"63",DIOS TV KIDS. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8 
-
-#EXTINF:-1 tvg-chno-"64",LOCOMOTION ACCION. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-1 tvg-chno-"65",PEQUERADIO. 
- https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-
-#EXTINF:-1 tvg-chno-"66",CN. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
-https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8 
-
-#EXTINF:-1 tvg-chno-"67",26 TV  
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w437900437_b1864000_sleng.m3u8
+#EXTINF:-1 tvg-chno-"67",LA NUEVA TV 
+https://5e85d90130e77.streamlock.net/6004/6004/.m3u8
   
 #EXTINF:-1 tvg-chno-"68",CGTN
 https://livees.cgtn.com/1000e/prog_index.m3u8 
 
-#EXTINF:-1 tvg-chno-"69",PLANETA JUNIOR 1. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-chno-"69",26 TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w437900437_b1864000_sleng.m3u8
 
 #EXTINF:-1 tvg-chno-"70",HISPANTV 
 https://live.presstv.ir/live/smil:live.smil/.m3u8
