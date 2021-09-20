@@ -156,8 +156,8 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/.m3u8
 #EXTINF:-1 tvg-chno-"52",C21. (VARIADO)
 https://tls.cdnz.cl/canal21tv/live/.m3u8
 
-#EXTINF:-1 tvg-chno-"53",SUR TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://stream.oursnetworktv.com/latin/Surtv/.m3u8
+#EXTINF:-1 tvg-chno-"53",TVS MACARAY (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"54",CHINOLA   
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
