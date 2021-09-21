@@ -45,8 +45,8 @@ https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 #EXTINF:-1 tvg-chno-"15",BELLAVISION. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"16",BOREAL TV ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno-"16",5900 TV. ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmvideo1.livecastv.com/canal5/canal5/.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV ( (PELICULAS, MUSICA, DOCUMENTAL)
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
