@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",EL 3 DEL CONCE . (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://5eae379fb77bb.streamlock.net/8016/8016/.m3u8
+#EXTINF:-1 tvg-chno-"1",TV MAULE SUR . (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8
 
 #EXTINF:-1 tvg-chno-"2",ITV. (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8 
@@ -120,8 +120,8 @@ https://panel.dattalive.com/8204/8204/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"40",ORBIT (PELICULAS DE TODOS LOS TIEMPOS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 
-#EXTINF:-1 tvg-chno-"41",ESTACIONTV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"41",74 VALPARAISO. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://stmv1.zcastbr.com/canal74hd/canal74hd/.m3u8 
  
 #EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
 https:\\rakuten-comedymovies-2-es.samsung.wurl.com\manifest\playlist.m3u8 
@@ -153,8 +153,8 @@ https://medios.sirtel.cl/live/stream/index.m3u8
 #EXTINF:-1 tvg-chno-"51",RPT BOLIVIA   
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/.m3u8 
 
-#EXTINF:-1 tvg-chno-"52",C21. (VARIADO)
-https://tls.cdnz.cl/canal21tv/live/.m3u8
+#EXTINF:-1 tvg-chno-"52",XTREMOVISION (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://vdo1.streamgato.us:3478/live/xtremochannellive.m3u8
 
 #EXTINF:-1 tvg-chno-"53",TVS MACARAY. (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8
