@@ -159,8 +159,8 @@ https://tls.cdnz.cl/canal21tv/live/.m3u8
 #EXTINF:-1 tvg-chno-"53",TVS MACARAY. (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"54",CHINOLA   
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"54",DREIKO TV. (HORARIO DE TRANSMISION DE 9 AM A 11 PM) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
+https://stmv3.voxtvhd.com.br/reikotv/reikotv/.m3u8
 
 #EXTINF:-1 tvg-chno-"55",TATAL  
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
