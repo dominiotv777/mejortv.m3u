@@ -12,8 +12,8 @@ https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"4",WOW TV. (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"5",MILENIUM TV. (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://videoairetafi.turadioonline.com.ar:5443/LiveApp/streams/490106569518876444904284.m3u8 
+#EXTINF:-1 tvg-chno-"5",PH TV. (PELICULAS VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"6",EXPREZION TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://srv3.zcast.com.br/expreszion/expreszion/.m3u8 
