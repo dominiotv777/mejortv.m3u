@@ -43,7 +43,7 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"15",BOREAL TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u88
+https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"16",TELENORD 8. ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8 
