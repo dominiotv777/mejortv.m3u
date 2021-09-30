@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-chno-"1",TV MAULE SUR . (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8
 
-#EXTINF:-1 tvg-chno-"2",ITV. (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8 
+#EXTINF:-1 tvg-chno-"2",LIM TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8 
 
 #EXTINF:-1 tvg-chno-"3",ALEGRE TV. (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn4.hostlagarto.com:8081/static/alegretv/chunks.m3u8
@@ -42,8 +42,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
 #EXTINF:-1 tvg-chno-"14",IMAGEN UNIVERSAL. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"15",TELENORD 8 TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
+#EXTINF:-1 tvg-chno-"15",ESTACION TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://unlimited1-us.dps.live/estaciontv/estaciontv.smil/estaciontv/livestream2/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"16",5900 TV. ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmvideo1.livecastv.com/canal5/canal5/.m3u8
@@ -123,8 +123,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/.m3u8
 #EXTINF:-1 tvg-chno-"41",READY TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/.m3u8  
  
-#EXTINF:-1 tvg-chno-"42",RAKUTEN PELIS COMEDIA (ESPAÑA)
-https:\\rakuten-comedymovies-2-es.samsung.wurl.com\manifest\playlist.m3u8 
+#EXTINF:-1 tvg-chno-"42",UNIKA TV (VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://video.misistemareseller.com/unikatv/unikatv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"43",VISION 3000 TV. (VARIADO, PELICULAS) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss3.domint.net:3102/v3_str/v3000/.m3u8
@@ -147,8 +147,8 @@ https://ss6.domint.net:3052/otv_str/tv10/.m3u8
 #EXTINF:-1 tvg-chno-"49",GALAXIA TV  (SUPER VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://amixtv.com:8080/galaxiatv/tracks-v1a1/mono.m3u8 
 
-#EXTINF:-1 tvg-chno-"50",RAKUTEM ACCION TV. ( PELICULAS) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"50",SR TV. ( PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stream.oursnetworktv.com/latin/srCanal25/chunklist.m3u8 
 
 #EXTINF:-1 tvg-chno-"51", COLOSAL TV. (MUSICA, PEÑICULAS) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/.m3u8
