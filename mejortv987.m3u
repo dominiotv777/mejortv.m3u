@@ -171,8 +171,8 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 tvg-chno-"57",LOCOMOTION ACCION. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://51.222.85.85:81/hls/loco/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"58",RAKUTEM KIDS
-http:\\rakuten-family-2-es.samsung.wurl.com\manifest\playlist.m3u8 
+#EXTINF:-1 tvg-chno-"58",TATAL TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"59",DIOS TV KIDS.
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
@@ -192,13 +192,13 @@ https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
 #EXTINF:-1 tvg-chno-"64",CBN EN ESPAÑOL. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/index_1200_av-p.m3u8
 
-#EXTINF:-1 tvg-chno-"65",EXTREMA (FAMILIAR)
+#EXTINF:-1 tvg-chno-"65",EXTREMA (FAMILIAR) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"66",LOGOS TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://streamer1.streamhost.org/salive/logosH/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"67",LA NUEVA TV 
+#EXTINF:-1 tvg-chno-"67",LA NUEVA TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5e85d90130e77.streamlock.net/6004/6004/.m3u8
   
 #EXTINF:-1 tvg-chno-"68",CGTN
