@@ -75,8 +75,8 @@ https://rtmp02.portalexpress.es/elcanaldefido/elcanaldefido/.m3u8
 #EXTINF:-1 tvg-chno-"25",TV MAX (SERIES, PELICULAS, ANIMADOS,EVENTOS DEPORTIVOS, FARANDULA, VARIADO)
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"26",SUPREMATV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ss2.domint.net:3132/stv_str/supremateve/.m3u8 
+#EXTINF:-1 tvg-chno-"26",VALLEVISION TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 
 #EXTINF:-1 tvg-chno-"27",GDM ESTUDIO. (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
