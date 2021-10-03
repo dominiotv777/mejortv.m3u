@@ -174,10 +174,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-chno-"58",TATAL TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"59",DIOS TV KIDS.
+#EXTINF:-1 tvg-chno-"59",DIOS TV KIDS. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-chno-"60",PEQUERADIO.
+#EXTINF:-1 tvg-chno-"60",PEQUERADIO. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-chno-"61",CN. 
