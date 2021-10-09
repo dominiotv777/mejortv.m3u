@@ -51,8 +51,8 @@ https://ss5.domint.net:3042/ptv_str/puntotv/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"17",LA MIA TV ( (PELICULAS, MUSICA) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"18",SUR TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.oursnetworktv.com/latin/Surtv/.m3u8   
+#EXTINF:-1 tvg-chno-"18",CELESTE CHANNEL. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://video01.logicahost.com.br/guatuso/guatuso/chunklist.m3u8   
 
 #EXTINF:-1 tvg-chno-"19",SOLTELEVISION USA. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/.m3u8
