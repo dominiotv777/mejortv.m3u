@@ -159,8 +159,8 @@ https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"53",VALLEVISION TV. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
 
-#EXTINF:-1 tvg-chno-"54",DREIKO TV. (HORARIO DE TRANSMISION DE 9 AM A 11 PM) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
-https://stmv3.voxtvhd.com.br/reikotv/reikotv/.m3u8
+#EXTINF:-1 tvg-chno-"54",PLANETAKIDS TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
+https://mediacpstreamchile.com:1936/8152/8152/.m3u8
 
 #EXTINF:-1 tvg-chno-"55",XABARIN .SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 http://infantil-crtvg.flumotion.com/chunks.m3u8
@@ -168,8 +168,8 @@ http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-chno-"56",IP KIDS (ESPERA 10 SEGUNDOS PARA CARGAR O RESETEALO)
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-chno-"57",CLOUP SERVER KIDS TEMPORADAS. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://videostreaming.cloudserverlatam.com/kids/kids/.m3u8
+#EXTINF:-1 tvg-chno-"57",DREIKO TV.(HORARIO DE TRANSMISION DE 9 AM A 11 PM) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://stmv3.voxtvhd.com.br/reikotv/reikotv/.m3u8
 
 #EXTINF:-1 tvg-chno-"58",CHINOLA. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8 
