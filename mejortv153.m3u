@@ -45,8 +45,8 @@ http://newyorkstream.ddns.net:5854/telenord8/telenord8/.m3u8
 #EXTINF:-1 tvg-chno-"15",RETRO PLUS 3. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8 
 
-#EXTINF:-1 tvg-chno-"16",AGENDA 56 TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cloudflare.streamgato.us:3436/live/agenda56tvlive.m3u8
+#EXTINF:-1 tvg-chno-"16",ÑUBLEVISION TV. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"17",LA MIA TV ( (PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss8.domint.net:3108/mia_str/lamiatv/.m3u8
