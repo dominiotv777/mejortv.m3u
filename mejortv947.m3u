@@ -69,8 +69,8 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"23",TVN TV. (VARIADO)
 https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/6058004209001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"24",CARACOLATV.(PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"24",TELESEÑAL TV.(PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cm.hostlagarto.com:4445/tsd12/TSD12.myStream/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"25",TV MAX (SERIES, PELICULAS, ANIMADOS,EVENTOS DEPORTIVOS, FARANDULA, VARIADO)
 https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/chunklist.m3u8
