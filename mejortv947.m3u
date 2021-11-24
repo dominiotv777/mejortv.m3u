@@ -87,8 +87,8 @@ https://ss6.domint.net:3028/ame_str/amecanal47/.m3u8
 #EXTINF:-1 tvg-chno-"29",ATACAMA TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/.m3u8    
 
-#EXTINF:-1 tvg-chno-"30",GEOVISION (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/.m3u8 
+#EXTINF:-1 tvg-chno-"30",SU MUNDO TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn4.hostlagarto.com:8081/sumundotv/sumundotv.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"31",FRECUENCIA LATINA (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8
