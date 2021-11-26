@@ -174,14 +174,14 @@ https://stmv3.voxtvhd.com.br/reikotv/reikotv/.m3u8
 #EXTINF:-1 tvg-chno-"58",TIGUERITOS TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist.m3u8  
 
-#EXTINF:-1 tvg-chno-"59",PENIEL KIDS. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.oursnetworktv.com/latin/2mApKids&yUYoungy0/.m3u8
+#EXTINF:-1 tvg-chno-"59",DIOS TV KIDS. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"60",PEQUERADIO. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno-"61",TALTAL TV TEMPORADAS. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ed13ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
+#EXTINF:-1 tvg-chno-"61",PAKAPAKA. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8 
 
 #EXTINF:-1 tvg-chno-"62",CHINOLA TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
