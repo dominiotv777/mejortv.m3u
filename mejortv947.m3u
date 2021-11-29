@@ -135,8 +135,8 @@ https://cdn1.streamgato.us:1936/pregotv/pregotv/.m3u8
 #EXTINF:-1 tvg-chno-"45",HORAXHORA (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn1.streamgato.us:1936/horaxhoratelevision/horaxhoratelevision/.m3u8 
 
-#EXTINF:-1 tvg-chno-"46",CALETA TV ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn4.hostlagarto.com:8081/static/lacaletatv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"46",URANIO TV ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno-"47",MEGA TV CANAL 44 (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
 https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/.m3u8
