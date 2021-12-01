@@ -24,8 +24,8 @@ https://inliveserver.com:1936/10016/10016/.m3u8
 #EXTINF:-1 tvg-chno-"8",TVS MACARAY  (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"9",ROCAVISION (VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cm.hostlagarto.com:4445/rocavisiondominicana/Dominicanahd.myStream/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"9",TV MAULE (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cloud2.streaminglivehd.com:1936/8002/8002/.m3u8   
 
 #EXTINF:-1 tvg-chno-"10",CINE CLUB. (PELICULAS, VARIADO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://stmv.panel.grupolimalive.com/cinperu/cinperu/.m3u8                       
