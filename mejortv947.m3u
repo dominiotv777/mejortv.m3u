@@ -147,8 +147,8 @@ https://ss5.domint.net:3042/ptv_str/puntotv/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"49",SOMOS DEL ESTE TV. (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w1097469454.m3u8    
 
-#EXTINF:-1 tvg-chno-"50",PALMERAS TV ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://srv.panelcast.net/palmerastv/palmerastv/.m3u8
+#EXTINF:-1 tvg-chno-"50",ITV INTERAMERICANA ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8
 
 #EXTINF:-1 tvg-chno-"51",AKI TV. (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cm.hostlagarto.com:4445/Akitv/Akitv.myStream/chunks.m3u8 
