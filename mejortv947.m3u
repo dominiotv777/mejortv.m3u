@@ -180,8 +180,8 @@ https://stream.oursnetworktv.com/latin/2mApKids&yUYoungy0/.m3u8
 #EXTINF:-1 tvg-chno-"60",PEQUERADIO. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-chno-"61",PAKAPAKA. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8 
+#EXTINF:-1 tvg-chno-"61",LOCOMOTION. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-chno-"62",CHINOLA TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
