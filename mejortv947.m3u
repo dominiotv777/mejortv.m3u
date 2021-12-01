@@ -159,8 +159,8 @@ https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"53",WOW TV. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
 
-#EXTINF:-1 tvg-chno-"54",TELESEÑAL (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
-https://cm.hostlagarto.com:4445/tsd12/TSD12.myStream/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"54",TENARENSES (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
+https://vdo2.streamgato.us:3541/live/tenarensestvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"55",ENERGEEK. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://stmv1.voxhdnet.com/energeek/energeek/.m3u8
