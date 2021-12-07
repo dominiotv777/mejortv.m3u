@@ -129,8 +129,8 @@ https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 #EXTINF:-1 tvg-chno-"43",SISTEMA 1 PE (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"44",PREGO TV RD (PELICULAS, VARIADO)SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn1.streamgato.us:1936/pregotv/pregotv/.m3u8 
+#EXTINF:-1 tvg-chno-"44",FIERA TV PY (PELICULAS, VARIADO)SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://streamcasthd.com:19360/fieraproducciones/fieraproducciones.m3u8 
    
 #EXTINF:-1 tvg-chno-"45",DELTA TV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cm.hostlagarto.com:4445/deltatv/deltatv50.myStream/chunks.m3u8 
