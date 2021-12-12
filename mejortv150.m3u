@@ -132,8 +132,8 @@ https://tv.portalexpress.es:3839/live/sistema1tvlive.m3u8
 #EXTINF:-1 tvg-chno-"44",TVS RD (PELICULAS, VARIADO)SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
    
-#EXTINF:-1 tvg-chno-"45",GENIUS TV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://live.obslivestream.com/geniostvmux/index.m3u8 
+#EXTINF:-1 tvg-chno-"45",CROWTV  (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn4.hostlagarto.com:8081/static/cromtv/chunks.m3u8  
 
 #EXTINF:-1 tvg-chno-"46",URANIO TV ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/uraniomux/tracks-v1a1/mono.m3u8
