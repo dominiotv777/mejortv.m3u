@@ -9,8 +9,8 @@ https://live.tvcontrolcp.com:1936/guzman/guzman/.m3u8
 #EXTINF:-1 tvg-chno-"3",FM1 (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 
-#EXTINF:-1 tvg-chno-"4",OK TV (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/.m3u8
+#EXTINF:-1 tvg-chno-"4",RETRO PLAY(SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://v4.tustreaming.cl/retroplaytv/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"5",PLANETA TV MOYOBAMBA (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
@@ -18,8 +18,8 @@ https://live.obslivestream.com/planetatvmux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"6",CINCO TV TIGRE (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8   
 
-#EXTINF:-1 tvg-chno-"7",RETRO PLAY  (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http://v4.tustreaming.cl/retroplaytv/index.m3u8  
+#EXTINF:-1 tvg-chno-"7", OK TV  (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/.m3u8  
 
 #EXTINF:-1 tvg-chno-"8",VISION TV RD  (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
@@ -210,8 +210,6 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w437900437_b1
 #EXTINF:-1 tvg-chno-"70",T-VINET. (INFORMATIVO,DOCUMENTAL) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/inet2/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"71", "A boy called.chrismas" ESTRENO SOLO DISPONIBLE EL 11/12/2021 DE 7PM A 11PM
-https://p-def2.pcloud.com/cfZCtqTK9ZKF0LjlZWrE87ZZ1oJfi7ZQ5ZZesRZZ69fOR7ZdHZ0pZUpZmVZcFZJZkzZ1pZzzZNpZUFZkHZkRZfpZB33pOSkDTTFhu1clVARd5uuhdtcy/A.Boy.Called.Christmas.2021.%28DS%29.mp4
 
 
 
