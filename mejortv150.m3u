@@ -159,8 +159,8 @@ https://cdn4.hostlagarto.com:8081/static/cotubanamatv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"53",WOW TV. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8 
 
-#EXTINF:-1 tvg-chno-"54", CANAL 8 CATACAOS (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
-https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:-1 tvg-chno-"54",CAJAMARCA (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
+http://tv.siete.us/cajamarcatv/cajamarcatv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"55",LIM TV (VARIADO,PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8 
