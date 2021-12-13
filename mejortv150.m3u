@@ -21,8 +21,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
 #EXTINF:-1 tvg-chno-"7", OK TV  (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/.m3u8  
 
-#EXTINF:-1 tvg-chno-"8",VISION TV RD  (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://cloudflare.streamgato.us:3750/live/tvvisionlive.m3u8
+#EXTINF:-1 tvg-chno-"8",MORRO TV (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://ed5ov1.live.opencaster.com/zzvcxjpsfxrE/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"9",HMTV (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8   
