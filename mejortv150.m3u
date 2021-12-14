@@ -66,8 +66,8 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-chno-"22",DAN TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO  NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8    
 
-#EXTINF:-1 tvg-chno-"23",TVN TV (VARIADO)
-https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/chunklistm3u8
+#EXTINF:-1 tvg-chno-"23",TVN TV P (VARIADO)
+https://bcovlive-a.akamaihd.net/0ba32a03db4349fd84387629e5fa8eb8/us-west-2/6058004209001/profile_3/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"24",CTA (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vdo2.streamgato.us:3233/live/ctvlive.m3u8 
