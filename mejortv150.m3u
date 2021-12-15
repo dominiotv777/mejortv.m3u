@@ -67,7 +67,7 @@ https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8    
 
 #EXTINF:-1 tvg-chno-"23",DMJ (MUSICA, NOCHE DE PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://vcp.myplaytv.com/tlthd/tlthd/.m3u8
+http://v4.tustreaming.cl/s1tv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"24",BELLA ABANQUINA TV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://v4.tustreaming.cl/bellatv/index.m3u8 
@@ -169,7 +169,7 @@ https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8
 https://stmv1.voxhdnet.com/energeek/energeek/.m3u8
 
 #EXTINF:-1 tvg-chno-"57",DREIKO TV.(HORARIO DE TRANSMISION DE 9 AM A 11 PM) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://stmv3.voxtvhd.com.br/reikotv/reikotv/.m3u8
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/.m3u8
 
 #EXTINF:-1 tvg-chno-"58",TIGUERITOS TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist.m3u8  
@@ -190,7 +190,7 @@ https://cdn4.hostlagarto.com:8081/static/Chinolatv/chunks.m3u8
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/.m3u8
 
 #EXTINF:-1 tvg-chno-"64",CBN EN ESPAÑOL. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_1/chunklist.m3u8
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"65",VIVIENTE TV. SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3006/live/elvivientetvlive.m3u8
