@@ -27,8 +27,8 @@ https://live.admefy.com/live/default/dependent_apricot_dac77.m3u8
 #EXTINF:-1 tvg-chno-"9",HMTV (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8   
 
-#EXTINF:-1 tvg-chno-"10",IMAGEN UNIVERSAL (PELICULAS, VARIADO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8                       
+#EXTINF:-1 tvg-chno-"10",PHTV (PELICULAS, VARIADO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8                      
 
 #EXTINF:-1 tvg-chno-"11",TELEMIX (PELICULAS, VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://panel.dattalive.com/8068/8068/.m3u8 
