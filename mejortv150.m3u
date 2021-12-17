@@ -73,7 +73,7 @@ http://v4.tustreaming.cl/s1tv/index.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
 
 #EXTINF:-1 tvg-chno-"25",DAN TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"26",TELECOSTA ESCUINTLA GT (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8 
