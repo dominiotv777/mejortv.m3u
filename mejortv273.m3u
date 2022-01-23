@@ -147,8 +147,8 @@ https://stmv.panel.grupolimalive.com/limalive/limalive/.m3u8
 #EXTINF:-1 tvg-chno-"49", SU MUNDO TV (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/sumundotv/sumundotv.myStream/chunks.m3u8    
 
-#EXTINF:-1 tvg-chno-"50",WOW TV ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
+#EXTINF:-1 tvg-chno-"50",MATICESTV ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http:\\v4.tustreaming.cl\matices\index.m3u8
 
 #EXTINF:-1 tvg-chno-"51",SAN ISIDRO (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8 
