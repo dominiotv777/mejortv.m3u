@@ -145,7 +145,7 @@ https://cloud2.streaminglivehd.com:1936/8070/8070/.m3u8
 http://live.obslivestream.com/geniostvmux/index.m3u8   
 
 #EXTINF:-1 tvg-chno-"49", SU MUNDO TV (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://sumundotv.streamgato.us:3453/live/sumundotvlive.m3u8    
+https://cdn1.streamgato.us/sumundotv/sumundotv.myStream/chunks.m3u8    
 
 #EXTINF:-1 tvg-chno-"50",MATICESTV ( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http:\\v4.tustreaming.cl\matices\index.m3u8
