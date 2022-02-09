@@ -24,8 +24,8 @@ https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"8",CANAL 41  (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8
 
-#EXTINF:-1 tvg-chno-"9",CINE TELECARIBE (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8  
+#EXTINF:-1 tvg-chno-"9",LIMA LIVE (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv.panel.grupolimalive.com/limalive/limalive/.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",RN12 (PELICULAS,NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/.m3u8                      
