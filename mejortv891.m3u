@@ -165,8 +165,8 @@ https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/.m3u8
 #EXTINF:-1 tvg-chno-"55",TVS MACARAY (VARIADO ,PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8   
 
-#EXTINF:-1 tvg-chno-"56",VISION NDV (PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
-https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8   
+#EXTINF:-1 tvg-chno-"56",RN12 (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
+https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/.m3u8  
 
 #EXTINF:-1 tvg-chno-"57",GUACARA TV ( PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8 
