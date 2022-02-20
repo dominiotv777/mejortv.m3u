@@ -27,8 +27,8 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"9",CINETELECARIBE (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"10",INTERAMERICANA (PELICULAS,NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://servers.amelbasoluciones.co:19360/itvchannel/itvchannel.m3u8                       
+#EXTINF:-1 tvg-chno-"10",CTV RD  (PELICULAS,NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://vdo2.streamgato.us:3233/live/ctvlive.m3u8                        
 
 #EXTINF:-1 tvg-chno-"11",MORRO TV (PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ed5ov1.live.opencaster.com/zzvcxjpsfxrE/index.m3u8 
@@ -168,8 +168,8 @@ http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"56",RN12 (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://5ee0faac3bbae.streamlock.net/rntelevision/rntelevision/.m3u8  
 
-#EXTINF:-1 tvg-chno-"57",GUACARA TV ( PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://cloudflare.streamgato.us:3103/live/guacaratvlive.m3u8 
+#EXTINF:-1 tvg-chno-"57",OK TEVE PE ( PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://stmv.panel.grupolimalive.com/wesdey3/wesdey3/.m3u8  
 
 #EXTINF:-1 tvg-chno-"58",LATINOKIDS.(ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://videostreaming.cloudserverlatam.com/8066/8066/.m3u8 
