@@ -24,8 +24,8 @@ https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"8",DAN TV (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"9",CINETELECARIBE (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cloudflare.streamgato.us:3689/live/telecaribehdlive.m3u8 
+#EXTINF:-1 tvg-chno-"9",IMAGEN UNIVERSAL (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cloudflare.streamgato.us:3809/live/iutvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"10",ANZOATEGUI (PELICULAS,NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/.m3u8                       
