@@ -201,8 +201,8 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"67",STV TU CANAL FAMILIAR CLASICOS. SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tiquiciatv.duckdns.org/hls/livestv.m3u8
   
-#EXTINF:-1 tvg-chno-"68",CONTROL VGA. SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://tls-cl.cdnz.cl/onradio-5/live/.m3u8 
+#EXTINF:-1 tvg-chno-"68",CATATUMBO TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://vcp1.myplaytv.com/catatumbotv/catatumbotv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"69",CARACOL AHORA PREMIUM. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 http:\\mdstrm.com\live-stream-playlist_800\58dc3d471cbe05ff3c8e463e.m3u8
