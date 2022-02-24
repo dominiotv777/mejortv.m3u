@@ -48,8 +48,8 @@ https:\\d30zjikdv9ntds.cloudfront.net\repretel\canal6\smil:live.smil\playlist.m3
 #EXTINF:-1 tvg-chno-"16",HMTV  (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"17",TV HD TROPICAL ( (PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cloud2.streaminglivehd.com:1936/8222/8222/.m3u8  
+#EXTINF:-1 tvg-chno-"17",QUILLAVISION  ( (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http:\\v4.tustreaming.cl\quillavision\index.m3u8 
 
 #EXTINF:-1 tvg-chno-"18",CANAL 41. SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8
