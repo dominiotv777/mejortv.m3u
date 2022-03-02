@@ -24,8 +24,8 @@ https://eu1.servers10.com:8081/8110/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno-"8",DAN TV (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"9",WOWLY CL.(VARIADO. PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://wowly.stream/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-chno-"9",CLUB TV CL.(VARIADO. PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://mediacpstreamchile.com:1936/clubtv/clubtv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",MULTIVISION RD (PELICULAS,NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn2.streamgato.us/canalmultivision/canalmultivision/playlist.m3u8                         
