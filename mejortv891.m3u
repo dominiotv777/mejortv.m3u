@@ -27,8 +27,8 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"9",WOWLY CL.(VARIADO. PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://wowly.stream/hls/stream_src/index.m3u8
 
-#EXTINF:-1 tvg-chno-"10",ANZOATEGUI (PELICULAS,NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-http://vcp1.myplaytv.com:1935/anzoateguitv/anzoateguitv/.m3u8                       
+#EXTINF:-1 tvg-chno-"10",MULTIVISION RD (PELICULAS,NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://cdn2.streamgato.us/canalmultivision/canalmultivision/playlist.m3u8                         
 
 #EXTINF:-1 tvg-chno-"11",SAN ISIDRO (PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
