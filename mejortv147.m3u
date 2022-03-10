@@ -24,8 +24,8 @@ https://eu1.servers10.com:8081/8110/index.m3u8
 #EXTINF:-1 tvg-chno-"8",DAN TV (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"9",CLUB TV CL.(VARIADO. PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://mediacpstreamchile.com:1936/clubtv/clubtv/.m3u8 
+#EXTINF:-1 tvg-chno-"9",DMJ TV. (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://v4.tustreaming.cl/s1tv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"10",BBC DRAMA MOVIE (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https:\\service-stitcher.clusters.pluto.tv\v1\stitch\embed\hls\channel\60dafb9a0df1ba000758d37b\master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS                        
