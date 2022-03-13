@@ -27,8 +27,8 @@ https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"9",DMJ TV. (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://v4.tustreaming.cl/s1tv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"10",NICK LATINO (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https:\\service-stitcher.clusters.pluto.tv\stitch\hls\channel\5d8d08395f39465da6fb3ec4\master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+#EXTINF:-1 tvg-chno-"10",TVS MACARAY (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8 
 
 #EXTINF:-1 tvg-chno-"11",SANTIVITO TV (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.srvif.com/sanvito/sanvito/.m3u8 
