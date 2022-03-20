@@ -31,7 +31,7 @@ http://v4.tustreaming.cl/s1tv/index.m3u8
 http://vcp1.myplaytv.com:1935/tvs/tvs/chunklist.m3u8 
 
 #EXTINF:-1 tvg-chno-"11",INSPIRANIME (ANIME) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://videostreaming.cloudserverlatam.com/8092/8092/.m3u8   
+https://videostreaming.cloudserverlatam.com/anime/anime/.m3u8   
 
 #EXTINF:-1 tvg-chno-"12",TV SUR CANAL 9 CR (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http:\\tv.ticosmedia.com:1935\TVSUR\TVSUR\playlist.m3u8
