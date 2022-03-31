@@ -207,8 +207,8 @@ https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/chunks.m3u8
 #EXTINF:-1 tvg-chno-"69",CARACOL AHORA PREMIUM. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 http:\\mdstrm.com\live-stream-playlist_800\58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1 tvg-chno-"70",HOLVOET. (INFORMATIVO,DOCUMENTAL) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream3/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"70",DW TV. (INFORMATIVO,DOCUMENTAL) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https:\\dwamdstream104.akamaized.net\hls\live\2015530\dwstream104\index.m3u8
 
 
 
