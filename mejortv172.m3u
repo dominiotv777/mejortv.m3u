@@ -210,6 +210,9 @@ http:\\mdstrm.com\live-stream-playlist_800\58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-chno-"70",DW TV. (INFORMATIVO,DOCUMENTAL) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https:\\dwamdstream104.akamaized.net\hls\live\2015530\dwstream104\index.m3u8
 
+#EXTINF:-1 tvg-chno-"71",TDI. (VARIADO, NOCHE DE PELICULAS) COLOMBIA
+https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
+
 
 
 
