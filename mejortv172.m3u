@@ -213,6 +213,9 @@ https:\\dwamdstream104.akamaized.net\hls\live\2015530\dwstream104\index.m3u8
 #EXTINF:-1 tvg-chno-"71",TDI. (VARIADO, NOCHE DE PELICULAS) COLOMBIA
 https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 
+#EXTINF:-1 tvg-chno-"72",KPOP. COL 
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+
 
 
 
