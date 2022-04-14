@@ -42,8 +42,8 @@ https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:-1 tvg-chno-"14",SUPER TV AMAZONAS (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"15",CANAL 6 COSTARICA CR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://d30zjikdv9ntds.cloudfront.ne/repretel/canal6/smil:live.smil/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"15",CANAL 6 COSTARICA  (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8  
 
 #EXTINF:-1 tvg-chno-"16",VISION TV GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8    
