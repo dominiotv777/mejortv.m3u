@@ -216,8 +216,8 @@ https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m
 #EXTINF:-1 tvg-chno-"72",KPOP COL. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-chno-"73",TELERED .(CLASICOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http://k4.usastreams.com/ARBtv/teleplus/.m3u8
+#EXTINF:-1 tvg-chno-"73",MI TV CLASICA .(CLASICOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 
 
