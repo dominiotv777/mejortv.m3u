@@ -162,8 +162,8 @@ https://video01.logicahost.com.br/guatuso/guatuso/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"54",ATV MAS (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/.m3u8 
 
-#EXTINF:-1 tvg-chno-"55",ESTRELLA (VARIADO ,PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
-https://59537faa0729a.streamlock.net/estrellaproducciones/estrellaproducciones/.m3u8   
+#EXTINF:-1 tvg-chno-"55",RSELVA  (VARIADO ,PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
+https://live.obslivestream.com/selvatvmux/index.m3u8   
 
 #EXTINF:-1 tvg-chno-"56",SANTIVITO TELEVISION (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://stmv1.srvif.com/sanvito/sanvito/.m3u8   
