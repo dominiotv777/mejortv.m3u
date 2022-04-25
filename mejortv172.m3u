@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno-"1",PINAMAR (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://stmv.panel.grupolimalive.com/limalive/limalive/.m3u8 
+http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
 
 #EXTINF:-1 tvg-chno-"2",PLANEA TV BAGUA  (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://stmv.panel.grupolimalive.com/planeatv/planeatv/.m3u8 
