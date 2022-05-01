@@ -76,7 +76,7 @@ https://videostreaming.cloudserverlatam.com/8062/8062/.m3u8
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"26",ZONDA TV AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cnnsanjuan.com:9999/zonda/zonda/chunks.m3u8 
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"27",GDM STUDIO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
