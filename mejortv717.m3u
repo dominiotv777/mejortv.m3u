@@ -54,8 +54,8 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1 tvg-chno-"18",TPTO .(VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.panel.grupolimalive.com/tptotv/tptotv/playlist.m3u8    
 
-#EXTINF:-1 tvg-chno-"19",WOW TV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8     
+#EXTINF:-1 tvg-chno-"19",PLANEA TV BAGUA (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/.m3u8      
  
 #EXTINF:-1 tvg-chno-"20",TELEMIX 50 (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://panel.dattalive.com/8068/8068/.m3u8
