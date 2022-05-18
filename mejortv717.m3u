@@ -111,8 +111,8 @@ https://mediacpstreamchile.com:1936/opinionsur/opinionsur/.m3u8
 #EXTINF:-1 tvg-chno-"37",CANAL 100 CHINIQUE (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8  
 
-#EXTINF:-1 tvg-chno-"38",SPTV (VARIADO)
-https://srv6.zcast.com.br/sptv/sptv/.m3u8
+#EXTINF:-1 tvg-chno-"38",TV QUINTA REGION (VARIADO)
+https://stmv1.zcastbr.com/danielg/danielg/.m3u8
 
 #EXTINF:-1 tvg-chno-"39",PINAMAR (VARIADO,PELICULAS)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
