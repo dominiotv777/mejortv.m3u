@@ -120,8 +120,8 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-chno-"40",TROPICAL TV  (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"41",PACHATUSAN TV (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://tvdatta.com:3413/live/pachatusanlive.m3u8       
+#EXTINF:-1 tvg-chno-"41",OK TEVE (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://live.obslivestream.com/oktvmux/tracks-v2a1/index.m3u8       
  
 #EXTINF:-1 tvg-chno-"42",VALLEVISION (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
