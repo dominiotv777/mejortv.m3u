@@ -99,8 +99,8 @@ https://593b04c4c5670.streamlock.net/8148/8148/.m3u8
 #EXTINF:-1 tvg-chno-"33",LATINA INTERNACIONAL (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 
-#EXTINF:-1 tvg-chno-"34",ORIENTAL TV 21 (PELICULAS, MUSICA)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"34",SAS TV (PELICULAS, VARIADO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8 
 
 #EXTINF:-1 tvg-chno-"35",CIUDAD MAGICA AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://fullvideo.enlaweb.com.ar/video63/video63/playlist.m3u8    
@@ -111,8 +111,8 @@ https://mediacpstreamchile.com:1936/opinionsur/opinionsur/.m3u8
 #EXTINF:-1 tvg-chno-"37",CANAL 100 CHINIQUE (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8  
 
-#EXTINF:-1 tvg-chno-"38",TV QUINTA REGION (VARIADO)
-https://stmv1.zcastbr.com/danielg/danielg/.m3u8
+#EXTINF:-1 tvg-chno-"38",NEO TV (VARIADO)
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-chno-"39",PINAMAR (VARIADO,PELICULAS)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8 
