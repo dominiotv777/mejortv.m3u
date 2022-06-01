@@ -121,7 +121,7 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1 tvg-chno-"41",OK TEVE (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://live.obslivestream.com/oktvmux/tracks-v2a1/index.m3u8       
+https://live.obslivestream.com/oktv/index.m3u8       
  
 #EXTINF:-1 tvg-chno-"42",VALLEVISION (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8 
