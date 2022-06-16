@@ -177,8 +177,8 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/chunks.m3u8
 #EXTINF:-1 tvg-chno-"59",IPKIDS (ANIMADOS, VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-#EXTINF:-1 tvg-chno-"60",PEQUERADIO KIDS. SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-chno-"60",CHIQUILINES. SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8 
 
 #EXTINF:-1 tvg-chno-"61",DREIKO TV.(HORARIO DE TRANSMISION DE 9 AM A 11 PM) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/.m3u8
