@@ -121,7 +121,7 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-1 tvg-chno-"41",OK TEVE (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-http://190.108.83.142:8000/play/a00x/index.m3u8      
+http://live.obslivestream.com/geniostvmux/index.m3u8      
  
 #EXTINF:-1 tvg-chno-"42",SAN ISIDRO (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8 
