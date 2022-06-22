@@ -123,8 +123,8 @@ https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 #EXTINF:-1 tvg-chno-"41",HORAXHORA (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn2.streamgato.us/horaxhoratelevision/horaxhoratelevision/.m3u8    
  
-#EXTINF:-1 tvg-chno-"42",CRTV (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:-1 tvg-chno-"42",ZONDA (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"43",PROYECTA (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://servilive.com:3194/live/proyectatvlive.m3u8     
