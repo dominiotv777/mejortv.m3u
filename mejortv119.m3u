@@ -120,8 +120,8 @@ http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
 #EXTINF:-1 tvg-chno-"40",ZPTV (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/.m3u8
 
-#EXTINF:-1 tvg-chno-"41",HORAXHORA (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://cdn2.streamgato.us/horaxhoratelevision/horaxhoratelevision/.m3u8    
+#EXTINF:-1 tvg-chno-"41",OK TEVE (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://stream.plixitv.live/oktv/oktv/.m3u8   
  
 #EXTINF:-1 tvg-chno-"42",ZONDA (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8 
