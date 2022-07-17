@@ -78,8 +78,8 @@ https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8
 #EXTINF:-1 tvg-chno-"26",ORIENTAL TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"27",GDM STUDIO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8
+#EXTINF:-1 tvg-chno-"27",DAN TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8 
  
 #EXTINF:-1 tvg-chno-"28",TICAVISION ( VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
 https://59ef525c24caa.streamlock.net/HBTV/HBTV/.m3u8 
