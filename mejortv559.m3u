@@ -225,8 +225,11 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/.m3u8
 #EXTINF:-1 tvg-chno-"75",CLUBTV CL (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://mediacpstreamchile.com:1936/clubtv/clubtv/.m3u8
 
-#EXTINF:-1 tvg-chno-"76",YOUTUTV.KUNG FU YOGA | Jackie Chan
-https://www.youtube.com/watch?v=VflTtmHEEYM
+#EXTINF:-1 tvg-chno-"76",YOUTUTV.La leyenda de Tarzán - Capitulo 2
+https://www.youtube.com/watch?v=SIpxuU2H2vU&list=PLj4SAFyoWC0D-9fFmlOjOx_6iPwfpyZ3q&index=3
+
+#EXTINF:-1 tvg-chno-"77",YOUTUTV.La leyenda de Tarzán - Capitulo 3 - El cubo perdido
+https://www.youtube.com/watch?v=6K7I4mzKCy0&list=PLj4SAFyoWC0D-9fFmlOjOx_6iPwfpyZ3q&index=4
 
 
 
