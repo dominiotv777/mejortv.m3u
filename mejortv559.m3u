@@ -39,8 +39,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-chno-"13",HORRORFI (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/c2b837d7-e302-4a7d-8a5e-8a3ba8d9e151/4.m3u8
  
-#EXTINF:-1 tvg-chno-"14",SOMOS DEL ESTE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/.m3u8 
+#EXTINF:-1 tvg-chno-"14",ORBIT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ss3.domint.net:3134/otv_str/orbittv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",CINE TELECARIBE (DOCUMENTAL, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8  
