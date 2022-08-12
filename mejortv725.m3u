@@ -39,8 +39,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-chno-"13",MEGACINE TV RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
  
-#EXTINF:-1 tvg-chno-"14",JIMANI TV RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/.m3u8 
+#EXTINF:-1 tvg-chno-"14",MILLENIUM 49 TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv.panel.grupolimalive.com/milleniuntv/milleniuntv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",CINE TELECARIBE (DOCUMENTAL, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8  
