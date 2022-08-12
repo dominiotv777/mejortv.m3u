@@ -132,8 +132,8 @@ https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:-1 tvg-chno-"44",TELE 2000 (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://servilive.com:3126/live/tele2000live.m3u8  
    
-#EXTINF:-1 tvg-chno-"45",CONTIVISION  (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8
+#EXTINF:-1 tvg-chno-"45",NACIONAL TV PE  (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"46",TVR VE( PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vcp3.myplaytv.com/trv/trv/.m3u8 
