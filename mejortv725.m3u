@@ -114,8 +114,8 @@ https://stmv.panel.grupolimalive.com/orientetv/orientetv/.m3u8
 #EXTINF:-1 tvg-chno-"38",CANAL9TV-GT (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3113/live/canal9tvgtlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"39",CTV TV DIGITAL (VARIADO,PELICULAS)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv.panel.grupolimalive.com/digitaltv12/digitaltv12/playlist.m3u8
+#EXTINF:-1 tvg-chno-"39",ZONDA (VARIADO,PELICULAS)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"40",SAS GT (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
