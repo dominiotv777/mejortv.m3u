@@ -102,8 +102,8 @@ https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"34",RETRO PLUS 3 (PELICULAS, VARIADO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/.m3u8   
 
-#EXTINF:-1 tvg-chno-"35",CIUDAD MAGICA AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://videohd.fullstreaming.ar:3939/live/grupocitylive.m3u8    
+#EXTINF:-1 tvg-chno-"35",URANIO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.obslivestream.com/uraniotv/index.m3u8   
 
 #EXTINF:-1 tvg-chno-"36",OPINION SUR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN PROGRAMACION.
 https://mediacpstreamchile.com:1936/opinionsur/opinionsur/.m3u8
