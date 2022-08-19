@@ -21,8 +21,8 @@ https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/.m3u8
 #EXTINF:-1 tvg-chno-"7",RSELVA TV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/selvatv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"8",CRTV (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-http://live.obslivestream.com/crtvmux/index.m3u8   
+#EXTINF:-1 tvg-chno-"8",PLANEA TV (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/.m3u8  
 
 #EXTINF:-1 tvg-chno-"9",SABER MAS TV (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/f60feb44-b442-4bd0-8313-c1dfc1c20824/2.m3u8
