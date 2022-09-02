@@ -225,14 +225,19 @@ https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/.m3u8
 #EXTINF:-1 tvg-chno-"75",RT (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"76",YOUTU TV PREMIUM.Lobo Guerrero 2 
-https://www.youtube.com/watch?v=R-QfvgFhl1A&list=PLzcUOZCDCsTuONsX3A5HfRQ3La9iYvB78&index=45
+#EXTINF:-1 tvg-chno-"76",YOUTUTV ANIMASERIES. TARZAN CAP 14 (PROX CAP 03/09/2022)
+https://www.youtube.com/watch?v=4NRBA8LThMs&list=PLj4SAFyoWC0D-9fFmlOjOx_6iPwfpyZ3q&index=13
 
-#EXTINF:-1 tvg-chno-"77",YOUTU TV PREMIUM.El Mito jaki chan
-https://www.youtube.com/watch?v=sGjQ5yo5LAo
+#EXTINF:-1 tvg-chno-"77",YOUTUTV ANIMASERIES. Kick Buttowskin CAP 15 (PROX CAP 03/09/2022)
+https://www.youtube.com/watch?v=b-zoJlFg_5Y&list=PLIetz94jIKNeiJZR3Waoa50G3usaYtwhx&index=15
 
-#EXTINF:-1 tvg-chno-"78",YOUTU TV ANIMAX.Rokka no Yuusha.Capitulo 2 (Proximo capitulo 02/09/2022)
-https://www.youtube.com/watch?v=344ZF0e3QcY&list=PLVchiw7oCWR4DNqmQU13fNm_Nx750kYzs&index=2
+#EXTINF:-1 tvg-chno-"78",YOUTUTV ANIMAX. Rokka. Capitulo 3 (PROX CAP 03/09/2022)
+https://www.youtube.com/watch?v=3vZichiIXr4&list=PLVchiw7oCWR4DNqmQU13fNm_Nx750kYzs&index=3
+
+#EXTINF:-1 tvg-chno-"79",FILM MAS PLUS. DRAGON BALL BATALLA DE LOS DIOSES (PROX PEL 03/09/2022)
+https://www.youtube.com/watch?v=2YWo8y1CkZo
+
+
 
 
 
