@@ -84,8 +84,8 @@ https://stream.arcast.live/ahora/ahora/.m3u8
 #EXTINF:-1 tvg-chno-"28",IXCHIGUAN ( VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
 https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8      
 
-#EXTINF:-1 tvg-chno-"29",VALE TV VE ( VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL   
+#EXTINF:-1 tvg-chno-"29",ONTV CHANNEL( VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv.panel.grupolimalive.com/tptotv/tptotv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"30",TVS MACARAY (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vcp3.myplaytv.com/tvs/tvs/.m3u8   
