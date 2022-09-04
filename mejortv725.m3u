@@ -222,8 +222,8 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 #EXTINF:-1 tvg-chno-"74",IDENTIDAD TV (INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/.m3u8
 
-#EXTINF:-1 tvg-chno-"75",RT (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-chno-"75",SABER MAS TV (DOCUMENTAL,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/a1fd1354-7939-42e0-8d83-d208cb934d4c/0.m3u8
 
 #EXTINF:-1 tvg-chno-"76",YOUTUTV ANIMIXSERIES. TARZAN CAP 16 (PROXIMO CAP 06/09/2022)
 https://www.youtube.com/watch?v=3zNJ9Qs_t-0&list=PLj4SAFyoWC0D-9fFmlOjOx_6iPwfpyZ3q&index=15
