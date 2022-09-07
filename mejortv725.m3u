@@ -9,8 +9,8 @@ https://cdn.streamhispanatv.net:3771/live/teleartegtlive.m3u8
 #EXTINF:-1 tvg-chno-"3",BOREAL TV (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"4",TELEMAX GT  (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3824/live/telemaxlive.m3u8
+#EXTINF:-1 tvg-chno-"4",CHINCHA TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"5",ZONDA (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8       
