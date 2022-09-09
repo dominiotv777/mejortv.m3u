@@ -12,8 +12,8 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-chno-"4",CHINCHA TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
-#EXTINF:-1 tvg-chno-"5",ZONDA (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8       
+#EXTINF:-1 tvg-chno-"5",DANTV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cm.hostlagarto.com:4445/Punaltv/punaltvHD.myStream/chunks.m3u8      
 
 #EXTINF:-1 tvg-chno-"6",TROPICAL TV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/.m3u8 
