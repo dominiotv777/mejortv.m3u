@@ -9,8 +9,8 @@ https://cdn.streamhispanatv.net:3771/live/teleartegtlive.m3u8
 #EXTINF:-1 tvg-chno-"3",BOREAL TV (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"4",ORIGEN TV CL  (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://tv.streaming-chile.com:19360/origentv/origentv.m3u8 
+#EXTINF:-1 tvg-chno-"4",DOBLE C TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8 
 
 #EXTINF:-1 tvg-chno-"5",SURTV LLO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8      
