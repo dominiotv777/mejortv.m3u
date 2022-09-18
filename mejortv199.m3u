@@ -12,8 +12,8 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-chno-"4",DOBLE C TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8 
 
-#EXTINF:-1 tvg-chno-"5",SURTV LLO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8      
+#EXTINF:-1 tvg-chno-"5",CONTIVISION (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/contivision/livestream2/chunks.m3u8    
 
 #EXTINF:-1 tvg-chno-"6",TROPICAL TV (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/.m3u8 
