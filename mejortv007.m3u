@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno-"1",SPTV (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://srv2.zcast.com.br/sptv2/sptv2/.m3u8
+https://cdn4.hostlagarto.com:8081/static/puntacanatv/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"2",TELEARTE GT (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cdn.streamhispanatv.net:3771/live/teleartegtlive.m3u8       
