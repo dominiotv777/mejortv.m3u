@@ -39,8 +39,8 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-chno-"13",TOTOVISION GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
  
-#EXTINF:-1 tvg-chno-"14",SURTV LLO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv.panel.grupolimalive.com/surtv/surtv/.m3u8
+#EXTINF:-1 tvg-chno-"14",CENTRAL TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",TOP LATINO (MUSICA VARIADA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/.m3u8
