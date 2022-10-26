@@ -30,8 +30,8 @@ https://streaming.telecablecentral.com.do/Vallevision/ValleHD/.m3u8
 #EXTINF:-1 tvg-chno-"10",CARIÑOSA GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"11",IZABAL TV GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3340/live/izabaltvlive.m3u8  
+#EXTINF:-1 tvg-chno-"11",HECHICERA GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://video.misistemareseller.com/corporationhc/corporationhc/chunklist.m3u8 
 
 #EXTINF:-1 tvg-chno-"12",VISION DORADA (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://movil.ejeserver.com/live/visiondorada.m3u8 
