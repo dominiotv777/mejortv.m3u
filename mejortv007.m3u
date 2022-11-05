@@ -81,8 +81,8 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:-1 tvg-chno-"27",CANAL 9 LITORAL(PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.arcast.live/ahora/ahora/.m3u8
  
-#EXTINF:-1 tvg-chno-"28",IXCHIGUAN ( VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8      
+#EXTINF:-1 tvg-chno-"28",SPTV ( VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
+https://srv2.zcast.com.br/sptv2/sptv2/.m3u8     
 
 #EXTINF:-1 tvg-chno-"29",ESCUCHAME TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.voxtvhd.com.br/escuchame/escuchame/.m3u8 
