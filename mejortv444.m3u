@@ -21,8 +21,8 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/.m3u8
 #EXTINF:-1 tvg-chno-"7",CONTACTO  DEPORTIVO (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-1 tvg-chno-"8",SAS TV GT (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8   
+#EXTINF:-1 tvg-chno-"8",MILENIUM TV AR (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://video.alfasocialmedia.com.ar:3396/live/milleniumtvlive.m3u8  
 
 #EXTINF:-1 tvg-chno-"9",MONI TV CL (VARIADO, ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/.m3u8
