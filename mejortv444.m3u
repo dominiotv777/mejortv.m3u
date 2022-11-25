@@ -36,8 +36,8 @@ https://video.misistemareseller.com/corporationhc/corporationhc/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"12",VISION DORADA (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://movil.ejeserver.com/live/visiondorada.m3u8 
 
-#EXTINF:-1 tvg-chno-"13",TOTOVISION GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-chno-"13",FMTV 1 (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cloud2.streaminglivehd.com:1936/8018/8018/.m3u8 
  
 #EXTINF:-1 tvg-chno-"14",CENTRAL TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
