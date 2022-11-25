@@ -43,7 +43,7 @@ https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/.m3u8 
 
 #EXTINF:-1 tvg-chno-"15",TOP LATINO (MUSICA VARIADA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latinotv.stream/.m3u8
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/.m3u8 
 
 #EXTINF:-1 tvg-chno-"16",TV FLORENCIA GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3819/live/tvflorencialive.m3u8      
@@ -222,23 +222,23 @@ https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8
 #EXTINF:-1 tvg-chno-"74",SEÑAL COLOMBIA DEPORTES (VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"75",ANIMAX. BAJOTERRA. CAP 4 (PROX CAP 25/11/2022)
-https://www.youtube.com/watch?v=jPgBTkgJf8w&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&index=4
+#EXTINF:-1 tvg-chno-"75",ANIMAX. BAJOTERRA. CAP 5 (PROX CAP 27/11/2022)
+https://www.youtube.com/watch?v=QB73MgvajZI&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&index=5
 
-#EXTINF:-1 tvg-chno-"76",ANIMIXACCION. TORTUGAS NINJA. Tortuga Titán (PROX CAP 25/11/2022)
-https://www.youtube.com/watch?v=f2e_A641hDo&list=PLj4SAFyoWC0D_RQCZ5m9PN3pFYcALn_PB&index=11
+#EXTINF:-1 tvg-chno-"76",ANIMIXACCION. TORTUGAS NINJA. Historias parte 1(PROX CAP 27/11/2022)
+https://www.youtube.com/watch?v=aFuZrIfWlOo&list=PLj4SAFyoWC0D_RQCZ5m9PN3pFYcALn_PB&index=12
 
-#EXTINF:-1 tvg-chno-"77",YOUTUTV ANIMIXSERIES. buzz lightyear. La Fuerza (PROX CAP 25/11/2022)
-https://www.youtube.com/watch?v=BaMJUMbEetM
+#EXTINF:-1 tvg-chno-"77",YOUTUTV ANIMIXSERIES. buzz lightyear. El Regreso de XL (PROX CAP 27/11/2022)
+https://www.youtube.com/watch?v=D1dfJCjEhXk&t=604s
 
-#EXTINF:-1 tvg-chno-"78",YOUTUTV ANIMIXCLASSIC. Conde patula. jorobado (PROX CAP 25/11/2022)
-https://www.youtube.com/watch?v=KwfuHQKvXzc&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=16
+#EXTINF:-1 tvg-chno-"78",YOUTUTV ANIMIXCLASSIC. Conde patula. querido diario (PROX CAP 27/11/2022)
+https://www.youtube.com/watch?v=cFStTmqBgmw&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=17
 
-#EXTINF:-1 tvg-chno-"79",FILM PLUS ACCION.KV1: los nuevos vengadores 2022 (PROX PELI 25/11/2022)
+#EXTINF:-1 tvg-chno-"79",FILM PLUS ACCION.los indestructibles (PROX PELI 27/11/2022)
 https://www.youtube.com/watch?v=5pdKgZ7F688&t=3962s
 
-#EXTINF:-1 tvg-chno-"80",CINE HD TOTAL. PROXIMOS ESTRENOS (PROXIMA PELI 25/11/2022)
-https://www.youtube.com/watch?v=LfRpKRuH0v0
+#EXTINF:-1 tvg-chno-"80",CINE HD TOTAL. El Ocaso de la luz (PROXIMA PELI 27/11/2022)
+https://www.youtube.com/watch?v=mN70Oy4HHwg&t=3709s
 
 
 
