@@ -216,8 +216,8 @@ https://www.youtube.com/watch?v=RTjbYKBB828
 #EXTINF:-1 tvg-chno-"72",KPOP COL. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-chno-"73",CITY SPORTS TV AR (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://videosenlared.fullstreaming.ar:3884/live/citysportslive.m3u8 
+#EXTINF:-1 tvg-chno-"73",CRTV PE (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://live.obslivestream.com/crtvmux/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"74",SEÑAL COLOMBIA DEPORTES (VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/.m3u8
