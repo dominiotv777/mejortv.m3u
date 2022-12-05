@@ -159,8 +159,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro
 #EXTINF:-1 tvg-chno-"53",LA VOZ DE TUCUMAN AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://srv1.zcast.com.br/lavozdetucuman/lavozdetucuman/.m3u8 
 
-#EXTINF:-1 tvg-chno-"54",CANAL 2 SANAGASTA AR (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
-https://stmvideo1.livecastv.com/canal2/canal2/.m3u8
+#EXTINF:-1 tvg-chno-"54",GENIOS (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
+http://live.obslivestream.com/geniostvmux/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"55",CHIQUILINES (ANIMADO, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8    
