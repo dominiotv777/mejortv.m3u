@@ -222,23 +222,23 @@ http://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-chno-"74",SEÑAL COLOMBIA DEPORTES (VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"75",ANIMAX. BAJOTERRA. CAP 9 (PROX CAP 06/12/2022)
-https://www.youtube.com/watch?v=Ad7Slt4LY80&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&index=9
+#EXTINF:-1 tvg-chno-"75",ANIMAX. BAJOTERRA. CAP 10 (PROX CAP 09/12/2022)
+https://www.youtube.com/watch?v=LjUfOIqDwic&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&index=10
 
-#EXTINF:-1 tvg-chno-"76",ANIMIXACCION. TORTUGAS NINJA. Shredder Contraataca Pt 1  (PROX CAP 06/12/2022)
-https://www.youtube.com/watch?v=JppQnewWIAY&list=PLj4SAFyoWC0D_RQCZ5m9PN3pFYcALn_PB&index=16
+#EXTINF:-1 tvg-chno-"76",ANIMIXACCION. TORTUGAS NINJA. Shredder Contraataca Pt 2  (PROX CAP 09/12/2022)
+https://www.youtube.com/watch?v=bXmX3XOU4Sc&list=PLj4SAFyoWC0D_RQCZ5m9PN3pFYcALn_PB&index=17
 
-#EXTINF:-1 tvg-chno-"77",YOUTUTV ANIMIXSERIES. buzz lightyear. MOUSTRO DE PLASMA. FINAL TEMPORADA 1(PROX CAP 06/12/2022)
-https://www.youtube.com/watch?v=X1TYvqiTe74
+#EXTINF:-1 tvg-chno-"77",YOUTUTV ANIMIXSERIES. GLADIADORES CAP 1 (PROX CAP 09/12/2022)
+https://www.youtube.com/watch?v=aiREkBl6vzM&list=PLG_nGpEe-ixSjb8YGcchs9FCmaJLb0gQr
 
-#EXTINF:-1 tvg-chno-"78",YOUTUTV ANIMIXCLASSIC. Conde patula. PATASMA (PROX CAP 06/12/2022)
-https://www.youtube.com/watch?v=AxDdqhITalI&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=21
+#EXTINF:-1 tvg-chno-"78",YOUTUTV ANIMIXCLASSIC. Conde patula. EL MONSTRUO (PROX CAP 09/12/2022)
+https://www.youtube.com/watch?v=2bst_3yc9gA&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=22
 
-#EXTINF:-1 tvg-chno-"79",FILM PLUS ACCION. Ultimate Avengers 1 (PROX PELI 04/12/2022)
-https://www.youtube.com/watch?v=SrYq7CyrxTg
+#EXTINF:-1 tvg-chno-"79",FILM PLUS ACCION. Altitud Mortal (PROX PELI 09/12/2022)
+https://www.youtube.com/watch?v=ORd8YaOO_PA&list=PLJZdEGSkfuLyvrOoCNcVq5M_6U7kA1oqb&index=1
 
-#EXTINF:-1 tvg-chno-"80",CINE HD TOTAL. Momentum (PROXIMA PELI 06/12/2022)
-https://www.youtube.com/watch?v=iZhqCgivszE&t=788s
+#EXTINF:-1 tvg-chno-"80",CINE HD TOTAL. SIN RASTRO ALGUNO (PROXIMA PELI 09/12/2022)
+https://www.youtube.com/watch?v=fOuBTnrs7ew
 
 
 
