@@ -219,8 +219,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1 tvg-chno-"73",CRTV PE (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://live.obslivestream.com/crtvmux/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"74",TV PUBLICA AR (VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-chno-"74",CIUDAD MAGICA (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://videosenlared.fullstreaming.ar:3501/live/grupocitylive.m3u8
 
 #EXTINF:-1 tvg-chno-"75",ANIMAX. BAJOTERRA. CAP 13 (PROX CAP 16/12/2022)
 https://www.youtube.com/watch?v=FB5KRhx_REE&list=PLylO5ejGS8ABN58H-W1Y-U2Vouq5aQfML&index=13
