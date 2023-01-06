@@ -12,8 +12,8 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-chno-"4",SAN ISIDRO RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"5",CARTAGO MEDIOS CR ((PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://tvdatta.com:3384/live/cartagomedioslive.m3u8    
+#EXTINF:-1 tvg-chno-"5",CINCO TV TIGRE ((PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8   
 
 #EXTINF:-1 tvg-chno-"6",COSMOS (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8   
