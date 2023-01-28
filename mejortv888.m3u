@@ -126,8 +126,8 @@ https://stream.plixitv.live/oktv/oktv/.m3u8
 #EXTINF:-1 tvg-chno-"42",WOW TV  (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/.m3u8
 
-#EXTINF:-1 tvg-chno-"43",TVPJ EC (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://vdo.panelstreaming.live:3363/live/radiotvpjlive.m3u8        
+#EXTINF:-1 tvg-chno-"43",ANDES TV (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/.m3u8       
 
 #EXTINF:-1 tvg-chno-"44",GDM STUDIO (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss2.domint.net:3200/gdm_str/gdmtv/.m3u8 
