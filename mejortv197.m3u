@@ -90,8 +90,8 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-chno-"30",RCK TV (MUSICA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/.m3u8       
 
-#EXTINF:-1 tvg-chno-"31",VZTV PE (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://live.obslivestream.com/vztv/index.m3u8    
+#EXTINF:-1 tvg-chno-"31",TVPJ (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://vdo.panelstreaming.live:3363/live/radiotvpjlive.m3u8    
 
 #EXTINF:-1 tvg-chno-"32",SAN VITO (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/.m3u8  
