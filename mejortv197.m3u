@@ -192,8 +192,8 @@ https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 #EXTINF:-1 tvg-chno-"64",GENIOS (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 http://live.obslivestream.com/geniostvmux/index.m3u8   
 
-#EXTINF:-1 tvg-chno-"65",TRIVU (DOCUMENTAL,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://servilive.com:3244/live/trivutvlive.m3u8
+#EXTINF:-1 tvg-chno-"65",RT (DOCUMENTAL,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 #EXTINF:-1 tvg-chno-"66",DW TV (DOCUMENTAL,VARIADO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
