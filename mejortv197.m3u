@@ -9,8 +9,8 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-chno-"3",BOREAL RD (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"4",SAN ISIDRO RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"4", SOLIVE TV AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"5",CINCO TV TIGRE ((PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8   
