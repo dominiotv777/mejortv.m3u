@@ -190,7 +190,7 @@ https://servilive.com:3753/live/qosqotimeslive.m3u8
 https://ss2.domint.net:3210/ltv_str/latinatv/.m3u8
 
 #EXTINF:-1 tvg-chno-"64",EURONEWS (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/154b1bf1-5379-4475-a3ec-5de96f6dd698/1.m3u8 
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/658511a7-8f9d-408f-be3c-3015b1e81a77/0.m3u8
 
 #EXTINF:-1 tvg-chno-"65",RT (DOCUMENTAL,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
@@ -216,7 +216,7 @@ https://livestreamcdn.net:444/ExtremaTV/ExtremaTV/.m3u8
 #EXTINF:-1 tvg-chno-"72",KPOP COL. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 
-#EXTINF:-1 tvg-chno-"73", MULTIVISION RD (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"73",MULTIVISION RD (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn2.streamgato.us/canalmultivision/canalmultivision/.m3u8    
 
 #EXTINF:-1 tvg-chno-"74",CIUDAD MAGICA (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
