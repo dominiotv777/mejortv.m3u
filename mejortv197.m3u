@@ -54,8 +54,8 @@ https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1 tvg-chno-"18",DREIKOTV. (ANIMADO, SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8       
 
-#EXTINF:-1 tvg-chno-"19",IMAGEN UNIVERSAL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:-1 tvg-chno-"19",FULL CHANNEL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3845/live/fullchannelgtlive.m3u8
  
 #EXTINF:-1 tvg-chno-"20",HECHICERA (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://video.misistemareseller.com/corporationhc/corporationhc/.m3u8
