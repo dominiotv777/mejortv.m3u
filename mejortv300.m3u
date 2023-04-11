@@ -195,8 +195,8 @@ https://streamyes.alsolnet.com/canal34hd/live/.m3u8
 #EXTINF:-1 tvg-chno-"65",RUM TIME FAMILIA.(VARIADO, FAMILIAR) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/cl/230226cftc9obaqhf9g4n3st90/854x480_1355200_2_f.m3u8?i=475_3528
 
-#EXTINF:-1 tvg-chno-"66",DW TV (DOCUMENTAL, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-chno-"66",XTREMA ANIME. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
+ https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/.m3u8 
 
 #EXTINF:-1 tvg-chno-"67",CNAR (TECNOLOGIA,NOTICIAS, DOCUMENTAL). SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/.m3u8
@@ -228,8 +228,8 @@ https://stmv1.cnarlatam.com/mundotv/mundotv/.m3u8
 #EXTINF:-1 tvg-chno-"76",DKIDS (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8 
 
-#EXTINF:-1 tvg-chno-"77",XTREMA ANIME. SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/.m3u8 
+#EXTINF:-1 tvg-chno-"77"DW TV (DOCUMENTAL, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-chno-"78",ANIMIXCLASSIC. CONDE PATULA. Las tribulaciones (PROX CAP 14/04/2023)
 https://www.youtube.com/watch?v=uXOoi1tioh4&list=PLgOQe7EJRve_6xLKREwF20swIfYEAxrEd&index=62
