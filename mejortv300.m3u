@@ -222,8 +222,8 @@ https://stream.ads.ottera.tv/cl/230323cgdrpha86jbdor7hq8ng/1280x720_2300000_0_f.
 #EXTINF:-1 tvg-chno-"74",RT (DOCUMENTAL, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
  https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-chno-"75",AVENTURAS TV (DOCUMENTAL)SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv1.cnarlatam.com/mundotv/mundotv/.m3u8
+#EXTINF:-1 tvg-chno-"75",CANAL UNO DIGITAL. 
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
 #EXTINF:-1 tvg-chno-"76",CNAR (TECNOLOGIA,NOTICIAS, DOCUMENTAL). SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
  https://stmv1.cnarlatam.com/cnarnoticias/cnarnoticias/.m3u8 
@@ -231,7 +231,7 @@ https://stmv1.cnarlatam.com/mundotv/mundotv/.m3u8
 #EXTINF:-1 tvg-chno-"77",DW TV (DOCUMENTAL, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-chno-"78",CARACOL. 
+#EXTINF:-1 tvg-chno-"78",CARACOL DIGITAL 
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 tvg-chno-"79",ANIMIX PLUS. Cazafantasmas: la nueva generación TEP 2 "El trepador" (PROX CAP 014/04/2023)
