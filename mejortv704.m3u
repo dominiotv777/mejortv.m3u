@@ -90,8 +90,8 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-chno-"30",SUPER TV KACHORRO  (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tvdatta.com:3517/live/kachorrotvlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"31",DTI COL  (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8 
+#EXTINF:-1 tvg-chno-"31",NIM TV GT  (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8 
 
 #EXTINF:-1 tvg-chno-"32",SAN VITO (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.streamingvip.click/sanvitotv/sanvitotv/.m3u8  
