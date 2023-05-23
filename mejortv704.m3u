@@ -225,8 +225,8 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"75",CANAL UNO DIGITAL COL
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 
-#EXTINF:-1 tvg-chno-"76",RCN COL. 
-https://199.180.114.174:84/crcn.m3u8
+#EXTINF:-1 tvg-chno-"76",RCN COL 
+http://199.180.114.174:84/crcn.m3u8
 
 #EXTINF:-1 tvg-chno-"77",DW TV (DOCUMENTAL, INFORMATIVO) SI NO TIENES SEÑAL, VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
