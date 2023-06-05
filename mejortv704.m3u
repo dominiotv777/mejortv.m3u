@@ -201,11 +201,11 @@ https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 #EXTINF:-1 tvg-chno-"67",CHIQUILINES (ANIMADO. TODAS LAS EDADES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/970d97ea-fcd9-462a-8e45-aaa4f3469191/4.m3u8 
   
-#EXTINF:-1 tvg-chno-"68",MOVIE FE (PELICULAS CRISTIANAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/.m3u8
+#EXTINF:-1 tvg-chno-"68",ANIMIX PLUS.Tower of God. Capítulo 10 (PROX CAP 09/06/2023)
+https://www.youtube.com/watch?v=chptEaOfzMg
 
-#EXTINF:-1 tvg-chno-"69",LA NUEVA TV (MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://5e85d90130e77.streamlock.net/6004/6004/.m3u8
+#EXTINF:-1 tvg-chno-"69",ANIMIX PLUS 2.HOMBRES DE NEGRO.TEPORADA 2.Síndrome De Perro.(PROX CAP 09/06/2023)
+https://www.youtube.com/watch?v=n3zvGb8XPeA&list=PLZn1tGRlTgQkhTIabHEh43hyeuYqeSNdx&index=4
 
 #EXTINF:-1 tvg-chno-"70",EJTV (MUSICA MENSAJE) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://1-1145-11554-1.b.cdn13.com/EJTV/smil:ejtv-hd.smil/.m3u8
@@ -216,11 +216,11 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-chno-"72",NUBEH TV  (FAMILIAR, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"73",TELEVISA  (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8         
+#EXTINF:-1 tvg-chno-"73",MOVIE FE (PELICULAS CRISTIANAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://vcp.myplaytv.com/moviefe/ngrp:moviefe_all/.m3u8       
 
-#EXTINF:-1 tvg-chno-"74",RT (DOCUMENTAL, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
- https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-chno-"74",LA NUEVA TV (MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://5e85d90130e77.streamlock.net/6004/6004/.m3u8
 
 #EXTINF:-1 tvg-chno-"75",CANAL UNO DIGITAL COL
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -234,11 +234,11 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 #EXTINF:-1 tvg-chno-"78",CARACOL DIGITAL COL
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1 tvg-chno-"79",ANIMIX PLUS.Tower of God. Capítulo 9 (PROX CAP 04/06/2023)
-https://www.youtube.com/watch?v=0sZMRaF2N_M
+#EXTINF:-1 tvg-chno-"79",TELEVISA (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8         
 
-#EXTINF:-1 tvg-chno-"80",ANIMIX PLUS 2.HOMBRES DE NEGRO.TEPORADA 2.cabezas perdidas (PROX CAP 04/06/2023)
-https://www.youtube.com/watch?v=Mq3n9Bm1GSc&list=PLZn1tGRlTgQkhTIabHEh43hyeuYqeSNdx&index=3
+#EXTINF:-1 tvg-chno-"80",RT (DOCUMENTAL, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
 
 
