@@ -99,8 +99,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"33",TOROCOCO TV VE (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://oracle.streaminghd.cl/torococotelevision/torococotelevision/.m3u8
 
-#EXTINF:-1 tvg-chno-"34",TUN GT (VARIADO, PELICULAS)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3832/live/tvtunlive.m3u8    
+#EXTINF:-1 tvg-chno-"34",IXCHIGUAN GT (VARIADO, PELICULAS)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8    
 
 #EXTINF:-1 tvg-chno-"35",MDA VE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vcp.myplaytv.com/mdatv/mdatv/.m3u8 
