@@ -90,8 +90,8 @@ https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"30",OPINION SUR CL (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv2.zcasthn.com.br/opinionsur/opinionsur/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"31",NIM TV GT  (MUSICA, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8 
+#EXTINF:-1 tvg-chno-"31",ESQUIPULAS CANAL 13 GT (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 #EXTINF:-1 tvg-chno-"32",CANAL 21 AR (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8 
