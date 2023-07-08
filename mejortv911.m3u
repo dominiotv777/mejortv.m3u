@@ -9,8 +9,8 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 tvg-chno-"3",BOREAL RD (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"4",SONY CINE (PELICULAS, TELEVENTAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"4",+CINE TV CL (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://tv.streaming-chile.com:1936/8142/8142/+Cine.playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"5",CINCO TV TIGRE ((PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8   
