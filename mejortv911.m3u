@@ -246,6 +246,10 @@ https://hls.newworldtv.com/nw-sport-2/video/live.m3u8
 #EXTINF:-1 tvg-chno-"82",NW SPORTS 1 (DEPORTES EUROPA  ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://hls.newworldtv.com/nw-sport-1/video/live.m3u8
 
+#EXTINF:-1 tvg-chno-"83",TVRI Sport (DEPORTES EUROPA  ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+
 
 
 
