@@ -243,8 +243,8 @@ https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 tvg-chno-"81",CTAPT START (DEPORTES EUROPA  ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://strm.yandex.ru/kal/start/start0.m3u8
 
-#EXTINF:-1 tvg-chno-"82",AIO SPORTS  (DEPORTES EUROPA  ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://af.ayas.ir/hls2/aiosport.m3u8
+#EXTINF:-1 tvg-chno-"82",RTA SPORTS (DEPORTES EUROPA  ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://hls.rtasport.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-chno-"83",REAL M TV (DEPORTES EUROPA  ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Real-Madrid.m3u8
