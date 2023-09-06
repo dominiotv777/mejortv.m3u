@@ -72,8 +72,8 @@ https://oracle.streaminghd.cl/torococotelevision/torococotelevision/playlist.m3u
 #EXTINF:-1 tvg-chno-"24",CINCO TV TIGRE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-#EXTINF:-1 tvg-chno-"25",TOLIMAN GT (PELICULAS, VARIADO). SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
+#EXTINF:-1 tvg-chno-"25",TUNEVISION GT (PELICULAS, VARIADO). SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3852/live/tunevisionlive.m3u8
 
 #EXTINF:-1 tvg-chno-"26",TELEMIX (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://panel.dattalive.com/8068/8068/playlist.m3u8
