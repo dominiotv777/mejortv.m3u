@@ -192,8 +192,8 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/.m3u8
 #EXTINF:-1 tvg-chno-"64",ANIMAKIDS (VARIADO ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 tvg-chno-"65",ANIME STATION AR (ANIMADOS CLASICOS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"65",CHINOLA (PELICULAS ANIMADAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://streaming.ath.cx:1936/chinolatv/chinolatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"66",MUNDO PEQUEÑO (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
