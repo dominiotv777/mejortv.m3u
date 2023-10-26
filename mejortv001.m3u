@@ -240,14 +240,20 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-chno-"80",CABLE NOTICIAS COL. (NOTICIAS, PARTIDOS DE COLOMBIA "ACTUALIZAR EN EL INICIO DE CADA PARTIDO" ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.CHILE VS MEXICO EN VIVO | #PANAMERICANOS #2023 
+#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.(EN VIVO) CHILE VS MEXICO | #PANAMERICANOS #2023 
 https://www.youtube.com/watch?v=9YGweJk0600
 
 #EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 2.(RESUMEN )Young Boys VS Man. City
 https://www.youtube.com/watch?v=Jgs7suMKe3A&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhCzyj&index=68Y
 
-#EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 3.(RESUMEN) Sturm Graz VS Atalanta.
+#EXTINF:-1 tvg-chno-"83",FUTBOL DIFERIDO 3.(RESUMEN) Sturm Graz VS Atalanta.
 https://www.youtube.com/watch?v=6Oq2UK8RzSQ&list=PLTRckBbIqcx18njVZCnbjjVfGMUcICkFI&index=20
+
+#EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(EN VIVO) PANAMERICANOS COLOMBIA VS BRASIL. HOY 6:15 PM INICIA TRASMISION
+https://www.youtube.com/watch?v=hngmWBsyhoQ
+
+#EXTINF:-1 tvg-chno-"85",FUTBOL DIFERIDO 4.(RESUMEN) River VS Independiente
+https://www.youtube.com/watch?v=SXqOwIndb0g
 
 
 
