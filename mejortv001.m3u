@@ -240,20 +240,20 @@ https://panel.dattalive.com/8250/8250/playlist.m3u8
 #EXTINF:-1 tvg-chno-"80",CABLE NOTICIAS COL. (NOTICIAS, PARTIDOS DE COLOMBIA "ACTUALIZAR EN EL INICIO DE CADA PARTIDO" ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.(EN VIVO) Estados Unidos vs. Colombia
-https://www.youtube.com/watch?v=DhgG_Z_o-Dw
+#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.(EN VIVO) CHILE VS JAMAICA PANAMERICANOs
+https://www.youtube.com/watch?v=fuhy3iqhcdE
 
-#EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 2.(EN VIVO ) PANAMERICANOS.MEXICO VS REPUBLICADOMINICANA 
-https://www.youtube.com/watch?v=8nzGdeJMaY4
+#EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 2.(RESUMEN )FINAL COPA SUDAMERICANA LIGA VS FORTALEZA
+https://www.youtube.com/watch?v=5C8BGGHVcBk
 
-#EXTINF:-1 tvg-chno-"83",FUTBOL DIFERIDO 3.(RESUMEN) Liverpool VS Toulouse |
-https://www.youtube.com/watch?v=F0GJPrR8r24&list=PLTRckBbIqcx18njVZCnbjjVfGMUcICkFI&index=24
+#EXTINF:-1 tvg-chno-"83",FUTBOL DIFERIDO 3.(EN VIVO) PANAMERICANOS COLOMBIA VS USA. 4:30 PM DOMINGO 29/10/2023. "ACTUALIZAR A LA HORA DEL JUEGO"
 
-#EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(RESUMEN) Leverkusen VS Qarabag
-https://www.youtube.com/watch?v=UyaV6dbLWNE&list=PLTRckBbIqcx18njVZCnbjjVfGMUcICkFI&index=26
 
-#EXTINF:-1 tvg-chno-"85",FUTBOL DIFERIDO 5.(RESUMEN) Leipzig VS Estrella Roja
-https://www.youtube.com/watch?v=NZPHeDfBTR4&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhCzyj&index=69
+#EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(RESUMEN) Cristiano RonaldoAl Nassr vs Al Feiha
+https://www.youtube.com/watch?v=xUZZmrFG5_I
+
+#EXTINF:-1 tvg-chno-"85",FUTBOL DIFERIDO 5.(RESUMEN) Royal Antwerp VS Porto
+https://www.youtube.com/watch?v=q7NoUvF6l4k&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhCzyj&index=67
 
 
 
