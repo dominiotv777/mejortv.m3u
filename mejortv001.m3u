@@ -33,8 +33,8 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-chno-"11",NEO TV AR (SUPER VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8   
 
-#EXTINF:-1 tvg-chno-"12",TV MAX (PELICULAS, VARIADO, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF:-1 tvg-chno-"12",TOLIMAN GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3237/live/canal9tvgtlive.m3u8
 
 #EXTINF:-1 tvg-chno-"13",GUATUSO TV CR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5cf4a2c2512a2.streamlock.net/8162/8162/master.m3u8
@@ -240,17 +240,17 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-chno-"80",CABLE NOTICIAS COL. (NOTICIAS, PARTIDOS DE COLOMBIA "ACTUALIZAR EN EL INICIO DE CADA PARTIDO" ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.(EN VIVO) COLOMBIA VS VENEZUELA.SUB 20.FUTSAL.2023
-https://www.youtube.com/watch?v=jZd6-dRcRvk
+#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.(EN VIVO) PERU VS. COLOMBIA. MAYORES 20.FUTSAL.2023
+https://www.youtube.com/watch?v=QdhrX6loPTI
 
-#EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 2.(EN VIVO) COLOMBIA VS VENEZUELA.MAYORES.FUTSAL.2023
-https://www.youtube.com/watch?v=-Kt41ZviLo4
+#EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 2.(EN VIVO)BRASIL VS. ECUADOR.MAYORES.FUTSAL.2023
+https://www.youtube.com/watch?v=Qdhgcu0ccCA
 
-#EXTINF:-1 tvg-chno-"83",FUTBOL DIFERIDO 3.(resumen) Estrella Roja VS Leipzig 
-https://www.youtube.com/watch?v=4pvh4R3MGbs&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhCzyj&index=76
+#EXTINF:-1 tvg-chno-"83",FUTBOL DIFERIDO 3.(resumen) Toulouse VS Liverpool 
+https://www.youtube.com/watch?v=Gl7VQNrnrrQ&list=PLTRckBbIqcx18njVZCnbjjVfGMUcICkFI&index=30
 
-#EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(RESUMEN) Manchester City VS Young Boys  
-https://www.youtube.com/watch?v=-67MFHPmlwg&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhCzyj&index=74
+#EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(RESUMEN)  Copenhague VS Man. Utd. 
+https://www.youtube.com/watch?v=AhKSnT1izgA&list=PLTRckBbIqcx0f-QjRc83-n8hc8xKhCzyj&index=86
 
 
 
