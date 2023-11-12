@@ -90,7 +90,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-chno-"30",OPINION SUR CL (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv5.voxtvhd.com.br/opinionsur/opinionsur/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"31", TV NOSAR CR (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"31",TV NOSAR CR (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.streamingvip.click/tvnosara2/tvnosara2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"32",TELEBRUNCA CR (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
@@ -240,17 +240,17 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:-1 tvg-chno-"80",CABLE NOTICIAS COL. (NOTICIAS, PARTIDOS DE COLOMBIA "ACTUALIZAR EN EL INICIO DE CADA PARTIDO" ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.(EN VIVO) COLOMBIA VS. ECUADOR  MAYORES .FUTSAL.2023
-https://www.youtube.com/watch?v=Rqmck7eaWKo
+#EXTINF:-1 tvg-chno-"81",FUTBOL DIFERIDO.(EN VIVO) BRASIL VS. COLOMBIA sub-20 .FUTSAL.2023
+https://www.youtube.com/watch?v=N-39xmDHYx0
 
-#EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 2.(EN VIVO) PERU VS. BRASIL .MAYORES.FUTSAL.2023
-https://www.youtube.com/watch?v=6f4lBhu1xVo
+#EXTINF:-1 tvg-chno-"82",FUTBOL DIFERIDO 2.(EN VIVO) BRASIL VS. COLOMBIA  .MAYORES.FUTSAL.2023
+https://www.youtube.com/watch?v=qZjP3xHakFo
 
-#EXTINF:-1 tvg-chno-"83",FUTBOL DIFERIDO 3.(resumen) Reims vs PSG 
-https://www.youtube.com/watch?v=nT9f8xfi18U
+#EXTINF:-1 tvg-chno-"83",FUTBOL DIFERIDO 3.(resumen) Chelsea vs Man. City 
+https://www.youtube.com/watch?v=Va7vEuPJkds
 
-#EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(RESUMEN) B. Munich vs Heidenheim
-https://www.youtube.com/watch?v=eXbPm6P74Sg
+#EXTINF:-1 tvg-chno-"84",FUTBOL DIFERIDO 4.(RESUMEN) Liverpool vs Brentford 
+https://www.youtube.com/watch?v=v38YDq-QaPg
 
 
 
