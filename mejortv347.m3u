@@ -186,8 +186,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 #EXTINF:-1 tvg-chno-"62",ZONA DE ACCION (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
-#EXTINF:-1 tvg-chno-"63",RAKUTEN KIDS (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"63",ESTACION RETRO COL (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://xhateaec.com:8800/hls/Xhateaec/Xhateaec/09aad3dd77caa0ed9af428f21870dc79/index.m3u8
 
 #EXTINF:-1 tvg-chno-"64",ANIME STATION AR (VARIADO ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8  
