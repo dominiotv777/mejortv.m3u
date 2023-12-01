@@ -54,8 +54,8 @@ https://tv.streaming-chile.com:1936/origentv/origentv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"18",ORBIT TV RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"19",IXCHIGUAN GT (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8 
+#EXTINF:-1 tvg-chno-"19",GTV GT (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8 
  
 #EXTINF:-1 tvg-chno-"20",CRTV PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/crtvmux/index.m3u8
