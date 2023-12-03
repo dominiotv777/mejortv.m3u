@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",VILLA TV RD (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://inliveserver.com:1936/10016/10016/.m3u8     
+#EXTINF:-1 tvg-chno-"1",GENIOS TV PE (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+http://live.obslivestream.com/geniostvmux/index.m3u8      
 
 #EXTINF:-1 tvg-chno-"2",DIMELO RD (INFORMATIVO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8               
@@ -243,8 +243,7 @@ https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-chno-"81",RCN DEPORTES. 🔴EN VIVO🔴 Colombia vs. Nueva Zelanda. 02/12/2023. 3:40 PM
 https://www.youtube.com/watch?v=imK4w1sBWFY
 
-#EXTINF:-1 tvg-chno-"82",GOL CARACOL HD. SOLO PARTIDOS EN VIVO DE COLOMBIA.
-https://mdstrm.com/live-stream-playlist/58d18bd236e5f69e5887332b.m3u8
+
 
 
 
