@@ -138,8 +138,8 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-chno-"46",SOLIVE TV AR (VARIADO,PELICULAS)) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.cnarlatam.com/solivetv/solivetv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"47",RTS EC (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
-https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"47",EL SOL Y RADIO EC (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"48",PRIMAVERA 15 PE (PELICULAS,MUSICA, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
