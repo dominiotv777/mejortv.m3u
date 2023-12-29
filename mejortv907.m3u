@@ -120,8 +120,8 @@ https://ss3.domint.net:3156/ltv_str/latinatvint/playlist.m3u8
 #EXTINF:-1 tvg-chno-"40",WOW TV SAL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"41",MAS TV GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8
+#EXTINF:-1 tvg-chno-"41",SOL TV GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
  
 #EXTINF:-1 tvg-chno-"42",CANAL 34 SAN JUAN AR (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://streamyes.alsolnet.com/canal34hd/live/.m3u8
