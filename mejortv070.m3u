@@ -189,8 +189,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-chno-"63",ANIME STATION AR (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"64",MONI TV CL (VARIADO ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:-1 tvg-chno-"64",DREIKO CR (LEYENDAS ANIMADAS) HORARIO DE TRANSMISION DE 9:00 AM A 4:00 AM
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 tvg-chno-"65",LATINO KIDS UR (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
