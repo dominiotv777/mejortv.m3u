@@ -189,8 +189,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 #EXTINF:-1 tvg-chno-"63",ANIME STATION AR (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"64",DREIKO CR (LEYENDAS ANIMADAS) HORARIO DE TRANSMISION DE 9:00 AM A 4:00 AM
-https://cloudvideo.servers10.com:8081/8138/index.m3u8
+#EXTINF:-1 tvg-chno-"64",MAXANIME (ANIMADOS ACCION) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
 
 #EXTINF:-1 tvg-chno-"65",PANDAMAX CL. (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8 
