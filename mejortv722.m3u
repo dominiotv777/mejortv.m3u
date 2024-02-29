@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-chno-"1",IMAGEN UNIVERSAL TV RD (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://vdo1.streamgato.us:3138/live/phtvlive.m3u8
+https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"2",BARBE  GT ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8     
