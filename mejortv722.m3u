@@ -186,8 +186,8 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-chno-"62",ZONA DE ACCION (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312
 
-#EXTINF:-1 tvg-chno-"63",ANIME STATION AR (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"63",PANDAMAX CL (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8      
 
 #EXTINF:-1 tvg-chno-"64",CANALLMS (ANIMADOS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/canallms/chunks.m3u8
