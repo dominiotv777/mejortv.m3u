@@ -234,8 +234,8 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"78",CARACOL DIGITAL COL.
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
-#EXTINF:-1 tvg-chno-"79",VALE TV VE (INFORMATIVO,DOCUMENTAL) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"79",CGTN (INFORMATIVO,DOCUMENTAL, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-chno-"80",PLAY MEDIOS (VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/playmedios/chunks.m3u8
