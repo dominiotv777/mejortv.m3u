@@ -54,8 +54,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-chno-"18",WOW MOVIES (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"19",TOTOVISION GT (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+#EXTINF:-1 tvg-chno-"19",DMJ PE (PELICULAS,MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
  
 #EXTINF:-1 tvg-chno-"20",TU TV BO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8
