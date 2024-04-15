@@ -6,8 +6,8 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"2",BARBE  GT ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8    
 
-#EXTINF:-1 tvg-chno-"3",BOREAL RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-chno-"3",TVS RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 
 #EXTINF:-1 tvg-chno-"4",R&E RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloud5.streaminglivehd.com:3749/live/ryetvrdlive.m3u8  
