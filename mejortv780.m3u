@@ -91,7 +91,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"31",TV NOSARA CR (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8
+https://acceso.radiosportstv.online:3430/stream/play.m3u8    
 
 #EXTINF:-1 tvg-chno-"32",MULTIVISION RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/canalmulti24/chunks.m3u8
