@@ -189,8 +189,8 @@ http://animezonetv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-chno-"63",PANDAMAX CL (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8      
 
-#EXTINF:-1 tvg-chno-"64",MAX CARTOON (ANIMADOS CLASICOS, SUPER HEROES, VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101.bozztv.com/ssh101/visionamerica/chunks.m3u8    
+#EXTINF:-1 tvg-chno-"64", MAXIMA TV (ANIMADOS CLASICOS, SUPER HEROES, VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101-fl.bozztv.com/ssh101/maxtvstreaming/tracks-v1a1/index.m3u8   
 
 #EXTINF:-1 tvg-chno-"65",CANELA FAMILIA (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310              
