@@ -192,8 +192,8 @@ https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 #EXTINF:-1 tvg-chno-"64",MAX CARTOON (ANIMADOS CLASICOS, SUPER HEROES, VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/visionamerica/chunks.m3u8    
 
-#EXTINF:-1 tvg-chno-"65",NICK DIGITAL (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-http://stream.flynetwifi.com:1936/live/mobile-011/playlist.m3u8     
+#EXTINF:-1 tvg-chno-"65",BIG (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8        
 
 #EXTINF:-1 tvg-chno-"66",MUNDO PEQUEÑO USA (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
