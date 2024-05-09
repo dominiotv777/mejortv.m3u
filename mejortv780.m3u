@@ -81,8 +81,8 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"27",NEOTV AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
  
-#EXTINF:-1 tvg-chno-"28",SAS GT (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
-https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8 
+#EXTINF:-1 tvg-chno-"28",SOL GT (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"29",VISION DORADA COL (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://movil.ejeserver.com/live/visiondorada.m3u8 
