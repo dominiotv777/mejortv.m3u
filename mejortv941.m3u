@@ -171,8 +171,8 @@ https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-chno-"57",NEXTV RD. ( PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://vdo1.streamgato.us:3474/live/nextvhdlive.m3u8
 
-#EXTINF:-1 tvg-chno-"58",PANDAMAX (ANIMES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.wifiexpert.cl/telenorte/pandamaxch/chunks.m3u8          
+#EXTINF:-1 tvg-chno-"58",MAGIC KIDS ARG HD(ANIMES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101.bozztv.com/ssh101/magic2019/chunks.m3u8           
 
 #EXTINF:-1 tvg-chno-"59",GOgo PLAY BO. (ANIMADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8   
