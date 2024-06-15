@@ -171,8 +171,8 @@ https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-chno-"57",TELEMAX RD. ( PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8   
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV.(LUNES NUEVOS CAPITULOS SERIES. PELICULA ESTRENO FIN DE SEMANA)
-https://video.wixstatic.com/video/08276b_00ca1d5ca5794464af493102516b50af/480p/mp4/file.mp4 
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV.ESTRENO 2024.CAZAFANTASMAS 2 APOCALIPSIS FANTASMA.
+https://video.wixstatic.com/video/08276b_8f28ec6ea8f241daa49e80e9709a5a61/720p/mp4/file.mp4
           
 #EXTINF:-1 tvg-chno-"59",GOgo PLAY BO. (ANIMADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8   
