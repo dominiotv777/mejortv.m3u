@@ -202,7 +202,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311      
   
 #EXTINF:-1 tvg-chno-"68",NTV CL (ANIMADO, DOCUMENTAL ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://marine2.miplay.cl/ntv/tracks-v1a1/index.m3u8  
+https://video.wixstatic.com/video/08276b_8f28ec6ea8f241daa49e80e9709a5a61/720p/mp4/file.mp4 
 
 #EXTINF:-1 tvg-chno-"69",LA NUEVA TV CR (CRISTIANO VARIADO, FAMILIAR) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5e85d90130e77.streamlock.net/6004/6004/.m3u8  
@@ -240,19 +240,16 @@ https://alba-py-snt-snt.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-chno-"80",TRECE PY (DEPORTES, VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"81",YOUTUTV "ENTRE MAGIA Y REALIDAD".MIERCOLES NUEVA PELICULA SEMANAL
-https://www.youtube.com/watch?v=yIjqvmpyf-U
-
-#EXTINF:-1 tvg-chno-"82",GOL CARACOL H2."FUNCIONA CUANDO JUEGA LA SELECCION COLOMBIA EN VIVO"
+#EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."FUNCIONA CUANDO JUEGA LA SELECCION COLOMBIA EN VIVO"
 https://mdstrm.com/live-stream-playlist/637bba0245ef4608624c7899.m3u8
 
-#EXTINF:-1 tvg-chno-"83",CARACOL SPORTS 1" COPA AMERICA" RESUMEN MEXICO VS JAMAICA
+#EXTINF:-1 tvg-chno-"82",CARACOL SPORTS 1" COPA AMERICA" RESUMEN MEXICO VS JAMAICA
 https://www.youtube.com/watch?v=DydCsaHqgfA
 
-#EXTINF:-1 tvg-chno-"84",RCN FUTBOL."COPA AMERICA, EURO RCN FUTBOL"
+#EXTINF:-1 tvg-chno-"83",RCN FUTBOL."COPA AMERICA, EURO RCN FUTBOL"
 https://www.youtube.com/watch?v=OkJvuBC1H64
 
-#EXTINF:-1 tvg-chno-"85",GOL CARACOL H1.FUNCIONA EN EVENTOS EN VIVO DE DEPORTISTAS COLOMBIANOS.
+#EXTINF:-1 tvg-chno-"84",GOL CARACOL H1.FUNCIONA EN EVENTOS EN VIVO DE DEPORTISTAS COLOMBIANOS.
 https://mdstrm.com/live-stream-playlist/58d18bd236e5f69e5887332b.m3u8 
 
 
