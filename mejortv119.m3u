@@ -184,7 +184,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
 #EXTINF:-1 tvg-chno-"62",DREIKO(ANIMADOS,SERIES)SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/playlist.m3u      
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/playlist.m3u8      
 
 #EXTINF:-1 tvg-chno-"63",BIG CHANNEL (ANIMACION, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8        
