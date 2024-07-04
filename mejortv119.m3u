@@ -4,7 +4,7 @@
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"2",BARBE  GT ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8   
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 #EXTINF:-1 tvg-chno-"3",TELESIGLO RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8     
@@ -243,7 +243,7 @@ https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 #EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."FUNCIONA CUANDO JUEGA LA SELECCION COLOMBIA EN VIVO"
 https://mdstrm.com/live-stream-playlist/637bba0245ef4608624c7899.m3u8
 
-#EXTINF:-1 tvg-chno-"82",CARACOL SPORTS 1" COPA AMERICA" COLOMBIA  VS COSTA RICA
+#EXTINF:-1 tvg-chno-"82",CARACOL SPORTS 1" COPA AMERICA" COLOMBIA  VS BRASIL
 https://www.youtube.com/watch?v=GSdP58EIo_Y
 
 #EXTINF:-1 tvg-chno-"83",RCN FUTBOL."COPA AMERICA, RCN FUTBOL"
