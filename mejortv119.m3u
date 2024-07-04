@@ -81,8 +81,8 @@ https://v4.tustreaming.cl/limachemovil/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"27",MEGANET (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/playlist.m3u8
  
-#EXTINF:-1 tvg-chno-"28",COPS (INVESTIGACION,CASOS REALES POLICIACOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
-https://rightsboosterltd-cops-1-eu.plex.wurl.tv/2000.m3u8     
+#EXTINF:-1 tvg-chno-"28",CRTV PE (SUPER VARIADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.      
+http://live.obslivestream.com/crtvmux/index.m3u8     
 
 #EXTINF:-1 tvg-chno-"29",WOW TV (PELICULAS,SERIES, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
