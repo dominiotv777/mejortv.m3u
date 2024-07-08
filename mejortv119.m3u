@@ -171,8 +171,8 @@ https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-chno-"57",SENILLOSA AR( PELICULAS,SERIES, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8            
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV.(ESTRENO 2024.EL MISTERIO DE LA GUERRA SUCIA)
-https://video.wixstatic.com/video/08276b_bca389fcc0c044a7b1080ab8fbf153fd/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV.(ANIMES, PELICULAS DE ESTRENO FIN DE SEMANA)
+https://video.wixstatic.com/video/08276b_464abc74606846bea59fdb9d83a3c845/480p/mp4/file.mp4
           
 #EXTINF:-1 tvg-chno-"59",GOgo PLAY BO. (ANIMADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8   
