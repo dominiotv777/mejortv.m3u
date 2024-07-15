@@ -240,17 +240,16 @@ https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-chno-"80",TRECE PY (DEPORTES, VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."FUNCIONA CUANDO JUEGA LA SELECCION COLOMBIA EN VIVO"
-https://live-c2.cf.dmcdn.net/sec2(fm_qgm2EzxpeA0Xrfs-Nzq1B0y8RzpassEpLI1AJmrPoklyxoKuTkhIX7bGKvWj3HxO8B9thAlSztfrFkckcEtOLOSbCQBwv53ws-QKQwwo)/cloud/3/x7vyv0z/s/live-2.m3u8
+#EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."ACTUALIZAR CUANDO JUEGUE COLOMBIA"
+https://golcaracol-ecdn3.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/2ygezlWEQ_6aGp174wABOw/stream/8ce3e492-bbf6-4518-b85d-c3da6dff220a:CHS/variant/129d807614a9042afd5fda7be2209ed4/bandwidth/1117600.m3u8?es=golcaracol-ecdn3.cdn.mdstrm.com&proto=https
 
-#EXTINF:-1 tvg-chno-"82",CARACOL SPORTS 1" COPA AMERICA" URUGUAY VS COLOMBIA
-https://www.youtube.com/watch?v=wdE3pz-hc40
+#EXTINF:-1 tvg-chno-"82",RCN FUTBOL"ACTUALIZAR CUANDO JUEGUE COLOMBIA"
+https://live-c2.cf.dmcdn.net/sec2(fm_qgm2EzxpeA0Xrfs-Nzq1B0y8RzpassEpLI1AJmrPoklyxoKuTkhIX7bGKvWj3HxO8B9thAlSztfrFkckcEtOLOSbCQBwv53ws-QKQwwo)/cloud/3/x7vyv0z/s/live-2.m3u8
 
 #EXTINF:-1 tvg-chno-"83",RCN FUTBOL."COPA AMERICA, RCN FUTBOL"
 https://www.youtube.com/watch?v=0gYmLL7xal8
 
-#EXTINF:-1 tvg-chno-"84",GOL CARACOL H1.FUNCIONA EN EVENTOS EN VIVO DE DEPORTISTAS COLOMBIANOS.
-https://mdstrm.com/live-stream-playlist/58d18bd236e5f69e5887332b.m3u8 
+
 
 
 
