@@ -168,8 +168,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"56",BUM TELEVISION( PELICULAS,MUSICA, INFORMATIVO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://video.ejeserver.com/live/visiondorada.m3u8 
 
-#EXTINF:-1 tvg-chno-"57",TOTOVISION GT
-https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8  
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS. ULTRAMAN. PROXIMO ESTRENO LUNES 22 DE JULIO
+https://video.wixstatic.com/video/08276b_f0deea85df8c4bff9b21c1743670d139/1080p/mp4/file.mp4 
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES (TODOS LOS LUNES NUEVOS CAPITULOS DE TUS SERIES FAVORITAS )
 https://video.wixstatic.com/video/08276b_084161a834b540b7b0f6b2fe57529788/480p/mp4/file.mp4
