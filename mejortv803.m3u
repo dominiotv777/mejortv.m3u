@@ -237,8 +237,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-chno-"79",ATV COL (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://movil.ejeserver.com/live/verteve.m3u8
 
-#EXTINF:-1 tvg-chno-"80",TRECE PY (DEPORTES, VARIADO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/playlist.m3u8
+#EXTINF:-1 tvg-chno-"80",CAN DEPORTES (DEPORTES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
 #EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."ACTUALIZAR CUANDO JUEGUE COLOMBIA"
 https://golcaracol-ecdn3.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/2ygezlWEQ_6aGp174wABOw/stream/8ce3e492-bbf6-4518-b85d-c3da6dff220a:CHS/variant/129d807614a9042afd5fda7be2209ed4/bandwidth/1117600.m3u8?es=golcaracol-ecdn3.cdn.mdstrm.com&proto=https
