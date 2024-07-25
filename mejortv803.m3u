@@ -237,8 +237,8 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-chno-"79",ATV COL (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://movil.ejeserver.com/live/verteve.m3u8
 
-#EXTINF:-1 tvg-chno-"80",CAN DEPORTES (DEPORTES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
+#EXTINF:-1 tvg-chno-"80",CLARO SPORTS (DEPORTES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."ACTUALIZAR CUANDO JUEGUE COLOMBIA"
 https://stream854.pricesaskeloadsc.com/winsports/tracks-v1a1/mono.m3u8?token=a0673deaff15640a191db10ac4797cfda06d665b-5e-1721978796-1721942796
