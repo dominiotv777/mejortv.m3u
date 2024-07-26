@@ -168,8 +168,8 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"56",BUM TELEVISION( PELICULAS,MUSICA, INFORMATIVO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://video.ejeserver.com/live/visiondorada.m3u8 
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS. ATRAPADOS EN LO PROFUNDO. PROXIMO ESTRENO VIERNES 26 DE JULIO
-https://video.wixstatic.com/video/08276b_ab570ee3cacc41828ab141444b029e9f/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.BAD BOYS HASTA LA MUERTE. PROXIMO ESTRENO LUNES 29 DE JULIO
+https://video.wixstatic.com/video/08276b_17f84c07b8104f3aae025052538a3e2e/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES (TODOS LOS LUNES NUEVOS CAPITULOS DE TUS SERIES FAVORITAS )
 https://video.wixstatic.com/video/08276b_fa11cc7dfe4647299654d6c67b6c4afa/480p/mp4/file.mp4
@@ -238,7 +238,7 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 https://movil.ejeserver.com/live/verteve.m3u8
 
 #EXTINF:-1 tvg-chno-"80",CLARO SPORTS (DEPORTES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+https://www.youtube.com/watch?v=4mBX7GEP1O0
 
 #EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."ACTUALIZAR CUANDO JUEGUE COLOMBIA"
 https://stream854.pricesaskeloadsc.com/winsports/tracks-v1a1/mono.m3u8?token=a0673deaff15640a191db10ac4797cfda06d665b-5e-1721978796-1721942796
@@ -250,8 +250,7 @@ https://812.pricesaskeloadsc.com/espn1/tracks-v1a1/index.m3u8?token=5b9f44d007de
 https://global.pricesaskeloadsc.com/dsports/tracks-v1a1/index.m3u8?token=84e75a88b9da7589ee5233569ba8d59993c10b2a-59-1721978623-1721942623
 
 #EXTINF:-1 tvg-chno-"84",CARACOL AHORA
-https://video.wixstatic.com/video/08276b_8e57a8d572e74c61992b0f0145467da5/720p/mp4/file.mp4
-
+https://www.youtube.com/watch?v=EOf6FPnBAzs
 
 
 
