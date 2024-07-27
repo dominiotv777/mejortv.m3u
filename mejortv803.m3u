@@ -240,14 +240,14 @@ https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-chno-"80",CLARO SPORTS (DEPORTES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno-"81",GOL CARACOL H2."ACTUALIZAR CUANDO JUEGUE COLOMBIA"
-https://stream854.pricesaskeloadsc.com/winsports/tracks-v1a1/mono.m3u8?token=a0673deaff15640a191db10ac4797cfda06d665b-5e-1721978796-1721942796
+#EXTINF:-1 tvg-chno-"81",WSPORTS H2."ACTUALIZAR CUANDO JUEGUE COLOMBIA"
+https://acppdo.pricesaskeloadsc.com/winplus/tracks-v1a1/index.m3u8?token=37f5397ede2be942548eb622ef5aa8943a5f601b-64-1722143774-1722107774
 
 #EXTINF:-1 tvg-chno-"82",WSPORTS PLAY 1/ SOLICITA TU PARTIDO LUEGO ACTUALIZAR Y DISFRUTA
-https://812.pricesaskeloadsc.com/espn1/tracks-v1a1/index.m3u8?token=5b9f44d007de3417df123afe9b8813deb8e9d320-2f-1721978727-1721942727
+https://8541752.pricesaskeloadsc.com/winplus/tracks-v1a1/index.m3u8?token=54b2ee1c40fec7ad07e56a5bb801317218693ab0-41-1722143611-1722107611
 
 #EXTINF:-1 tvg-chno-"83",WSPORTS PLAY 2/ SOLICITA TU PARTIDO LUEGO ACTUALIZAR Y DISFRUTA
-https://global.pricesaskeloadsc.com/dsports/tracks-v1a1/index.m3u8?token=84e75a88b9da7589ee5233569ba8d59993c10b2a-59-1721978623-1721942623
+https://global.pricesaskeloadsc.com/winplus/tracks-v1a1/index.m3u8?token=85ac42a4ed76cba7cd93772b30072e30adaa4f47-a6-1722143698-1722107698
 
 #EXTINF:-1 tvg-chno-"84",CARACOL AHORA
 https://www.youtube.com/watch?v=EOf6FPnBAzs
