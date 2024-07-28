@@ -240,7 +240,7 @@ https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-chno-"80",CLARO SPORTS (DEPORTES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno-"81",WSPORTS H2."ACTUALIZAR CUANDO JUEGUE COLOMBIA"
+#EXTINF:-1 tvg-chno-"81",WSPORTS H2 "ACTUALIZAR CUANDO JUEGUE COLOMBIA"
 https://co-e7-p-e-ja2.cdn.mdstrm.com/live-stream-secure/58d1aed1b6318eec59278b0b/publish/media_400.m3u8?aid=589b1365f30bc52f54100dd8&uid=iYD9Px4nMkJjSO5cg24AVAhNYm4xbc41&sid=JMYSx35ZHbUTfbrasVM5HUAfqmM5V8fP&pid=5RT2PnC4jwqv9TyIkh70w5AR7WudpCWL&ref=https%3A%2F%2Fpartidosgol.noticiascaracol.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=E93BTOAcRcbE6y1nUoOkbPm1isHM8c9lOed3a3nPQVxXy6ma4MZIECNJKZAEJI935AnY9niIUdW&es=co-e7-p-e-ja2.cdn.mdstrm.com&ote=1722264367126&ot=LUPj7zMoscEjbkGCs5ekzw&proto=https&pz=us
 
 #EXTINF:-1 tvg-chno-"82",WSPORTS PLAY 1/ SOLICITA TU PARTIDO LUEGO ACTUALIZAR Y DISFRUTA
