@@ -168,12 +168,12 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"56",BUM TELEVISION( PELICULAS,MUSICA, INFORMATIVO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://video.ejeserver.com/live/visiondorada.m3u8 
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS. BAD BOYS HASTA LA MUERTE. PROX ESTRENO LUNES 29 DE JULIO
-https://video.wixstatic.com/video/08276b_17f84c07b8104f3aae025052538a3e2e/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS. LOS TRES MOSQUETEROS D ARTAGNAN. PROX ESTRENO VIERNES 
+https://video.wixstatic.com/video/08276b_c22a8e1510fd4ac398ad7ddb6a8a8b81/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES (TODOS LOS LUNES NUEVOS CAPITULOS DE TUS SERIES FAVORITAS )
-https://video.wixstatic.com/video/08276b_fa11cc7dfe4647299654d6c67b6c4afa/480p/mp4/file.mp4
-          
+https://video.wixstatic.com/video/08276b_b870d0b830274975883786e8c72cce61/480p/mp4/file.mp4
+
 #EXTINF:-1 tvg-chno-"59",GOgo PLAY BO. (ANIMADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8   
 
