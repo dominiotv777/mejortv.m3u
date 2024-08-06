@@ -240,7 +240,7 @@ https://movil.ejeserver.com/live/verteve.m3u8
 #EXTINF:-1 tvg-chno-"80",CLARO SPORTS (DEPORTES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1 tvg-chno-"81",WSPORTS H2 "ACTUALIZAR CUANDO JUEGUE COLOMBIA" MICHAEL
+#EXTINF:-1 tvg-chno-"81",WSPORTS H2 "ACTUALIZAR CUANDO JUEGUE COLOMBIA" 
 https://050.pricesaskeloadsc.com/winplus/tracks-v1a1/mono.m3u8?token=cb2200535ae3c2862ec6450a10ff0174b1ec8ba6-5d-1722944352-1722908352
 
 #EXTINF:-1 tvg-chno-"82",WSPORTS PLAY 1/ SOLICITA TU PARTIDO LUEGO ACTUALIZAR Y DISFRUTA
