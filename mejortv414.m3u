@@ -63,8 +63,8 @@ https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8
 #EXTINF:-1 tvg-chno-"21",PLAY MEDIOS  GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://fl1003.bozztv.com/ssh101/playmedios/tracks-v1a1/index.m3u8     
 
-#EXTINF:-1 tvg-chno-"22",RSELVA (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://live.obslivestream.com/selvatv/index.m3u8    
+#EXTINF:-1 tvg-chno-"22",VZ TV PE  (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.obslivestream.com/vztv/index.m3u8   
 
 #EXTINF:-1 tvg-chno-"23",FMCOSMOS AR( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8     
