@@ -54,8 +54,8 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-chno-"18",MULTIVISION. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/canalmulti24/chunks.m3u8     
 
-#EXTINF:-1 tvg-chno-"19",DITI AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/index.m3u8    
+#EXTINF:-1 tvg-chno-"19",CINCO TV TIGRE AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8     
  
 #EXTINF:-1 tvg-chno-"20",LORETO EC (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8        
