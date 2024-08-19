@@ -168,11 +168,11 @@ https://tv.streaming-chile.com:8081/origentvhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"56",BUM TELEVISION( PELICULAS,MUSICA, INFORMATIVO ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://video.ejeserver.com/live/visiondorada.m3u8 
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.VILLANO FAVORITO 4.LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_655ed2ead9b74a078225b6547e449de2/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.LOS TRES MOSQUETEROS 2 MILADY.VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_3bb06aab202c4312a5d737f627469661/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES (TODOS LOS LUNES NUEVOS CAPITULOS DE TUS SERIES FAVORITAS )
-https://video.wixstatic.com/video/08276b_c5deb183028e4803acdf7d6949915ba3/480p/mp4/file.mp4
+https://video.wixstatic.com/video/08276b_865312d7de3c45798e6adca0336faa38/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",GOgo PLAY (ANIMADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8  
