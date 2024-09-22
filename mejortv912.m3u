@@ -192,8 +192,8 @@ https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 #EXTINF:-1 tvg-chno-"64",ZONA DE ACCION (ANIMADOS,SERIES,PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312      
 
-#EXTINF:-1 tvg-chno-"65",KNAL 4 (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://5f700d5b2c46f.streamlock.net/knal4/knal4/playlits.m3u8                  
+#EXTINF:-1 tvg-chno-"65",LATINO KIDS (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8                  
 
 #EXTINF:-1 tvg-chno-"66",MUNDO PEQUEÑO USA (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
