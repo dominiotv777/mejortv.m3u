@@ -60,8 +60,8 @@ https://live.obslivestream.com/canaltrece/tracks-v1a1/index.m3u8
  #EXTINF:-1 tvg-chno-"20",LORETO EC (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8        
  
-#EXTINF:-1 tvg-chno-"21",VISION NDV RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://soportedvb.click:3891/live/visionndvlive.m3u8  
+#EXTINF:-1 tvg-chno-"21",INTERCONNECT TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://fl1002.bozztv.com/ssh101/tv123456789/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 tvg-chno-"22",BUM (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://movil.ejeserver.com/live/visiondorada.m3u8       
