@@ -198,8 +198,8 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-chno-"66",MUNDO PEQUEÑO USA (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366 
 
-#EXTINF:-1 tvg-chno-"67",CANELA FAMILIA (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310      
+#EXTINF:-1 tvg-chno-"67",TOONZ KIDS (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/f3a9416a-87fc-4766-9020-b0d477bfcb3e/2.m3u8      
   
 #EXTINF:-1 tvg-chno-"68",CLAN (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8 
