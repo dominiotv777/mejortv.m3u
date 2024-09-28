@@ -57,8 +57,8 @@ https://ss5.domint.net:3042/ptv_str/puntotv/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"19",TV ORIENTE PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/tvoriente/tracks-v1a1/index.m3u8  
 
- #EXTINF:-1 tvg-chno-"20",LORETO EC (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8        
+ #EXTINF:-1 tvg-chno-"20",SENILLOSA AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://servilive.com:3753/live/qosqotimeslive.m3u8       
  
 #EXTINF:-1 tvg-chno-"21",CANAL 10 CR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://acceso.radiosportstv.online:3285/stream/play.m3u8   
