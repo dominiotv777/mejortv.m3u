@@ -201,8 +201,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3366
 #EXTINF:-1 tvg-chno-"67",MOONBUG KIDS (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
-#EXTINF:-1 tvg-chno-"68",CLAN (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8 
+#EXTINF:-1 tvg-chno-"68",BOING ES (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"69",LA NUEVA TV CR (CRISTIANO VARIADO, FAMILIAR) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://5e85d90130e77.streamlock.net/6004/6004/.m3u8  
