@@ -36,8 +36,8 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-chno-"12",GAM TV CR (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-chno-"13",AYNITV BO (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://envivo.bolivia-link.com:3906/live/aynitvlive.m3u8                
+#EXTINF:-1 tvg-chno-"13",PHTV RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://vdo1.streamgato.us:3138/live/phtvlive.m3u8                
  
 #EXTINF:-1 tvg-chno-"14",GGTV PE (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/regionaltv/tracks-v1a1/index.m3u8      
