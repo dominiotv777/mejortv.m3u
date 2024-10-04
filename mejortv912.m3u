@@ -54,9 +54,9 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 tvg-chno-"18",PUNTO TV RD. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss5.domint.net:3042/ptv_str/puntotv/chunklist.m3u8     
 
-#EXTINF:-1 tvg-chno-"19",TV ORIENTE PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://live.obslivestream.com/tvoriente/tracks-v1a1/index.m3u8  
-
+#EXTINF:-1 tvg-chno-"19",VISION NDV RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://soportedvb.click:3891/live/visionndvlive.m3u8
+  
  #EXTINF:-1 tvg-chno-"20",GEN TV AR. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8        
  
@@ -168,8 +168,8 @@ https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
 #EXTINF:-1 tvg-chno-"56",KNAL 4(PELICULAS, ANIMACION) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://5f700d5b2c46f.streamlock.net/knal4/knal4/playlits.m3u8   
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.KILLERS. VIERNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_af76f6bc39cd445ab19f990be46c0022/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.ROAD HAUSE. LUNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_30eb34bf5f744cf4b399205d9c2dd318/1080p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES (TODOS LOS LUNES NUEVOS CAPITULOS DE TUS SERIES FAVORITAS )
 https://video.wixstatic.com/video/08276b_b739bfe7e34649188cffb6fe4edf3d0d/480p/mp4/file.mp4
