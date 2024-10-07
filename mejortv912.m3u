@@ -228,8 +228,8 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-chno-"76",DW (DOCUMENTAL, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-chno-"77",TELEVISA MEX (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8  
+#EXTINF:-1 tvg-chno-"77",FRANCE 24 (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8  
 
 #EXTINF:-1 tvg-chno-"78",CARACOL DIGITAL COL.
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
@@ -237,17 +237,15 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-chno-"79",CARACOL AHORA. (NOTICIAS, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://www.youtube.com/watch?v=wmdc4_48niE
 
-#EXTINF:-1 tvg-chno-"80",FRANCE 24 (NOTICIAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24sp_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno-"80",GOL CARACOL ONLINE (DEPORTES )ACTUALIZAR CUANDO JUEGUE COLOMBIA"
+https://www.youtube.com/watch?v=9AwKIEh-rWA
 
-#EXTINF:-1 tvg-chno-"81",WSPORTS H2 "ACTUALIZAR CUANDO JUEGUE COLOMBIA" 
+#EXTINF:-1 tvg-chno-"81",WSPORTS H2 " 
 https://www.youtube.com/watch?v=k_R2iMqPC20
 
-#EXTINF:-1 tvg-chno-"82",WSPORTS PLAY 1/ SOLICITA TU PARTIDO LUEGO ACTUALIZAR Y DISFRUTA
-https://www.youtube.com/watch?v=Ju2T4yLNO4E
+#EXTINF:-1 tvg-chno-"82",WIN SPORTS PLAY B
+https://www.youtube.com/watch?v=Jpw4uxSOR_0
 
-#EXTINF:-1 tvg-chno-"83",WSPORTS PLAY 2/ SOLICITA TU PARTIDO LUEGO ACTUALIZAR Y DISFRUTA
-https://www.youtube.com/watch?v=Y6RTGSiD-_Q
 
 
 
