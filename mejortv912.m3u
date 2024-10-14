@@ -159,8 +159,8 @@ https://acceso.radiosportstv.online:3285/stream/play.m3u8
 #EXTINF:-1 tvg-chno-"53",NEOTV AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-chno-"54",VISION 3000 RD. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
-https://ss3.domint.net:3102/v3_str/v3000/.m3u8    
+#EXTINF:-1 tvg-chno-"54",READY RD. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"55",ESPORTS MAX (ANIME,VIDEO JUEGOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://vcp13.myplaytv.com/esportsmax/esportsmax/chunklist.m3u8   
