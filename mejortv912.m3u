@@ -153,8 +153,8 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"51",NEOX AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
-#EXTINF:-1 tvg-chno-"52",CANAL 10 CR TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://acceso.radiosportstv.online:3285/stream/play.m3u8  
+#EXTINF:-1 tvg-chno-"52",TV Y TV CL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8    
 
 #EXTINF:-1 tvg-chno-"53",NEOTV AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
