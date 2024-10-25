@@ -159,7 +159,7 @@ https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"53",NEOTV AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-chno-"54",MAXANIME.(ANIMADOS ACCION, MUSICA) PELICULAS: 9:00 AM, 1:00 PM, 9:00 PM. SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
+#EXTINF:-1 tvg-chno-"54",MAXANIME.(ANIMADOS ACCION, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"55",MY TIME MOVIE NETWORD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
@@ -192,7 +192,7 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/chunks.m3u8
 #EXTINF:-1 tvg-chno-"64",ZONA DE ACCION (ANIMADOS,SERIES,PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312      
 
-#EXTINF:-1 tvg-chno-"65",TV KIDS PTV (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"65",TV KIDS.ESPERA 1:30 SEGUNDOS EN PANTALLA NEGRA PARA CARGAR SIGUIENTE CAPITULO.
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-chno-"66",MUNDO PEQUEÑO USA (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
