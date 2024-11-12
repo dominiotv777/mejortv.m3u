@@ -27,8 +27,8 @@ https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
 #EXTINF:-1 tvg-chno-"9",RTTV CR. (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"10",TCS+ (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+#EXTINF:-1 tvg-chno-"10",COMAYAGUA HO (SUPER VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://mediacp.us:8081/8034/index.m3u8
 
 #EXTINF:-1 tvg-chno-"11",MEGA CINE RD (PELICULAS,DOCUMENTAL, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8     
