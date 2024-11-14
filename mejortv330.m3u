@@ -36,8 +36,8 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-chno-"12",GAM TV CR (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-chno-"13",TUTV BO (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8                
+#EXTINF:-1 tvg-chno-"13",KANDELA VE (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8                
  
 #EXTINF:-1 tvg-chno-"14",DELTA TV PE (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://mc.servidor.stream:19360/8270/8270.m3u8             
@@ -238,13 +238,13 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 https://www.youtube.com/watch?v=wKz4NUnCsy4
 
 #EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 (DEPORTES )ACTUALIZAR CUANDO JUEGUE COLOMBIA"
-https://www.youtube.com/watch?v=lSrl20yU9WA
+https://www.youtube.com/watch?v=hzAaLbOXfJ4
 
 #EXTINF:-1 tvg-chno-"81",WSPORTS 1  
-https://www.youtube.com/watch?v=1nzsscPrink
+https://www.youtube.com/watch?v=v08QZDwRAQs
 
 #EXTINF:-1 tvg-chno-"82",WSPORTS 2
-https://www.youtube.com/watch?v=ixMo3yxqU04
+https://www.youtube.com/watch?v=ZvOPa5OG-JI
 
 #EXTINF:-1 tvg-chno-"83",KPOP
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
