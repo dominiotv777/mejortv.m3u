@@ -162,8 +162,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-chno-"54",CASCARA RD.(PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8 
 
-#EXTINF:-1 tvg-chno-"55",MY TIME MOVIE NETWORD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"55",DMJ PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"56",MIX BO(PELICULAS, ANIMACION) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO 
 https://ssh101-fl.bozztv.com/ssh101/mixboliviatvvip/index.m3u8  
