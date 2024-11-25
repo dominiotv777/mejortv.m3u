@@ -186,8 +186,8 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-chno-"62",MAXANIME (ANIMADOS,MUSICA,SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vcp14.myplaytv.com/maxanime/maxanime/chunklist.m3u8   
 
-#EXTINF:-1 tvg-chno-"63",ANIMESTATION AR (ANIMACION, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/index.m3u8       
+#EXTINF:-1 tvg-chno-"63",CLAN (ANIMACION) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8       
 
 #EXTINF:-1 tvg-chno-"64",ZONA DE ACCION (ANIMADOS,SERIES,PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312      
