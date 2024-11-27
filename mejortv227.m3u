@@ -6,8 +6,8 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"2",BARBE GT ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8  
 
-#EXTINF:-1 tvg-chno-"3",ATACAMA RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://v2.tustreaming.cl/atacamatv/index.m3u8    
+#EXTINF:-1 tvg-chno-"3",NITIDA RD RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8    
 
 #EXTINF:-1 tvg-chno-"4",PUNTO TV RD RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss5.domint.net:3042/ptv_str/puntotv/chunklist.m3u8
@@ -135,8 +135,8 @@ https://5790d294af2dc.streamlock.net/glstudio/glstudio/playlist.m3u8
 #EXTINF:-1 tvg-chno-"45",PLANETA TV MOYOBAMBA PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"46",NITIDA RD  (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8       
+#EXTINF:-1 tvg-chno-"46",AUTENTICA PE (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/index.m3u8         
 
 #EXTINF:-1 tvg-chno-"47",CARACOLA TV (MUSICA,PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8      
