@@ -18,8 +18,8 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-chno-"6",ALEGRE TV RD (PELICULAS, TELEVENTAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://streamunoapp.com:3149/live/alegretvlive.m3u8  
 
-#EXTINF:-1 tvg-chno-"7",TV NOSARA CR ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8   
+#EXTINF:-1 tvg-chno-"7",WOW MOVIES ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8     
 
 #EXTINF:-1 tvg-chno-"8",RETROX TV CR (SUPER VARIDO, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8 
