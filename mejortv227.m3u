@@ -138,8 +138,8 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-chno-"46",AUTENTICA PE (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/autenticatvmux/tracks-v1a1/index.m3u8         
 
-#EXTINF:-1 tvg-chno-"47",BUM COL (MUSICA,PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
-https://video.ejeserver.com/live/visiondorada.m3u8       
+#EXTINF:-1 tvg-chno-"47",GFTV PE (MUSICA,PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
+https://live.obslivestream.com/regionaltv/tracks-v1a1/index.m3u8       
 
 #EXTINF:-1 tvg-chno-"48",MAS TV GT (PELICULAS, VARIADO)SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://cdn.streamhispanatv.net:3186/live/mastvlive.m3u8   
