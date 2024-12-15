@@ -21,8 +21,8 @@ https://streamunoapp.com:3149/live/alegretvlive.m3u8
 #EXTINF:-1 tvg-chno-"7",WOW MOVIES ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8     
 
-#EXTINF:-1 tvg-chno-"8",RETROX TV CR (SUPER VARIDO, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8 
+#EXTINF:-1 tvg-chno-"8",FMH FAMILI (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvfamily/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"9",RTTV CR. (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8 
