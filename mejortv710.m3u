@@ -240,8 +240,8 @@ https://www.youtube.com/watch?v=wKz4NUnCsy4
 #EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 (DEPORTES )ACTUALIZAR CUANDO JUEGUE COLOMBIA"
 https://www.youtube.com/watch?v=zl-y_du6NiA
 
-#EXTINF:-1 tvg-chno-"81",WSPORTS 1  
-https://acceso.radiosportstv.online:3795/stream/play.m3u8
+#EXTINF:-1 tvg-chno-"81",WSPORTS 1.  
+http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-chno-"82",WSPORTS 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759  
