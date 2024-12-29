@@ -18,8 +18,8 @@ https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
 #EXTINF:-1 tvg-chno-"6",CAMBYRETA TV2 (PELICULAS, TELEVENTAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/cambyretatv2/chunks.m3u8 
 
-#EXTINF:-1 tvg-chno-"7",WOW MOVIES ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8     
+#EXTINF:-1 tvg-chno-"7",CINE STAR ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101.bozztv.com/ssh101/cinestarteve/chunks.m3u8     
 
 #EXTINF:-1 tvg-chno-"8",FMH FAMILI (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvfamily/chunks.m3u8 
