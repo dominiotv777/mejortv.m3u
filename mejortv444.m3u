@@ -135,8 +135,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-chno-"45",PLANETA TV MOYOBAMBA PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"46",DITI AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/index.m3u8        
+#EXTINF:-1 tvg-chno-"46",PANTALLA TV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://fl1002.bozztv.com/ssh101/pantallaclasics/tracks-v1a1/index.m3u8        
 
 #EXTINF:-1 tvg-chno-"47",+CINE CLASSIC (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8       
