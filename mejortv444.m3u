@@ -252,13 +252,13 @@ https://azt-dep.otteravision.com/azt/dep/dep_720p_high.m3u8
 #EXTINF:-1 tvg-chno-"84",BEIN SPORTS EXTRA  
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-chno-"85",RUIDOS TV
-https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
+#EXTINF:-1 tvg-chno-"85",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
 
 #EXTINF:-1 tvg-chno-"86",KPOP
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"84",R&R
+#EXTINF:-1 tvg-chno-"87",R&R
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 
