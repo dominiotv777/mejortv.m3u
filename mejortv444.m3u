@@ -252,17 +252,20 @@ https://azt-dep.otteravision.com/azt/dep/dep_720p_high.m3u8
 #EXTINF:-1 tvg-chno-"84",BEIN SPORTS XTRA. "SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE. 
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b97ef310e33f0007eea65f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-chno-"85",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"85",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
 
 #EXTINF:-1 tvg-chno-"86",PT TV DEPORTES. "SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE.
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
-#EXTINF:-1 tvg-chno-"87",R&R
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-chno-"87",DAZN SPORTS.SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/64b02bbd7d93410008fdae60livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-chno-"88",KPOP
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
+
+#EXTINF:-1 tvg-chno-"89",R&R
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 
 
