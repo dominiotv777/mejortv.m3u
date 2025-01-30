@@ -9,8 +9,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-chno-"3",CBTV CR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8       
 
-#EXTINF:-1 tvg-chno-"4",ALCARRIZOS RD (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8    
+#EXTINF:-1 tvg-chno-"4",LENCA HO (PELICULAS,SERIES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://lencatelevision.com/hls/stream.m3u8    
 
 #EXTINF:-1 tvg-chno-"5",BOREAL RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8         
