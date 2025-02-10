@@ -168,7 +168,7 @@ https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.JUEGO DEL CALAMAR TEMP 2.CAP 3.VIERNES NUEVO CAP
 https://video.wixstatic.com/video/08276b_e4f509654cd246bba6baf769f6de930e/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.HACHIKO 2.LUNES NUEVO ESTRENO
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.HACHIKO 2.VIERNES NUEVO ESTRENO
 https://video.wixstatic.com/video/08276b_98faaa8b00fc48fea013bf6726e7832d/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. STAR WARS+FUTURAMA+DRAGON BALL GT+DUCK DOGERS+JUSTICIA JOVEN.
@@ -189,8 +189,8 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"63",ANIMESTATION AR (ANIMACION) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/index.m3u8      
 
-#EXTINF:-1 tvg-chno-"64",ZONA DE ACCION (ANIMADOS,SERIES,PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312      
+#EXTINF:-1 tvg-chno-"64",CANELA FAMILIA (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310      
 
 #EXTINF:-1 tvg-chno-"65",GOgo PLAY (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8 
