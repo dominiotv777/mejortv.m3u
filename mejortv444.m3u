@@ -189,8 +189,8 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"63",ANIMESTATION AR (ANIMACION) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/tracks-v1a1/index.m3u8      
 
-#EXTINF:-1 tvg-chno-"64",CANELA FAMILIA (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310      
+#EXTINF:-1 tvg-chno-"64",CLAN TV (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8      
 
 #EXTINF:-1 tvg-chno-"65",GOgo PLAY (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8 
