@@ -198,8 +198,8 @@ https://ssh101-fl.bozztv.com/ssh101/gogoplay/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"66",ANIME ONEGAI  (ANIME) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 
-#EXTINF:-1 tvg-chno-"67",TG JUNIOR (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1 tvg-chno-"67",FUNTV (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/funtvretro/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"68",BIG CHANNEL (SERIES ANIMADAS, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8    
