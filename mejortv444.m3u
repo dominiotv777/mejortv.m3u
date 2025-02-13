@@ -162,8 +162,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-chno-"54",LIMON TV CR.(PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist.m3u8 
 
-#EXTINF:-1 tvg-chno-"55",VZTV PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
-https://live.obslivestream.com/vztv/index.m3u8 
+#EXTINF:-1 tvg-chno-"55",SICARDI AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8 
 
 #EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.JUEGO DEL CALAMAR TEMP 2.CAP 3.VIERNES NUEVO CAP
 https://video.wixstatic.com/video/08276b_e4f509654cd246bba6baf769f6de930e/1080p/mp4/file.mp4
