@@ -252,8 +252,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b97ef310e33f0007eea
 #EXTINF:-1 tvg-chno-"84",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
 
-#EXTINF:-1 tvg-chno-"85",MF04 D DEPORTES. "SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE.
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mf04/chunks.m3u8
+#EXTINF:-1 tvg-chno-"85",DAZN SPORTS. "SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE.
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/64b02bbd7d93410008fdae60livestitch/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 #EXTINF:-1 tvg-chno-"86",AZADISPORT.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/azadisport/chunks.m3u8
