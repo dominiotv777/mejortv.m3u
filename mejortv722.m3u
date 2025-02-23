@@ -117,8 +117,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-chno-"39",+TV GT (PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8
 
-#EXTINF:-1 tvg-chno-"40",CJ COMUNICACIONES (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101.bozztv.com/ssh101/comunicaciones/chunks.m3u8              
+#EXTINF:-1 tvg-chno-"40",ÑUBLE RT CL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://paneltv.online:1936/8050/8050/playlist.m3u8                 
 
 #EXTINF:-1 tvg-chno-"41",BUZZER GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
