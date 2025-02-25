@@ -192,8 +192,8 @@ https://ssh101.bozztv.com/ssh101/monitvhd/chunks.m3u8
 #EXTINF:-1 tvg-chno-"64",CLAN TV (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8      
 
-#EXTINF:-1 tvg-chno-"65",WEPA TV. (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvwxfxxgo/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"65",TALTAL TV. (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/animacion/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"66",ANIME ONEGAI  (ANIME) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11059
