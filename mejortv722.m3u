@@ -144,8 +144,8 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1 tvg-chno-"48",AURORA TV GT (PELICULAS, VARIADO)SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8   
 
-#EXTINF:-1 tvg-chno-"49",MAX TV AW (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://fl1004.bozztv.com/ssh101/88channel/tracks-v1a1/index.m3u8       
+#EXTINF:-1 tvg-chno-"49",SUMAQ (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/makins/chunks.m3u8       
 
 #EXTINF:-1 tvg-chno-"50",CASCARA TV RD (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ss3.domint.net:3144/ctv_str/cascaratv/.m3u8
