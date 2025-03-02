@@ -9,8 +9,8 @@ https://stmv1.liveplushd.com.br/senillosatv/senillosatv/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"3",CBTV CR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8       
 
-#EXTINF:-1 tvg-chno-"4",SOLTV GT (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8    
+#EXTINF:-1 tvg-chno-"4",ONDA TV RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ss5.domint.net:3176/otv_str/ondatv/.m3u8    
 
 #EXTINF:-1 tvg-chno-"5",BOREAL RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8         
