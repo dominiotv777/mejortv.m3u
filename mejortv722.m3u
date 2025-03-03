@@ -165,14 +165,14 @@ https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"55",SICARDI AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8 
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.VIAJE DESCONOCIDO.LUNES NUEV0 CAP
-https://video.wixstatic.com/video/08276b_19f9c3e5aa8d4705bf0da350caacfb4b/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.VIAJE DESCONOCIDO.VIERNES NUEV0 CAPITULO
+https://video.wixstatic.com/video/08276b_7bc4025393d34b3a94e5c6ea160d21ca/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.ABISMO SECRETO.LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_76e55b89f4724af08f4e3824aa78f0fb/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.HOMBRE LOBO.VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_bf23de8001ec4f59b38f4be9e71d91cb/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. STAR WARS+FUTURAMA+DRAGON BALL GT+DUCK DOGERS+JUSTICIA JOVEN.
-https://video.wixstatic.com/video/08276b_0d0af7153b9e47e2a07ddacee44e30a2/480p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. TOMB RAIDER+STAR WARS+FUTURAMA+DRAGON BALL GT+DUCK DOGERS
+https://video.wixstatic.com/video/08276b_8a60c0cb2f484ad98cb69e973a52be51/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",GOgo PLAY (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/gogoplaysd/chunks.m3u8      
