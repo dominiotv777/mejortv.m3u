@@ -252,8 +252,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b97ef310e33f0007eea
 #EXTINF:-1 tvg-chno-"84",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
 
-#EXTINF:-1 tvg-chno-"85",DAZN SPORTS 2. SI NO TIENES SEÑAL VOLVEMOS PRONTO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/aving_dazn2pt/chunks.m3u8
+#EXTINF:-1 tvg-chno-"85",EMMEIGSPORT47. SI NO TIENES SEÑAL VOLVEMOS PRONTO
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/emmeigsport47/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"86",DANZ 4.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/aving_dazn4pt/chunks.m3u8
