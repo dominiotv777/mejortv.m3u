@@ -255,8 +255,8 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 tvg-chno-"85",EMMEIGSPORT47. SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/emmeigsport47/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"86",DANZ 4.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/aving_dazn4pt/chunks.m3u8
+#EXTINF:-1 tvg-chno-"86",ITV DEPORTES.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5093
 
 #EXTINF:-1 tvg-chno-"87",TUBITV FOX DEPORTES. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
