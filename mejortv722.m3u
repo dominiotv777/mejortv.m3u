@@ -198,8 +198,8 @@ https://ssh101.bozztv.com/ssh101/bigchannel/chunks.m3u8
 #EXTINF:-1 tvg-chno-"66",ANIME ONEGAI  (ANIME) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.           
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11061
 
-#EXTINF:-1 tvg-chno-"67", XTREMA CARTOON (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/chunklist.m3u8   
+#EXTINF:-1 tvg-chno-"67",LOCOMOTION (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+http://85.239.54.197:81/live/loco_hi/index.m3u8   
 
 #EXTINF:-1 tvg-chno-"68",ANIMESTATION AR (SERIES ANIMADAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/livestreamingtv/chunks.m3u8  
