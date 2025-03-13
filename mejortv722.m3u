@@ -15,8 +15,8 @@ https://ss5.domint.net:3176/otv_str/ondatv/.m3u8
 #EXTINF:-1 tvg-chno-"5",BOREAL RD (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8         
 
-#EXTINF:-1 tvg-chno-"6",TV INTERACTIVA (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/gabostreaminghd/chunks.m3u8     
+#EXTINF:-1 tvg-chno-"6",SPTV AR DIGITAL(PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8        
 
 #EXTINF:-1 tvg-chno-"7",UVATV ( PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/chunks.m3u8     
