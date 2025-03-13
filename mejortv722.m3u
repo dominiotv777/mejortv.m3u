@@ -126,8 +126,8 @@ https://cdn.streamhispanatv.net:3297/live/buzzerradiolive.m3u8
 #EXTINF:-1 tvg-chno-"42",MIX BOLIVIA (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mixboliviatvhd/chunks.m3u8      
 
-#EXTINF:-1 tvg-chno-"43",WOW MOVIES. (PELICULAS,VARIADO, MUSICA ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8         
+#EXTINF:-1 tvg-chno-"43",EL MAGO TV. (PELICULAS,VARIADO, MUSICA ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8         
 
 #EXTINF:-1 tvg-chno-"44",RETROX CR (PELICULAS,SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8     
