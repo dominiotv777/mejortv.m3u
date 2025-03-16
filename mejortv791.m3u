@@ -72,8 +72,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno-"24",TIME (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119
 
-#EXTINF:-1 tvg-chno-"25", ELECTRONICASRTV (PELICULAS, SERIES, INFORMATIVO).NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/srtv2025/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"25",DITI AR (PELICULAS, SERIES, INFORMATIVO).NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/index.ts.m3u8  
 
 #EXTINF:-1 tvg-chno-"26",TELEMIX AR (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/telemixlive/chunks.m3u8          
