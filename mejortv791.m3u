@@ -90,8 +90,8 @@ https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-chno-"30",FMCOSMOS AR (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8  
 
-#EXTINF:-1 tvg-chno-"31",NITIDA (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8                
+#EXTINF:-1 tvg-chno-"31",FMTV EC (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://s2.tvdatta.com:3307/hybrid/play.m3u8                  
 
 #EXTINF:-1 tvg-chno-"32",WOW MOVIES (SUPERVARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/wowchannelsd/chunks.m3u8    
