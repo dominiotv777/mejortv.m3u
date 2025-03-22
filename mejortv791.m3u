@@ -60,8 +60,8 @@ https://cnn.essastream.com:3091/live/hmtvlive.m3u8
  #EXTINF:-1 tvg-chno-"20",BAYRES AR (SERIES, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8   
 
-#EXTINF:-1 tvg-chno-"21",RETRO PLUS 3 (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist.m3u8      
+#EXTINF:-1 tvg-chno-"21",MOVIEFREE TV(PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/4606fa84-dc1d-4cd0-bfed-5516c55aa42c/4.m3u8      
 
 #EXTINF:-1 tvg-chno-"22",MULTIVISION RD (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101.bozztv.com/ssh101/canalmulti24/chunks.m3u8                   
