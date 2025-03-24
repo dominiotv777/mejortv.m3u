@@ -70,7 +70,7 @@ https://ssh101.bozztv.com/ssh101/canalmulti24/chunks.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8      
 
 #EXTINF:-1 tvg-chno-"24",TIME (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551  
 
 #EXTINF:-1 tvg-chno-"25",DITI AR (PELICULAS, SERIES, INFORMATIVO).NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/index.ts.m3u8  
