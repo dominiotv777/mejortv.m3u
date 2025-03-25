@@ -234,7 +234,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-chno-"78",CARACOL DIGITAL COL."SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE.
 https://co-e6-p-e-cl1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/fc50f5d6-0c3e-4f3b-bc20-1817d995f249:MRN2/variant/de638f308a668d41edd56b70771cbd5d/bandwidth/743600.m3u8?aid=574462d1cab0f4d50866f001&uid=ZVJ4Ro6sD1bmeJHCJewbBTVtjMNqUjye&sid=P5T2StlxlXoPce4wH9IR9zCFbPlZSqxl&pid=3iA2N60Wx8zKlGfubDvDirdtX3rdeI2k&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=1mERFO5kTn7i5kolqE1F71jjWk5PFs2iBVz2AHsiKGQTpEO2nymnfOjG7oWSyAyqvargJvbLXdI&adInsertionGoogleStreamId=fc50f5d6-0c3e-4f3b-bc20-1817d995f249%3AMRN2&es=co-e6-p-e-cl1.cdn.mdstrm.com&ote=1742927447747&ot=_b15locmdaHgcSZxKNgFFw&proto=https&pz=us
 
-#EXTINF:-1 tvg-chno-"79",CARACOL AHORA. (NOTICIAS, DEPORTES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+#EXTINF:-1 tvg-chno-"79",CARACOL AHORA. SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://www.youtube.com/watch?v=Swhm_GcBC_w
 
 #EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 PLAY.(EN VIVO-RESUMEN)ACTUALIZAR CUANDO JUEGUE COLOMBIA"
