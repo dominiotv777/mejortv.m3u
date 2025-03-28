@@ -165,11 +165,11 @@ https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"55",TELEVILLA COL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8   
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.VIAJE DESCONOCIDO CAP FINAL.VIERNES NUEVA SERIE
-https://video.wixstatic.com/video/08276b_96031d150fd2449cadedaf6f2b6df748/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.FUBAR CAP 1.LUNES NUEVO CAPITULO
+https://video.wixstatic.com/video/08276b_b0eb9823f8fe4d70b4300a45a86905cd/480p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.SUSURROS MORTALES.VIERNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_78d2895f6c4f43fb902dcd82e302a938/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.DESPUES DEL APOCALIPSIS.LUNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_cfd9c0dff9704583bc7036ca4bee3d8f/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. TOMB RAIDER+STAR WARS+FUTURAMA+DRAGON BALL GT+DUCK DOGERS
 https://video.wixstatic.com/video/08276b_d8eea845366945118e86571fa733e7b4/480p/mp4/file.mp4
@@ -202,7 +202,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=11057
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"68",ANIRETRO (SERIES ANIMADAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://tv.streaming-chile.com:19360/8068/8068.m3u8  
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/8ab814b1-394e-4682-8160-e2f89c1c127e/1.m3u8 
 
 #EXTINF:-1 tvg-chno-"69",VC ONLINE (VARIADO, FAMILIAR) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://panel.tvstream.cl:1936/8024/8024/chunklist.m3u8  
