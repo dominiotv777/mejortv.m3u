@@ -252,8 +252,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62b97ef310e33f0007eea
 #EXTINF:-1 tvg-chno-"84",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
 
-#EXTINF:-1 tvg-chno-"85",DSPORT1. SI NO TIENES SEÑAL VOLVEMOS PRONTO
-https://video.wixstatic.com/video/08276b_9df968b14e9d42d3bfa3998146d7a686/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"85",MOTORRACING. SI NO TIENES SEÑAL VOLVEMOS PRONTO
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/6d7a51e7-fb9a-427c-8166-8f7261a27f0a/2.m3u8
 
 #EXTINF:-1 tvg-chno-"86",ITV DEPORTES.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5093
@@ -261,8 +261,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5093
 #EXTINF:-1 tvg-chno-"87",TUBITV FOX DEPORTES. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-chno-"88",MOTORRACING. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/6d7a51e7-fb9a-427c-8166-8f7261a27f0a/2.m3u8
+#EXTINF:-1 tvg-chno-"88",CARIÑOSA. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist.m3u8
 
 #EXTINF:-1 tvg-chno-"89",R&R
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
