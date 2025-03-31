@@ -165,14 +165,14 @@ https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"55",TELEVILLA COL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8   
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.FUBAR CAP 1.LUNES NUEVO CAPITULO
-https://video.wixstatic.com/video/08276b_b0eb9823f8fe4d70b4300a45a86905cd/480p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.FUBAR CAP 2.VIERNES NUEVO CAPITULO
+https://video.wixstatic.com/video/08276b_523d869cae524e15ad54614dbacb8ab2/480p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.DESPUES DEL APOCALIPSIS.LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_cfd9c0dff9704583bc7036ca4bee3d8f/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.LA HORA DEL SILENCIO.VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_9a7ebe6c3f4a4f88a397436e3faba8d2/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. TOMB RAIDER+STAR WARS+FUTURAMA+DRAGON BALL GT+DUCK DOGERS
-https://video.wixstatic.com/video/08276b_d8eea845366945118e86571fa733e7b4/480p/mp4/file.mp4
+https://video.wixstatic.com/video/08276b_88e05a08a2d84fc985befa5df996839d/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",MAGIC KIDS (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://magicstream.ddns.net/magicstream/stream.m3u8          
