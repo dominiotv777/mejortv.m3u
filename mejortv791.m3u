@@ -234,11 +234,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-chno-"78",VIVA TV.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/rctvhd104/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"79",CARACOL AHORA. SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
+#EXTINF:-1 tvg-chno-"79",NOTICIAS CARACOL EN VIVO. SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://www.youtube.com/watch?v=Swhm_GcBC_w
 
 #EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 PLAY.(EN VIVO-RESUMEN)ACTUALIZAR CUANDO JUEGUE COLOMBIA"
-https://www.youtube.com/watch?v=UBs_R6af8BI
+https://www.youtube.com/watch?v=7Y0MnFtMtoM&t=209s
 
 #EXTINF:-1 tvg-chno-"81",WSPORTS RED BULL TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
