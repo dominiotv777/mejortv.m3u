@@ -165,14 +165,14 @@ https://live.obslivestream.com/yurivision/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-chno-"55",TELEVILLA COL (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://cp.panelchs.com:1936/8060/8060/playlist.m3u8   
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.FUBAR CAP 3.LUNES NUEVO CAPITULO
-https://video.wixstatic.com/video/08276b_4c4da9c7de2444b5ad129bc3a6fd74ae/480p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.FUBAR CAP 4.VIERNES NUEVO CAPITULO
+https://video.wixstatic.com/video/08276b_755f7ff717574f82b9d7e6f6d6644066/480p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.UN VIAJE TERRIBLE.LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_32bb4028d9aa4df7b7f502c3256f549d/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.AMENAZA EN EL AIRE.VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_a468a8573e4840df9c5c93acb5db6470/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. TOMB RAIDER+STAR WARS+FUTURAMA+DRAGON BALL GT+DUCK DOGERS
-https://video.wixstatic.com/video/08276b_88e05a08a2d84fc985befa5df996839d/480p/mp4/file.mp4
+https://video.wixstatic.com/video/08276b_b813426335a241958f7345a9b980c570/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",MONI TV (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8          
