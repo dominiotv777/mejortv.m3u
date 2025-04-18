@@ -135,8 +135,8 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"45",PLANETA TV MOYOBAMBA PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live.obslivestream.com/planetatv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"46",TV NOSARA CR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8            
+#EXTINF:-1 tvg-chno-"46",GFTV (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.obslivestream.com/regionaltv/tracks-v1a1/index.m3u8            
 
 #EXTINF:-1 tvg-chno-"47",ORBIT RD (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist.m3u8      
