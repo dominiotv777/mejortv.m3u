@@ -246,8 +246,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-chno-"82",TUBITV FOX DEPORTES. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-chno-"83",BEIN SPORTS XTRA. "SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE. 
-https://bmf0aw9u.fubohd.com/winsportsplus/mono.m3u8?token=cfb68c5988fe416937aafb620c6e90aca6e2da1c-8d-1745372684-1745354684
+#EXTINF:-1 tvg-chno-"83",PLAY FUTBOLL. "SI SE CONGELA,CAMBIA AL CANAL ANTERIOR Y VUELVE. 
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/proba123/chunks.m3u8  
 
 #EXTINF:-1 tvg-chno-"84",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
