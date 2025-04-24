@@ -93,8 +93,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-chno-"31",FMTV EC (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://s2.tvdatta.com:3307/hybrid/play.m3u8                  
 
-#EXTINF:-1 tvg-chno-"32",BAYRES (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8    
+#EXTINF:-1 tvg-chno-"32",SUMAQ (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/makins/chunks.m3u8    
 
 #EXTINF:-1 tvg-chno-"33",TV FLORENCIA GT. (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
