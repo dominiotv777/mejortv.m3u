@@ -258,8 +258,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-chno-"86",RTTV CR.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/turrialbatv/turrialbatv/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"87",NOVA. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://live-evg25.tv360.bitel.com.pe/bitel/novatv/chunks.m3u8
+#EXTINF:-1 tvg-chno-"87",RADIOFRECUENCIA. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
 #EXTINF:-1 tvg-chno-"88",CARIÑOSA. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist.m3u8 
