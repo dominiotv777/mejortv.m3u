@@ -165,14 +165,14 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 tvg-chno-"55",EL MAGO TV AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.WILLOW CAP 3.LUNES NUEVO CAPITULO
-https://video.wixstatic.com/video/08276b_4396bc1a36764d6aa82f20999da10e74/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.WILLOW CAP 4.VIERNES NUEVO CAPITULO
+https://video.wixstatic.com/video/08276b_72b76add00fe48db810bfb5577b83b63/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.FUERA DE LA LEY.LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_205dc17352b049fd94cf2d7b3169c617/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.LA OTRA BODA.VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_e8b9ba7362dc4b9db6be177ee9b3f821/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES.DB DAIMA+BATMAN+DB GT+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_2b67f935aa474af4a23df34d28890396/480p/mp4/file.mp4
+https://video.wixstatic.com/video/08276b_30439b587e284038a1e493e350777923/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",ZPLAY TV (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8           
