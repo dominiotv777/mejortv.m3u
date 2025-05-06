@@ -6,8 +6,8 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:-1 tvg-chno-"2",PANTALLA CLASSIC (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/chunks.m3u8         
 
-#EXTINF:-1 tvg-chno-"3",ALCARRIZOS RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
-https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8     
+#EXTINF:-1 tvg-chno-"3",ONDA  RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
+https://cnn.hostlagarto.com/ondatv/tracks-v1a1/index.m3u8    
 
 #EXTINF:-1 tvg-chno-"4",ECO EXTREMO TV (PELICULAS, VARIADO, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live-evg25.tv360.bitel.com.pe/bitel/extremotv/chunks.m3u8
