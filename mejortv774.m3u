@@ -42,8 +42,8 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-chno-"14",BUM TV. (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://movil.ejeserver.com/live/visiondorada.m3u8             
 
-#EXTINF:-1 tvg-chno-"15",VM LATINO (MUSICA TODOS GENEROS ACTUAL Y CLASICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist.m3u8    
+#EXTINF:-1 tvg-chno-"15",BTA (MUSICA TODOS GENEROS ACTUAL Y CLASICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8    
 
 #EXTINF:-1 tvg-chno-"16",RUMBA TV (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/index.m3u8    
