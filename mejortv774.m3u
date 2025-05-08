@@ -114,8 +114,8 @@ https://v1.tustreaming.cl/melinkana/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"38",RUM TIME F(PELICULAS)) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528                          
 
-#EXTINF:-1 tvg-chno-"39",CASCARA (PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.mycloudstream.io/hls/live/broadcast/jhxjodjp/index.m3u8
+#EXTINF:-1 tvg-chno-"39",GENTV AR (PELICULAS, INFORMATIVO)  SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8   
 
 #EXTINF:-1 tvg-chno-"40",HOY TV PE (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8             
