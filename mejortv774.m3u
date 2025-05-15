@@ -231,8 +231,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno-"77",RT (NOTICIAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-chno-"78",CARACOL TV DITU.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://stream.gia.tv/giatv/giatv-c1mayten/c1mayten/chunks.m3u8
+#EXTINF:-1 tvg-chno-"78",TELECOLOR.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://live.obslivestream.com/telecolormux/index.m3u8      
 
 #EXTINF:-1 tvg-chno-"79",NOTICIAS CARACOL EN VIVO. SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://www.youtube.com/watch?v=TmuAsFvSKDY
