@@ -189,8 +189,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 #EXTINF:-1 tvg-chno-"63",ANIME ONEGAI PLUS JAPON LATINO .(ANIMACION) SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_480p/chunks.m3u8   
 
-#EXTINF:-1 tvg-chno-"64",MONI TV (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/chunks.m3u8     
+#EXTINF:-1 tvg-chno-"64",ZTV ZPLAY (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8     
 
 #EXTINF:-1 tvg-chno-"65",CLAN (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
