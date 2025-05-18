@@ -189,8 +189,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/chunks.m3u8
 #EXTINF:-1 tvg-chno-"63",ANIME ONEGAI PLUS JAPON LATINO .(ANIMACION) SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_480p/chunks.m3u8   
 
-#EXTINF:-1 tvg-chno-"64",ENERGEEK FAN (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cl-live.elekta.lat/live/c7eds/EnerGeek_FAN/SA_LIVE_hls_enc/e16d2f72-70b5-4bf5-b9c5-107b6390a10f_output_0.m3u8    
+#EXTINF:-1 tvg-chno-"64",ANIRETRO CL (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://tv.arkeo.cl:19360/8000/8000.m3u8
 
 #EXTINF:-1 tvg-chno-"65",CLAN (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
