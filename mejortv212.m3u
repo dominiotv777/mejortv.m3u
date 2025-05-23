@@ -123,8 +123,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"41",CRTV (DOCUMENTAL,PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://live.obslivestream.com/crtvmux/tracks-v2a1/index.m3u8
  
-#EXTINF:-1 tvg-chno-"42",IXCHIGUAN GT (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://cdn.streamhispanatv.net:3859/live/ixchiguanlive.m3u8 
+#EXTINF:-1 tvg-chno-"42",+TV GT (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8 
 
 #EXTINF:-1 tvg-chno-"43",TV NOSARA (PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8         
