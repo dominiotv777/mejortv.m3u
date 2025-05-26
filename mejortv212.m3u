@@ -165,14 +165,14 @@ https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 #EXTINF:-1 tvg-chno-"55",ORBIT RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO  
 https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8  
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.LA CASA DE DAVID. CAP 1.LUNES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_37ee6fd5bd5d4be1b378079b96683721/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.LA CASA DE DAVID. CAP 2.VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_10f16657f6ec40ccaaedeaea72f1ec5e/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.RESCATE INPLACABLE. LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_c8d1da1b01bb43cc80a2148bf9367568/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.EL MONO. VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_8669406e0c7c4fa79fc5e6713b74bb89/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES.DB DAIMA+BATMAN+DB GT+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_832a6114b574428f8c8fa3a3a9bda327/480p/mp4/file.mp4
+https://video.wixstatic.com/video/08276b_f93d9c10929d4635aae60e1693f5f1d3/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",ZPLAY TV (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8           
