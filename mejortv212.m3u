@@ -126,8 +126,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
 #EXTINF:-1 tvg-chno-"42",+TV GT (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8 
 
-#EXTINF:-1 tvg-chno-"43",TV NOSARA (PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://acceso.radiosportstv.online:3430/live/tvnosaralive.m3u8         
+#EXTINF:-1 tvg-chno-"43",ANZOATEGUI VE (PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/.m3u8         
 
 #EXTINF:-1 tvg-chno-"44",TELESIGLO RD (PELICULAS,SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8     
