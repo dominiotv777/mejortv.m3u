@@ -102,8 +102,8 @@ https://vcp10.myplaytv.com/tvs/tvs/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"34",DMJ PE (PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8          
 
-#EXTINF:-1 tvg-chno-"35",XTV PLUS ( PELICULAS,VARIADO, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
-https://play.agenciastreaming.com:8081/xtvplus/tracks-v1a1/index.m3u8       
+#EXTINF:-1 tvg-chno-"35",NORTE INFORMATIVO CR ( PELICULAS,VARIADO, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+https://videohd.live:19360/8076/8076.m3u8          
 
 #EXTINF:-1 tvg-chno-"36",UVATV HD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN PROGRAMACION.
 https://live20.bozztv.com/akamaissh101/ssh101/tvhduva/playlist.m3u8      
