@@ -72,8 +72,8 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno-"24",TIME (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551  
 
-#EXTINF:-1 tvg-chno-"25",NITIDA RD (PELICULAS, SERIES, INFORMATIVO).NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8   
+#EXTINF:-1 tvg-chno-"25",MTV PE (PELICULAS, SERIES, INFORMATIVO).NO TIENES SEÑAL, VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.obslivestream.com/mtv/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 tvg-chno-"26",ONDA RD (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO.CARGAN CONTENIDO....
 https://cnn.hostlagarto.com/ondatv/tracks-v1a1/index.m3u8          
