@@ -231,13 +231,13 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno-"77",RT (NOTICIAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-chno-"78",CARACOL DITU.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+#EXTINF:-1 tvg-chno-"78",CARACOL DITU.SI NO TIENES SEÑAL VOLVEMOS PRONTO. ACTUALIZAR
 https://live20.bozztv.com/giatv/giatv-c1junfive/c1junfive/chunks.m3u8         
 
 #EXTINF:-1 tvg-chno-"79",NOTICIAS CARACOL EN VIVO. SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://www.youtube.com/watch?v=0-Fa9Rdzl2w
 
-#EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 PLAY.(EN VIVO-RESUMEN)ACTUALIZAR CUANDO JUEGUE COLOMBIA"
+#EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 PLAY.(EN VIVO-RESUMEN) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ACTUALIZAR
 https://live20.bozztv.com/giatv/giatv-c2junfive/c2junfive/chunks.m3u8 
 
 #EXTINF:-1 tvg-chno-"81",WSPORTS RED BULL TV. SI NO TIENES SEÑAL VOLVEMOS PRONTO
