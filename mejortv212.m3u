@@ -258,11 +258,11 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-chno-"86",CHV DEPORTES CL.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
 
-#EXTINF:-1 tvg-chno-"87",TOP LATINO. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:-1 tvg-chno-"87",CDN DEPORTES. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 
-#EXTINF:-1 tvg-chno-"88",CARIÑOSA. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist.m3u8 
+#EXTINF:-1 tvg-chno-"88",TOP LATINO. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"89",R&R.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
