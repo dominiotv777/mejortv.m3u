@@ -126,8 +126,8 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-chno-"42",+TV GT (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cdn.streamhispanatv.net:3953/live/mastvtotolive.m3u8 
 
-#EXTINF:-1 tvg-chno-"43",ANZOATEGUI VE (PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/.m3u8         
+#EXTINF:-1 tvg-chno-"43",TELESOL VE (PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://vcp15.myplaytv.com/telesoltv/telesoltv/chunklist.m3u8              
 
 #EXTINF:-1 tvg-chno-"44",MEGA CINE RD (PELICULAS,SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8       
