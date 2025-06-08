@@ -147,8 +147,8 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-chno-"49",PANTALLA CLASICA EC (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8       
 
-#EXTINF:-1 tvg-chno-"50",HMTV (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGAN CONTENIDO....
-https://cnn.essastream.com:3091/live/hmtvlive.m3u8 
+#EXTINF:-1 tvg-chno-"50",INVASIVA PY (SUPERVARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGAN CONTENIDO....
+https://video.hostingcaaguazu.com:19360/invasivatv/invasivatv.m3u8 
 
 #EXTINF:-1 tvg-chno-"51",NEOX AR (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO. 
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
