@@ -135,8 +135,8 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-chno-"45",TV NOSARA (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://latamvdo.com:3870/hybrid/play.m3u8  
 
-#EXTINF:-1 tvg-chno-"46",MULTIVISION RD (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://ssh101.bozztv.com/ssh101/canalmulti24/chunks.m3u8            
+#EXTINF:-1 tvg-chno-"46",MTV  (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.obslivestream.com/mtv/tracks-v1a1/index.m3u8           
 
 #EXTINF:-1 tvg-chno-"47",BAYRES AR(PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ALGUNOS DE NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.  
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8          
