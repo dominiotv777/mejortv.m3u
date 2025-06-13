@@ -192,8 +192,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=11059
 #EXTINF:-1 tvg-chno-"64",RETRO MAGICO (ANIMADOS,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
 https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8  
 
-#EXTINF:-1 tvg-chno-"65",MONI TV (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.
-https://stream.900444.xyz/live/peliskids.m3u8
+#EXTINF:-1 tvg-chno-"65",TOONAMI TV (ANIMADOS)SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"66",TOONKIDS (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.           
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/8ab814b1-394e-4682-8160-e2f89c1c127e/1.m3u8
