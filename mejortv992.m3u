@@ -162,17 +162,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-chno-"54",TV FLORENCIA GT.(PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
-#EXTINF:-1 tvg-chno-"55",SARAPIQUIS STREAMING (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO ...... 
-https://acceso.radiosportstv.online:3458/live/sstv2372live.m3u8 
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES.ONE PIECE CAP 1.LUNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_2302388131bc4b8886f02b3af5e01743/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV SERIES.LA CASA DE DAVID. CAP FINAL.VIERNES NUEVA SERIE
-https://video.wixstatic.com/video/08276b_5adbd6fa46ad42049bcaf6cfadcc8375/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. LEYENDA DE OCHI. LUNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_8394041641c3457588e4b3ef5cf45514/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS.EL CONTADOR 2.VIERNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_d83ccff491234be492ce39a91d915f14/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. DESTINO FINAL 6. LUNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_ed2f134b61b549b58c1871fe06d8e007/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES.DB DAIMA+BATMAN+DB GT+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_f911f29353744a39bcfaeebb39e8f7e5/480p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. LOONEY TUNES+DB DAIMA+DB GT+STAR WARS+FUTURAMA
+https://video.wixstatic.com/video/08276b_0da1ae815ec840dd8916789f7519af11/360p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",ZPLAY CL (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8       
