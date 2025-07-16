@@ -231,8 +231,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno-"77",RT (NOTICIAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-chno-"78",YURIVISION.SI NO TIENES SEÑAL VOLVEMOS PRONTO.NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
-https://live.obslivestream.com/yurivision/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-chno-"78",OK TELEVISION .SI NO TIENES SEÑAL VOLVEMOS PRONTO.NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO
+https://live.obslivestream.com/oktv/index.m3u8   
 
 #EXTINF:-1 tvg-chno-"79",RCN MAS . SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
