@@ -231,8 +231,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno-"77",RT (NOTICIAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-chno-"78",HECHICERA  .SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
-https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8     
+#EXTINF:-1 tvg-chno-"78",ECUAVISA EC .SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8     
 
 #EXTINF:-1 tvg-chno-"79",RCN MAS . SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
@@ -258,8 +258,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-chno-"86",CHV DEPORTES CL.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
 
-#EXTINF:-1 tvg-chno-"87",ECUAVISA EC.(DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"87",MULTICANAL EC.(DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8 
 
 #EXTINF:-1 tvg-chno-"88",MASMUSIK. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://stmv3.voxtvhd.com.br/masmusik/masmusik/playlist.m3u8
