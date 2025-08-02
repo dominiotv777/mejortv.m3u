@@ -261,11 +261,11 @@ https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
 #EXTINF:-1 tvg-chno-"87",FS2 (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
-#EXTINF:-1 tvg-chno-"88",MULTICANAL EC. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8 
+#EXTINF:-1 tvg-chno-"88",FS1. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+http://23.237.104.106:8080/USA_FS1/index.m3u8
 
-#EXTINF:-1 tvg-chno-"89",R&R.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 tvg-chno-"89",MULTICANAL EC.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8 
 
 #EXTINF:-1 tvg-chno-"90", KPOP
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
