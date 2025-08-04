@@ -234,10 +234,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-chno-"78",ECUAVISA EC .SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/ecuavisa/livestream1/chunks.m3u8     
 
-#EXTINF:-1 tvg-chno-"79",RCN MAS . SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
+#EXTINF:-1 tvg-chno-"79",RCN MAS . SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"80",NOTICIAS CARACOL (EN VIVO-RESUMEN) SI NO TIENES SEÑAL VOLVEMOS PRONTO. ACTUALIZAR
+#EXTINF:-1 tvg-chno-"80",NOTICIAS CARACOL .SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://www.youtube.com/watch?v=DW0Q4NBO51w
 
 #EXTINF:-1 tvg-chno-"81",WSPORTS RED BULL . SI NO TIENES SEÑAL VOLVEMOS PRONTO
@@ -267,7 +267,7 @@ http://23.237.104.106:8080/USA_FS1/index.m3u8
 #EXTINF:-1 tvg-chno-"89",TUDN MEX .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://dvrfl03.bozztv.com/hondu-canal12/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"90", KPOP
+#EXTINF:-1 tvg-chno-"90", KPOP. SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 
 
