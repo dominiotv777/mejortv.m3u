@@ -252,11 +252,11 @@ https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 #EXTINF:-1 tvg-chno-"84",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
 
-#EXTINF:-1 tvg-chno-"85",MOTORRACING. SI NO TIENES SEÑAL VOLVEMOS PRONTO
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/6d7a51e7-fb9a-427c-8166-8f7261a27f0a/2.m3u8
+#EXTINF:-1 tvg-chno-"85",CBC SPORTS. SI NO TIENES SEÑAL VOLVEMOS PRONTO
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"86",CHV DEPORTES CL.SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
+#EXTINF:-1 tvg-chno-"86",BAHIREN .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"87",FS2 (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 http://23.237.104.106:8080/USA_FS2/index.m3u8
