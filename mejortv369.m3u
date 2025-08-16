@@ -240,8 +240,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"80",NOTICIAS CARACOL .SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://www.youtube.com/watch?v=DW0Q4NBO51w
 
-#EXTINF:-1 tvg-chno-"81",WSPORTS RED BULL . SI NO TIENES SEÑAL VOLVEMOS PRONTO
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-chno-"81",BEIN XTRA ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"82",TUBITV FOX DEPORTES. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
