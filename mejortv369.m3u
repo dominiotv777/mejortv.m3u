@@ -240,7 +240,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"80",NOTICIAS CARACOL .SI LA PANTALLA SE PONE NEGRA,CAMBIA DE CANAL Y VUELVE
 https://www.youtube.com/watch?v=DW0Q4NBO51w
 
-#EXTINF:-1 tvg-chno-"81",BEIN XTRA ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
+#EXTINF:-1 tvg-chno-"81",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"82",TUBITV FOX DEPORTES. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
@@ -255,8 +255,8 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 tvg-chno-"85",CBC SPORTS. SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"86",BAHIREN .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno-"87",FS2 (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 http://23.237.104.106:8080/USA_FS2/index.m3u8
