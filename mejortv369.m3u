@@ -247,7 +247,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 #EXTINF:-1 tvg-chno-"83",RTTV DEPORTES.(DEPORTES, PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
-https://acceso.radiosportstv.online:3723/stream/play.m3u8
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8  
 
 #EXTINF:-1 tvg-chno-"84",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
