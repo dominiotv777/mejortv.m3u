@@ -243,8 +243,8 @@ https://www.youtube.com/watch?v=-5CXYV_roZA
 #EXTINF:-1 tvg-chno-"81",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"82",LA 1 ES. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:0,ESPN 6 (Chile) 82 (????) 93 UFC
+http://181.78.82.6:46090/play/a00w/index.m3u8
 
 #EXTINF:-1 tvg-chno-"83",RTTV DEPORTES.(DEPORTES, PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8  
