@@ -264,8 +264,8 @@ http://190.83.2.172:8081/play/a07g/index.m3u8
 #EXTINF:0,ESPN 2 (España) (🇪🇸)  (88) 73 TENIS
 http://181.78.82.6:46090/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-chno-"89",CBC SPORTS. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1 tvg-chno-"45",fox españa 89
+http://181.78.106.127:9000/play/ca031/index.m3u8  
 
 #EXTINF:0,FSI FOX SPORTS 2 USA
 http://23.237.104.106:8080/USA_FS2/index.m3u8
