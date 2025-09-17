@@ -201,8 +201,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-chno-"67",MAXANIME (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://streamlov.alsolnet.com/maxanime/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-chno-"68",CN2 (SERIES, ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/CARTOONNETWORK/20-hls/live-media.m3u8
+#EXTINF:-1 tvg-chno-"68",FMH KIDS (PELICULAS ANIMADAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
+https://live-evg20.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"69",ZPLAY (ANIMADOS,PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
 https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8  
