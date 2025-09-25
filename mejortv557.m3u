@@ -267,9 +267,8 @@ http://181.78.82.6:46090/play/a00i/index.m3u8
 #EXTINF:-1 tvg-chno-"45",fox españa 89
 http://181.78.106.127:9000/play/ca031/index.m3u8  
 
-#EXTINF:0,t13
-https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
-
+#EXTINF:0,,ESPN AR.  (56)
+http://181.78.106.127:9000/play/ca033/index.m3u8
 
 
 
