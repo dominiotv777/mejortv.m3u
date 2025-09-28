@@ -27,8 +27,8 @@ https://inliveserver.com:1936/10016/10016/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"9",CANAL 10 CR. (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8 
 
-#EXTINF:-1 tvg-chno-"10",FMTV EC (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
-https://s2.tvdatta.com:3307/hybrid/play.m3u8           
+#EXTINF:-1 tvg-chno-"10",CIUDAD MAGICA AR (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
+https://tuvideoonline.com.ar:3145/live/grupocitylive.m3u8           
 
 #EXTINF:-1 tvg-chno-"11",CASCARA RD (PELICULAS,DOCUMENTAL, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8   
