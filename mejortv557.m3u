@@ -264,8 +264,8 @@ http://190.92.10.66:4000/play/a003/index.m3u8
 #EXTINF:0,ESPN 2 (España) (🇪🇸)  (88) 73 TENIS
 http://181.78.82.6:46090/play/a00i/index.m3u8
 
-#EXTINF:0,ESPN Deportes (España) (🇪🇸)99
-http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:0,DUBAHISPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/.m3u8
 
 #EXTINF:0,,DUBAISPORTS
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8
