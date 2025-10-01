@@ -231,8 +231,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno-"77",RT (NOTICIAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-chno-"78",LATINATV .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-chno-"78",AMERICA TV .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://live-evg20.tv360.bitel.com.pe/bitel/america_tv_abr/bitel/america_tv_360p/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"79",RCN MAS . SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
