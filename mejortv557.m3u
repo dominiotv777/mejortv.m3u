@@ -258,8 +258,8 @@ http://181.78.82.6:46090/play/a00v/index.m3u8
 #EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:0,ESPN OLD
-http://190.92.10.66:4000/play/a003/index.m3u8
+#EXTINF:0,ESPN 2 (Canada) (🇨🇦) 70
+http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
 
 #EXTINF:0,ESPN 2 (España) (🇪🇸)  (88) 73 TENIS
 http://181.78.82.6:46090/play/a00i/index.m3u8
