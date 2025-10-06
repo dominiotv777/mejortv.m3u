@@ -168,7 +168,7 @@ https://video.wixstatic.com/video/08276b_50a84efc73e04094ab60a69a858663c7/1080p/
 #EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS.REINA DE LAS APP. VIERNES NUEVO ESTRENO
 https://video.wixstatic.com/video/08276b_c7578d7e188a4fd0ad397e3a90289ba0/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. HAZ QUE REGRESE. VIENNES NUEVO ESTRENO.
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. HAZ QUE REGRESE. VIERNES NUEVO ESTRENO.
 https://video.wixstatic.com/video/08276b_1d7ac6f056994225a3811f8f0855c3b9/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. DUCKTALES+DB SUPER+LOONEY TUNES+STAR WARS+FUTURAMA
@@ -204,8 +204,8 @@ https://streamlov.alsolnet.com/maxanime/live/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"68",FMH KIDS (PELICULAS ANIMADAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
 https://live-evg20.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_360p/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"69",TOONAMI (ANIMADOS,PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8  
+#EXTINF:-1 tvg-chno-"69",ZPLAY (ANIMADOS,PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
+https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8 
 
 #EXTINF:-1 tvg-chno-"70", EXTREMA KIDS. (FAMILIA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAN CONTENIDO.....
 https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
