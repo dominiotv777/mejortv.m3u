@@ -27,8 +27,8 @@ https://inliveserver.com:1936/10016/10016/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"9",CANAL 10 CR. (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://acceso.radiosportstv.online:3285/hybrid/play.m3u8 
 
-#EXTINF:-1 tvg-chno-"10",DELTA TV (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
-https://cloud5.streaminglivehd.com:3511/live/dilverlive.m3u8        
+#EXTINF:-1 tvg-chno-"10",INVASIVA PY (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
+https://tv.invasivamedia.com/hls/live.m3u8       
 
 #EXTINF:-1 tvg-chno-"11",CASCARA RD (PELICULAS,DOCUMENTAL, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist.m3u8   
