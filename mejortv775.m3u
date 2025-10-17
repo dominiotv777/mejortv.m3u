@@ -258,8 +258,8 @@ http://179.1.87.75:8098/play/a0fu/index.m3u8
 #EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:0,ESPN 2 (Canada) (🇨🇦) 70
-http://tvmate.icu:8080/nCqH8t/631017/2210?extension=m3u8
+#EXTINF:-1 tvg-chno-"57",espn 1 ex 122
+http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 
 #EXTINF:0,ESPN 2 (Colombia) (🇨🇴) 72
 http://181.78.106.127:9000/play/ca034/index.m3u8
