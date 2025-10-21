@@ -243,8 +243,8 @@ https://www.youtube.com/watch?v=zpuRGtcnTZ0
 #EXTINF:-1 tvg-chno-"81",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"53",espnn 113
-http://179.1.87.75:8098/play/a0fh/index.m3u8
+#EXTINF:0,ESPN 2 (España) (????) 73 TENIS
+ http://181.78.82.6:46090/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-chno-"83",RTTV DEPORTES.(DEPORTES, PELICULAS, MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8  
