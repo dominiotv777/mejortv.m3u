@@ -159,8 +159,8 @@ https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"53",TRANCE LATINA (MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO.....
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/95a74b28-fdf8-4154-b898-87f26f067c14/3.m3u8
 
-#EXTINF:-1 tvg-chno-"54",TVS RD.(VARIADO) "ESPERA 10 SEGUNDOS PARA QUE CARGUE EL CANAL". 
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8
+#EXTINF:-1 tvg-chno-"54",ATACAMA CL .(VARIADO) "ESPERA 10 SEGUNDOS PARA QUE CARGUE EL CANAL". 
+https://v2.tustreaming.cl/atacamatv/index.m3u8
 
 #EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. TULSA KING TEMPORADA 2 CAP 05. VIERNES NUEV0 EPISODIO
 https://video.wixstatic.com/video/08276b_4f159fff357d42cdab3ebc3ababd63b6/1080p/mp4/file.mp4
