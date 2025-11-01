@@ -234,8 +234,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-chno-"78",RCN MAS .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"79",NOTICIAS CARACOL. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://www.youtube.com/watch?v=kCuiBI19HuM
+#EXTINF:-1 tvg-chno-"79",CARACOL DITU. SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+http://170.244.209.135:8000/play/a0cz/index.m3u8
 
 #EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 .ACTUALIZAR CUANDO JUEGUE COLOMBIA EN VIVO......
 https://www.youtube.com/watch?v=fwhdj05noZE
