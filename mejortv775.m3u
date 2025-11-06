@@ -261,8 +261,8 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"57",espn 1 ex 122
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 
-#EXTINF:0,FOX Sports (España) (🇪🇸) 55
-http://181.78.106.127:9000/play/ca031/index.m3u8 
+#EXTINF:0,SPORTSTV
+https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
 
 #EXTINF:0,DUBAHISPORTS 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8
