@@ -162,14 +162,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-chno-"54",ATACAMA CL .(VARIADO) "ESPERA 10 SEGUNDOS PARA QUE CARGUE EL CANAL". 
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. TULSA KING TEMPORADA 2 CAP 10. LUNES NUEV0 EPISODIO
-https://video.wixstatic.com/video/08276b_50f3747c60b4453da2b8815c1e0eb3e3/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. TULSA KING TEMPORADA 3 CAP 01. VIERNES NUEV0 EPISODIO
+https://video.wixstatic.com/video/08276b_5e5e314de0e745ecbc01afe07193c13f/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. LA VIDA DE CHUCK.LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_b041120840e240a4a5035fb86ebaa375/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. CARAMELO. VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_8af75491f9824cb585f18c0ea175ca11/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. FURIOSA 2. LUNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_2493ab49474e439cb0a8f6029c459b53/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2.EL ELIXIR DE LA INMORTALIDAD. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_4209d7a3c9a349dfbf94e887ffa90f84/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. DUCKTALES+DB SUPER+LOONEY TUNES+STAR WARS+FUTURAMA
 https://video.wixstatic.com/video/08276b_4cd119975fe742c9a1a878c87b2e1d8e/480p/mp4/file.mp4
@@ -234,14 +234,14 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-chno-"78",RCN MAS .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"79",RCN DEPORTES. ACTUALIZAR ANTES DE VER ESTE CANAL.
-https://www.youtube.com/watch?v=yOgPspfHlJk
+#EXTINF:-1 tvg-chno-"79",NOTICIAS CARACOL DITU. 
+https://www.youtube.com/watch?v=VzJInFFP52U
 
 #EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 .ACTUALIZAR ANTES DE VER ESTE CANAL.
-https://www.youtube.com/watch?v=zodKgcf3D24
+https://www.youtube.com/watch?v=qIDVZCKA3h4
 
-#EXTINF:-1 tvg-chno-"81",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
-https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"81",RCN DEPORTES. ACTUALIZAR ANTES DE VER ESTE CANAL.
+https://www.youtube.com/watch?v=QPxBX74hGLI
 
 #EXTINF:0,ESPN 2 (España) (????) 73 TENIS
  http://181.78.82.6:46090/play/a00i/index.m3u8
@@ -264,8 +264,8 @@ http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:0,SPORTSTV
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8 
 
-#EXTINF:0,DUBAHISPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/.m3u8
+#EXTINF:-1 tvg-chno-"89",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:0,,DUBAISPORTS.
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/.m3u8 
