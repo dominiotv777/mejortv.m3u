@@ -162,17 +162,17 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-chno-"54",ATACAMA CL .(VARIADO) "ESPERA 10 SEGUNDOS PARA QUE CARGUE EL CANAL". 
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. TULSA KING TEMPORADA 3 CAP 01. VIERNES NUEV0 EPISODIO
-https://video.wixstatic.com/video/08276b_5e5e314de0e745ecbc01afe07193c13f/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. TULSA KING TEMPORADA 3 CAP 02.LUNES NUEV0 EPISODIO
+https://video.wixstatic.com/video/08276b_74647c24f48e4b13a65168fd9a87a931/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. CARAMELO. VIERNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_8af75491f9824cb585f18c0ea175ca11/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS.LA CASA DE DINAMITA. LUNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_62411ca6590247a49e37a45cce3e35b0/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2.EL ELIXIR DE LA INMORTALIDAD. VIERNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_4209d7a3c9a349dfbf94e887ffa90f84/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. FRANKESTEIN. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_afd3706eff4d4bb3b10eff4c5f0f8567/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. DUCKTALES+DB SUPER+LOONEY TUNES+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_27759cec9b6144b88e55c899c5a6c104/480p/mp4/file.mp4
+https://video.wixstatic.com/video/08276b_636bc10c13724e5d8d2f84672aff246a/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",GOgo PLAY (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8            
@@ -238,10 +238,10 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://www.youtube.com/watch?v=VzJInFFP52U
 
 #EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 .ACTUALIZAR ANTES DE VER ESTE CANAL.
-https://www.youtube.com/watch?v=qIDVZCKA3h4
+https://www.youtube.com/watch?v=Ej7s05RsWuY
 
 #EXTINF:-1 tvg-chno-"81",RCN DEPORTES. ACTUALIZAR ANTES DE VER ESTE CANAL.
-https://www.youtube.com/watch?v=QPxBX74hGLI
+https://www.youtube.com/watch?v=EsvdrojRHFI
 
 #EXTINF:0,ESPN 2 (España) (????) 73 TENIS
  http://181.78.82.6:46090/play/a00i/index.m3u8
