@@ -24,8 +24,8 @@ https://us.streaminghd.cl/torococotelevision/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"8",GAM TV CR (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
 https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/index.m3u8         
 
-#EXTINF:-1 tvg-chno-"9",CANAL 10 CR. (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
+#EXTINF:-1 tvg-chno-"9",ZELEVE TV . (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://7.innovatestream.pe:19360/zelevetv/zelevetv.m3u8
 
 #EXTINF:-1 tvg-chno-"10",DELTA TV  (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8           
