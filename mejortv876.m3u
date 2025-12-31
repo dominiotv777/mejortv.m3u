@@ -195,8 +195,8 @@ https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 #EXTINF:-1 tvg-chno-"65",PEQUETV (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/chunks.m3u8?uid=10112997
 
-#EXTINF:-1 tvg-chno-"66",MONITV 2 (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.           
-https://live20.bozztv.com/akamaissh101/ssh101/monitvhd/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"66",TELEMANIA (ANIMADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.           
+https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"67",MAXANIME (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://streamlov.alsolnet.com/maxanime/live/chunklist.m3u8
