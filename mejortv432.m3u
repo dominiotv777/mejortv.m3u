@@ -159,8 +159,8 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #EXTINF:-1 tvg-chno-"53",TRANCE LATINA (MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO.....
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/95a74b28-fdf8-4154-b898-87f26f067c14/3.m3u8
 
-#EXTINF:-1 tvg-chno-"54",OLI TV AR .(VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO..... 
-https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/index.ts.m3u8
+#EXTINF:-1 tvg-chno-"54",CANAL 10 CR .(VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO..... 
+https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
 
 #EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. WALKING DEAD CITY. CAP 2. LUNES NUEVO EPISODIO
 https://video.wixstatic.com/video/08276b_34f84a6fd1004d03ab8a1cccdc36c38a/1080p/mp4/file.mp4
