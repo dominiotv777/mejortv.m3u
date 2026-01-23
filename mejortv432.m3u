@@ -234,14 +234,14 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 tvg-chno-"78",RCN MAS .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"79",NOTICIAS CARACOL DITU. 
+#EXTINF:-1 tvg-chno-"79",FRANCE 24. 
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-chno-"80",NOTICIAS CARACOL DITU.ACTUALIZAR ANTES DE VER ESTE CANAL.
 https://www.youtube.com/watch?v=ZA6YS0CYoTA
 
-#EXTINF:-1 tvg-chno-"80",GOL CARACOL H2 DITU .ACTUALIZAR ANTES DE VER ESTE CANAL.
+#EXTINF:-1 tvg-chno-"81",GOL CARACOL H2 DITU. ACTUALIZAR ANTES DE VER ESTE CANAL.
 https://www.youtube.com/watch?v=AaMOH6xQmKI
-
-#EXTINF:-1 tvg-chno-"81",RCN DEPORTES. ACTUALIZAR ANTES DE VER ESTE CANAL.
-https://www.youtube.com/watch?v=UpgLcSqNgsU
 
 #EXTINF:0,ESPN 2 (España) (????) 73 TENIS
  http://181.78.82.6:46090/play/a00i/index.m3u8
