@@ -21,8 +21,8 @@ https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/playlist.m3u8
 #EXTINF:-1 tvg-chno-"7",COTOBRUS CR. ( PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8 
 
-#EXTINF:-1 tvg-chno-"8",PANTALLA CLASICA EC (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
-https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8        
+#EXTINF:-1 tvg-chno-"8",SAPIRIQUI STREAMING CR (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
+ https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8        
 
 #EXTINF:-1 tvg-chno-"9",TVO+ JUNIN. (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live-evg11.tv360.bitel.com.pe/bitel/tvo/chunks.m3u8
