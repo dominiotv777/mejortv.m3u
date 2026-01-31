@@ -246,8 +246,8 @@ https://www.youtube.com/watch?v=oVDWoqQIsVs
 #EXTINF:0,ESPN 2 (España) (????) 73 TENIS
  http://181.78.82.6:46090/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-chno-"53",espnn 113
-http://179.1.87.75:8098/play/a0fh/index.m3u8    
+#EXTINF:-1 tvg-chno-"53",RTTV CR 
+https://server2.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8    
 
 #EXTINF:-1 tvg-chno-"84",CLARO SPORTS MEX.  SI NO TIENES SEÑAL VOLVEMOS PRONTO. 
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8 
