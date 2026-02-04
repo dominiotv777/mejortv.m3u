@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",COSMOS AR (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
-https://canaletaplus.com:3922/live/adminlive.m3u8       
+#EXTINF:-1 tvg-chno-"1",COSMOS AR. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
+https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8       
 
 #EXTINF:-1 tvg-chno-"2",UNICENTRO JUNIN (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
 https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/chunks.m3u8          
