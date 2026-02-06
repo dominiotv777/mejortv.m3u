@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",COSMOS AR. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
-https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8       
+#EXTINF:-1 tvg-chno-"1",WAYRA TV. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
+https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8     
 
 #EXTINF:-1 tvg-chno-"2",UNICENTRO JUNIN (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
 https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/chunks.m3u8          
@@ -27,8 +27,8 @@ https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 #EXTINF:-1 tvg-chno-"9",TVO+ JUNIN. (DEPORTES, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
 https://live-evg11.tv360.bitel.com.pe/bitel/tvo/chunks.m3u8
 
-#EXTINF:-1 tvg-chno-"10",WAYRA TV  (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
-https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8           
+#EXTINF:-1 tvg-chno-"10",CANAL 10 CR (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
+https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8          
 
 #EXTINF:-1 tvg-chno-"11",TV FLORENCIA GT (PELICULAS,DOCUMENTAL, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8                  
