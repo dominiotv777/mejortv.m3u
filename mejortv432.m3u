@@ -249,8 +249,8 @@ https://www.youtube.com/watch?v=qV9zSXluaYY
 #EXTINF:-1 tvg-chno-"53",RTTV CR 
 https://server5.cloundmediacp.in/turrialbatv/turrialbatv/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"56",espn 4 116
-http://179.1.87.75:8098/play/a0fu/index.m3u8
+#EXTINF:0,Esportes Brasilia (Brasil) (🇧🇷)106
+https://a.cdni.live/radioesporte/radioesporte/.m3u8
 
 #EXTINF:0,ESPN 3 (Mexico) (????) 81  TENIS
 http://181.78.82.6:46090/play/a00v/index.m3u8 
