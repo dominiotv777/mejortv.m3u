@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",WAYRA TV. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
-https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8     
+#EXTINF:-1 tvg-chno-"1",BARBE TV GT. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8    
 
 #EXTINF:-1 tvg-chno-"2",UNICENTRO JUNIN (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
 https://cablered.iptvperu.tv:1936/cablered/unicentro.stream/chunks.m3u8          
