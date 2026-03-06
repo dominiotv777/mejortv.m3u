@@ -24,8 +24,8 @@ https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8
 #EXTINF:-1 tvg-chno-"8",SAPIRIQUI STREAMING CR (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
  https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8        
 
-#EXTINF:-1 tvg-chno-"9",TVO+ JUNIN. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://live-evg11.tv360.bitel.com.pe/bitel/tvo/chunks.m3u8
+#EXTINF:-1 tvg-chno-"9",NEXTHD PY. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 #EXTINF:-1 tvg-chno-"10",IMAGEN UNIVERSAL RD (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8           
@@ -90,8 +90,8 @@ https://srt.grupolimalive.com:8081/cnc/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-chno-"30",BETS CR (PELICULAS, ESTRENOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8    
 
-#EXTINF:-1 tvg-chno-"31",CARTAGO MEDIOS CR (VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
-https://acceso.mediosdecostarica.com:3511/live/cartagomediostvlive.m3u8             
+#EXTINF:-1 tvg-chno-"31",NITIDA RD(VARIADO, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
+https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8             
 
 #EXTINF:-1 tvg-chno-"32",ÑUBLE CL  (PELICULAS, SERIES, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/chunklist.m3u8   
