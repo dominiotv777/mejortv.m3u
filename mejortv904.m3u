@@ -162,17 +162,17 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-chno-"54",ORBIT RD .(VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO..... 
 https://mlb.essastream.com:8081/orbittv/tracks-v1a1/index.m3u8 
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. STRANGER THINGS. TEMPORADA 2 CAP 2. LUNES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_17b2a4cd89304a17aed8cfe6d3e65cb3/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. STRANGER THINGS. TEMPORADA 2. CAP 3. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_82a97e3209d647c1949a9e2df995a723/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. EN UN ABRIR Y CERRAR DE OJOS. LUNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_eafd244363d0492cafbf440ce489b8b4/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. EL TOUR UNIVERSITARIO. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_9a7822bf0f8040d599e3a822a3d6426e/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. TEMPLO DE LOS HUESOS. LUNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_d935ec4e97ff498d941088722227f1ef/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. PRIMATE. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_7adb3befae2647be8097d4b9be11e10e/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. JUMBO........................................................CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_bb6aeab0f1ef4c4fba6df2771e4b3946/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
+https://video.wixstatic.com/video/08276b_b84f4bed6d2d4fea8f0c614dc18feeb5/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",LOCOMOTION (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://live20.bozztv.com/giatvplayout7/giatv-210075/playlist.m3u8  
