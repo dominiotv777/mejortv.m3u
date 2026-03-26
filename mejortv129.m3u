@@ -246,8 +246,8 @@ https://www.youtube.com/watch?v=D4hMJPAqCcw
 #EXTINF:0,ESPN 2 (España) (????) 73 TENIS
  http://181.78.82.6:46090/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-chno-"53",RTTV CR .
-http://fortv.cc:8080/live/cQnq6G/652882/167742.m3u8 
+#EXTINF:-1 tvg-chno-"53",RTTV CR FOX
+http://181.78.106.127:9000/play/ca031/index.m3u8   
 
 #EXTINF:0,Esportes Brasilia (Brasil) (🇧🇷)106
 https://a.cdni.live/radioesporte/radioesporte/.m3u8
