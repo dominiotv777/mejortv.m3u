@@ -18,8 +18,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"6",BOXCINEMA  (ESTRENOS,CLASICO, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/MJR5UQQ/3D7568C35498/m.m3u8  
 
-#EXTINF:-1 tvg-chno-"7",COTOBRUS CR. ( PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
-https://s1.tvdatta.com:3072/live/cotobrustvlive.m3u8 
+#EXTINF:-1 tvg-chno-"7",ORBIT RD. ( PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+https://mlb.essastream.com:8081/orbittv/tracks-v1a1/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"8",SAPIRIQUI STREAMING CR (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
  https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8        
