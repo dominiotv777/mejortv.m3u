@@ -24,8 +24,8 @@ https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-chno-"8",SAPIRIQUI STREAMING CR (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
  https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8        
 
-#EXTINF:-1 tvg-chno-"9",TVWANKA. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/chunks.m3u8
+#EXTINF:-1 tvg-chno-"9",MULTIVISION CABLE AR. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 #EXTINF:-1 tvg-chno-"10",IMAGEN UNIVERSAL RD (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8           
