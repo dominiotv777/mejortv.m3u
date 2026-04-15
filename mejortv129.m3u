@@ -231,8 +231,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-chno-"77",RT (NOTICIAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-1 tvg-chno-"78",RCN MAS .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno-"78",CAPITAL .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 
 #EXTINF:-1 tvg-chno-"79",FRANCE 24. 
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
