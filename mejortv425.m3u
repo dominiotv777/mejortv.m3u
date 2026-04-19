@@ -246,8 +246,8 @@ http://190.60.40.34:8001/play/a0ef
 #EXTINF:0,ESPN 2 (España) (????) 73 TENIS.
  http://181.78.82.6:46090/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-chno-"53",GOL CARACOL H2. ACTULIZAR ANTES DE VER ESTE CANAL.
-https://thm-it-roku.otteravision.com/thm/it/it.m3u8
+#EXTINF:-1 tvg-chno-"53",RCN DEPORTES. ACTULIZAR ANTES DE VER ESTE CANAL.
+https://www.youtube.com/watch?v=HMVklw08UIA
 
 #EXTINF:0,FIFA+ S
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
