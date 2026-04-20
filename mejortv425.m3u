@@ -162,17 +162,17 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-chno-"54",MANANCLAR .(VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO..... 
 https://5790d294af2dc.streamlock.net:443/manaclar/manaclar/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. STRANGER THINGS. TEMPORADA 3. CAP 5. LUNES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_e6cab44526f349cf9a38e7e46f3290b1/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. STRANGER THINGS. TEMPORADA 3. CAP 6. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_7bf7a551630042f78ec947b938c2232f/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. CUMBRES BORROSAS. LUNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_b45f6c5fadd34b96ae0e04b75bdde6c3/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. SUPER MARIO BROS . VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_43ff330752424b9587c580fa5ae7b612/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. MIKE NIKE Y ALICE. LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_40ac90cc2cae4f33bac856c5504964cf/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. INTHUM. VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_030ec4426f2c4149967dbbf6a99d6044/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. UNICORWARS ...................................................................CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_0c25f14166a84d4bbe07b1d672257664/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
+https://video.wixstatic.com/video/08276b_3c63862ccd5441e9b8c08c7f6dc5f76b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",TOONAMI (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8 
