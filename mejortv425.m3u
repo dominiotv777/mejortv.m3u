@@ -237,8 +237,8 @@ https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 tvg-chno-"79",FRANCE 24. 
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-chno-"80",W+ DEPORTES. "ESPERA 15 SEGUNDOS PARA CARGAR CANAL".
-http://190.60.40.34:8001/play/a02r
+#EXTINF:-1 tvg-chno-"80",NOTICIAS CARACOL DITU.
+https://www.youtube.com/watch?v=kMNm9L0TM1w
 
 #EXTINF:-1 tvg-chno-"81", W DEPORTES. "ESPERA 15 SEGUNDOS PARA CARGAR CANAL".
 http://190.60.40.34:8001/play/a0ef
