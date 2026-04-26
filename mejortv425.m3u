@@ -174,8 +174,8 @@ https://video.wixstatic.com/video/08276b_5c5cfe44aed944f8af77752ac55bc14b/720p/m
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES.AVENTURA LEGO 1.............................................................. CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
 https://video.wixstatic.com/video/08276b_fee39a70624e4ad18f0db9b892b6d320/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"59",TOONAMI (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
-https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8 
+#EXTINF:-1 tvg-chno-"59",RETRO MAGICO (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8   
 
 #EXTINF:-1 tvg-chno-"60",TG JUNIOR. (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771   
@@ -240,8 +240,8 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-chno-"80",NOTICIAS CARACOL DITU.
 https://www.youtube.com/watch?v=kMNm9L0TM1w
 
-#EXTINF:-1 tvg-chno-"81", W DEPORTES "ESPERA 15 SEGUNDOS PARA CARGAR CANAL".
-https://tvpass.org/live/FoxSports2/hd
+#EXTINF:-1 tvg-chno-"81", W DEPORTES. "ESPERA 15 SEGUNDOS PARA CARGAR CANAL".
+https://tvpass.org/live/FoxSports2/sd
 
 #EXTINF:0,ESPN 2 (España) (????) 73 TENIS.
  http://181.78.82.6:46090/play/a00i/index.m3u8
