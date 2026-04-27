@@ -162,17 +162,17 @@ https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-chno-"54",MEMORIAS TOONS .(ANIMADO CLASICO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO..... 
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. STRANGER THINGS. TEMPORADA 3. CAP 7. LUNES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_9eda92702a604bcdaf428eb3df9995f0/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. STRANGER THINGS. TEMPORADA 3. CAP 8. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_94fcc0768ee446d9bcf888270f5f3602/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. AYUDA. LUNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_ee363a6379d741ff80e0d603113c663a/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. BESO DE TRES. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_806dbb3878384cd7b4d4c24c350fe922/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. SUPER MARIO GALAXY. LUNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_5c5cfe44aed944f8af77752ac55bc14b/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. LINEA ROJA. VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_8e58a979e0284ef2963130a8993a8b04/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES.AVENTURA LEGO 1.............................................................. CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_fee39a70624e4ad18f0db9b892b6d320/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
+https://video.wixstatic.com/video/08276b_0b347c64df9e4abb9571b89c7911a3bd/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",RETRO MAGICO (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://live20.bozztv.com/akamaissh101/ssh101/retromagicocnl/chunks.m3u8   
