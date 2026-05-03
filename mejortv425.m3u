@@ -249,8 +249,8 @@ https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 #EXTINF:-1 tvg-chno-"52",TOUR SPORTS
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 
-#EXTINF:0,FIFA+ S
-https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:0,FOX SPORTS AR
+http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 
 #EXTINF:0,PT FUTBOL PARA FANS
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
