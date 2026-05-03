@@ -243,8 +243,8 @@ https://www.youtube.com/watch?v=kMNm9L0TM1w
 #EXTINF:-1 tvg-chno-"81", TYC SPORTS USA . 
 http://45.170.130.224:8000/play/a020/index.m3u8
 
-#EXTINF:0,ESPN 2 (España) (????) 73 TENIS.
- http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:0, ALKASS1
+https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
 #EXTINF:-1 tvg-chno-"52",TOUR SPORTS
 https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
