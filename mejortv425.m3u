@@ -159,20 +159,20 @@ https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/index.ts.m3u8
 #EXTINF:-1 tvg-chno-"53",BTA TV VE (MUSICA) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO.....
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8 
 
-#EXTINF:-1 tvg-chno-"54",RIKU TV .(ANIMADO CLASICO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO..... 
-https://amixtv.com:8081/rikutv/tracks-v1a1/index.ts.m3u8
+#EXTINF:-1 tvg-chno-"54",MULTIPLAY TV SERIES. LA CASA DEL DRAGON TEMP 1. CAP 1. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_93208b479c014b998a36031e656ed3e8/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES. STRANGER THINGS. TEMPORADA 4. CAP 3. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_c6ea823141cf4e1d9675de242021c918/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES 2. STRANGER THINGS. TEMPORADA 4. CAP 4. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_60ec353e3a5243a8b2a74b4257b9dc23/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. VENGANZA. MARTES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_e8bd4b81533342029dd43dd5cd0467af/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. OUTCOME. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_2f8442783acc426d9a0ff85aa8a8fadf/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. APEX DEPREDADOR DOMINANTE. MARTES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_bb27a48a712c4e7abe6a7e4fd900c57b/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. TOASTER. VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_86e9bc3f8c2644c082585ed66e088773/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. OPERACION CASTOR. CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+STAR WARS+FUTURAMA
-https://video.wixstatic.com/video/08276b_7cd47319693f4e62b86e27b32ee70296/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. PIOLIN Y SILVETRE+CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+FUTURAMA
+https://video.wixstatic.com/video/08276b_d95c57b1deeb431793c23f62a98bb1ad/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",CHINOLA RD . (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
