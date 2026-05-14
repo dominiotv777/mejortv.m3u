@@ -258,8 +258,8 @@ https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 #EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"87",FOX DEPORTES MX
-https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-chno-"87","52",ESPN COL 
+http://190.61.42.218:9000/play/a062/index.m3u8  
 
 #EXTINF:0,NBC SPORTS NOW MD.
 https://d1m1xk35ma8qfl.cloudfront.net/master.m3u8
