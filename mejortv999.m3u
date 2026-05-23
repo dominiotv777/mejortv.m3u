@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"1",JUNIN MI PELICULA. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
-https://live-evg5.tv360.bitel.com.pe/bitel/mipeliculaSRT/chunks.m3u8?uid=7621009   
+#EXTINF:-1 tvg-chno-"1",FMCOSMOS. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
+https://canaletaplus.com:3922/live/cosmoslive.m3u8     
 
 #EXTINF:-1 tvg-chno-"2",NEOTV AR. (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8         
