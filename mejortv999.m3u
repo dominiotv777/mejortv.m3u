@@ -201,8 +201,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
 #EXTINF:-1 tvg-chno-"67",ANIME XTV (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO
 http://animezonetv.net:81/live_hls/animetest/index.m3u8
 
-#EXTINF:-1 tvg-chno-"68",CREO KIDS. (PELICULAS ANIMADAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/CreoKidsSRT/chunks.m3u8?timestamp=1779700779&wmkid=0&uid=7621009&token=92a6bba14fd890306e24a2fe48b28bfd
+#EXTINF:-1 tvg-chno-"68",CREO KIDS (PELICULAS ANIMADAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
+https://live-evg18.tv360.bitel.com.pe/Duw8_RqlXy5OJQWnRaNQwQ/1779825381/bitel/CreoKidsSRT/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"69",GOgo PLAY (ANIMADOS,PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
 https://live20.bozztv.com/akamaissh101/ssh101/gogoplay/chunks.m3u8  
