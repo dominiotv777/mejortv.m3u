@@ -159,20 +159,20 @@ https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8
 #EXTINF:-1 tvg-chno-"53",BOXCINEMA (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO.....
 https://d3s7x6kmqcnb6b.cloudfront.net/hls/RKQYXBY/3D7568C35498/m.m3u8 
 
-#EXTINF:-1 tvg-chno-"54",MULTIPLAY TV SERIES. LA CASA DEL DRAGON TEMP 1. CAP 4. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_ddb54806658b48668fae34621ac10fdb/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"54",MULTIPLAY TV SERIES. LA CASA DEL DRAGON TEMP 1. CAP 5. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_ea3e623812e04bc2b352c2588d0d60ed/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES 2. STRANGER THINGS. TEMPORADA 4. CAP 7. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_2eed5299668f4e7baf51ad23384c9bc8/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES 2. STRANGER THINGS. TEMPORADA 4. CAP 8. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_25e0f4a518b24aefba5afc005f9b0447/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. CRIATURAS LUMINOSAS. MARTES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_55f75bc6fd5c40159aad23ca2c474315/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. TE VAN A MATAR. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_67a5368a22a14d6c84a051ea19453849/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. PROYECTO FIN DEL MUNDO. MARTES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_4c9a06d7e6194e5bbb70806e0de59275/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. FAMILIA A LA DERIVA. VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_0f54716207f74c709467345016f65a5b/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. INTERCAMBIADOS...............................................................................PIOLIN Y SILVETRE+CABALLEROS DEL ZODIACO+DB SUPER+DUCKTALES+FUTURAMA
-https://video.wixstatic.com/video/08276b_5925fc4c365d42eaab2d5cbb35e7b732/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. GRAVITY FALLS+PIOLIN Y SILVETRE+DB SUPER+DUCKTALES+FUTURAMA
+https://video.wixstatic.com/video/08276b_0c440ae805de42f5bdad90afa1455d85/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",CHINOLA RD . (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
@@ -184,7 +184,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/animakids/chunks.m3u8?uid=7621009
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 tvg-chno-"62",FMHKIDS (ANIMADO,SERIES) SI NO TIENES SEÑAL VOLVEMOS. EN OCASIONES CARGAMOS CONTENIDO....
-https://live-evg18.tv360.bitel.com.pe/Zb-QWfWk5fuE5vUQvlR33g/1779765447/bitel/fmhkids_abr/bitel/fmhkids_360p/chunks.m3u8
+https://es2-p1-netcdn.bitel.com.pe/netcdn-live-4/bitel/fmhkids_abr/bitel/fmhkids_360p/chunks.m3u8?timestamp=1779787392&wmkid=0&uid=7621009&token=c99f01a70bf6cae094d337183d5ebcd2
 
 #EXTINF:-1 tvg-chno-"63",MEMORIAS TOON ( ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS. EN OCASIONES CARGAMOS CONTENIDO....
 https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8       
