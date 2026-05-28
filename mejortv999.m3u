@@ -252,8 +252,8 @@ https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:0,ESPN 3 (Peru) (🇵🇪) 82
 http://190.61.42.218:9000/play/a061/index.m3u8
 
-#EXTINF:0,NBC UNIVERSO
-http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
+#EXTINF:0,TELEMUNDO
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
 
 #EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
