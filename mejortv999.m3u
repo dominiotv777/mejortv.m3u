@@ -84,8 +84,8 @@ https://stream.inliveserver.com:19360/8004/8004.m3u8
 #EXTINF:-1 tvg-chno-"28",SONY CINE (PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....      
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8    
 
-#EXTINF:-1 tvg-chno-"29",NATIVA TV SATIPO (PELICULAS,SERIES, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8    
+#EXTINF:-1 tvg-chno-"29",BOXCINEMA  (PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
+https://d3s7x6kmqcnb6b.cloudfront.net/hls/RKQYXBY/3D7568C35498/m.m3u8     
 
 #EXTINF:-1 tvg-chno-"30",BETS CR (PELICULAS, ESTRENOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8    
@@ -156,23 +156,23 @@ https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"52",BUZZER GT (MUSICA, SERIES, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8     
 
-#EXTINF:-1 tvg-chno-"53",BOXCINEMA (VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO EN OCASIONES CARGAN CONTENIDO.....
-https://d3s7x6kmqcnb6b.cloudfront.net/hls/RKQYXBY/3D7568C35498/m.m3u8 
+#EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. AGENTE BUTTEFY. CAP 1. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_a5df68a6242640d8b3bfab09dadfaa68/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"54",MULTIPLAY TV SERIES. LA CASA DEL DRAGON TEMP 1. CAP 6. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_ea1688a49e574b629fd02d6e8288b4d2/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"54",MULTIPLAY SERIES 2. LA CASA DEL DRAGON TEMP 1. CAP 7. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_a3019e34b9084a9197fad087fefdeeb6/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY TV SERIES 2. STRANGER THINGS. TEMPORADA 4. CAP 9. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_2a147c8e4b0c4e6494f83a0e3adedf7f/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY SERIES 3. STRANGER THINGS. TEMPORADA 5. CAP 1. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_f71baf179e6e4832b87ce6524d8e9bd3/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY TV ESTRENOS. BODA SANGRIENTA 2. MARTES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_acc673db7e4a4eafb56ca989822d56da/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY ESTRENOS. LAS DAMAS PRIMERO. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_888b4d579a114b01ad4ac22abeb5dcdc/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY TV ESTRENOS 2. SANGRE ASESINA. MARTES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_721689b484db46438bb0793edcb4be09/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY ESTRENOS 2. RESCATE EN LAS ALTURAS. VIERNES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_a09f52bbbb814fe18e50b486a64842b4/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY TV ANIMES. GRAN AVENTURA LEGO 2..................................................................................................GRAVITY FALLS+PIOLIN Y SILVETRE+DB SUPER+DUCKTALES+FUTURAMA
-https://video.wixstatic.com/video/08276b_f5041d8302fd4f38a077e8d316bf9adf/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY ANIMES. GRAVITY FALLS+PIOLIN Y SILVETRE+DB SUPER+DUCKTALES+FUTURAMA
+https://video.wixstatic.com/video/08276b_af773e83f61f4a3e90e8fd17b69113f7/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",CHINOLA RD. (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
