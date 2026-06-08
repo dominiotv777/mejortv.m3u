@@ -246,8 +246,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:0, ALKASS1
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
 
-#EXTINF:-1 tvg-chno-"52",NBC SPORTS NOW
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-chno-"52",CONTACTO TV
+https://live.obslivestream.com/contactoplaymax/tracks-v1a1/index.m3u8
 
 #EXTINF:0,ESPN 3 (Peru) (🇵🇪) 82
 http://190.61.42.218:9000/play/a061/index.m3u8
