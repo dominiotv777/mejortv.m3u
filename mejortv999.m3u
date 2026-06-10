@@ -18,8 +18,8 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"6",MEGACINE RD (ESTRENOS,CLASICO, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/index.m3u8  
 
-#EXTINF:-1 tvg-chno-"7",360RFTV CR. ( PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
-https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8 
+#EXTINF:-1 tvg-chno-"7",NOSARA TV CR. ( PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+https://latamvdo.com:3870/hybrid/play.m3u8  
 
 #EXTINF:-1 tvg-chno-"8",SAPIRIQUI STREAMING CR (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
  https://acceso.mediosdecostarica.com:3134/live/sstv2372live.m3u8        
