@@ -156,8 +156,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/chunks.m3u8
 #EXTINF:-1 tvg-chno-"52",BUZZER GT (MUSICA, SERIES, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8     
 
-#EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. AGENTE BUTTEFY. CAP 5. VIERNES NUEVO EPISODIO
-https://cdn.telecloud.tv/CH16283/tracks-v1a1/index.ts.m3u8?token=LIVE_B_EPb47QrFaP8fy7DB2bvA2wzPErAipwzL
+#EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. AGENTE BUTTEFY. CAP 5. VIERNES NUEVO EPISODIO.
+https://video.wixstatic.com/video/08276b_90ccc9e268874170b0c9b8611f2f896e/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"54",MULTIPLAY SERIES 2. LA CASA DEL DRAGON TEMP 1. CAP 10. MARTES NUEVO EPISODIO
 https://video.wixstatic.com/video/08276b_b792587acecb4b35b14fa74b029f7070/1080p/mp4/file.mp4
