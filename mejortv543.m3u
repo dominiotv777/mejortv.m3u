@@ -252,8 +252,8 @@ http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:0,ESPN 3 (Peru) (🇵🇪) 82
 http://190.61.42.218:9000/play/a061/index.m3u8
 
-#EXTINF:0,MEGOGO Sport UCRANIA
-http://471ccec7.tvclub.xyz/iptv/BUYS9YTNABMC25/31612/index.m3u8 
+#EXTINF:0,85.VTV10  VIETNAM
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv6-manifest.m3u8
 
 #EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
