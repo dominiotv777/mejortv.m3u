@@ -246,7 +246,7 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:0, 82. ALKASS1
 https://www.youtube.com/watch?v=WIz3v52HVuc
 
-#EXTINF:-1 tvg-chno-"52",CCTV-Storm FUTBOLL
+#EXTINF:-1 tvg-chno-"52",CCTV-Storm FUTBOLL 83
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 #EXTINF:0,84. ESPN 3 (Peru) (🇵🇪) 82
@@ -267,8 +267,8 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-chno-"89",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#EXTINF:0,TVP SPORT POLONIA
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+#EXTINF:0,TELE REBELDE CUBA
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8 
 
 
 
