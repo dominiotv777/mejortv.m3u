@@ -237,7 +237,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-chno-"79",FRANCE 24. 
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-chno-"80", TIGO Sport. 
+#EXTINF:-1 tvg-chno-"80", TIGO Sport. "ESPERA 15 SEGUNDOS" PARA CARGAR CANAL 
 http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTf_5weWAERKDgrt9JpvlAiI/m3u8
 
 #EXTINF:-1 tvg-chno-"81", TYC SPORTS USA. 
