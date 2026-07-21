@@ -24,8 +24,8 @@ https://acceso.mediosdecostarica.com:3638/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-chno-"8",A7 TV (PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
 https://183.bozztv.com/ssh101/ssh101/a7tvjarabacoa/playlist.m3u8       
 
-#EXTINF:-1 tvg-chno-"9",FMTV EC. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
-https://s2.tvdatta.com:3307/hybrid/play.m3u8 
+#EXTINF:-1 tvg-chno-"9",HMTV RD. (PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. NUESTROS CANALES EN OCASIONES CARGAN CONTENIDO.
+https://cdnfox.hostlagarto.com/hmtv/tracks-v1a1/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"10",IMAGEN UNIVERSAL RD (PELICULA, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8           
