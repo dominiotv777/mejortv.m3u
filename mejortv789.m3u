@@ -156,23 +156,23 @@ https://s.emisoras.tv:8081/dtv/tracks-v1a1/index.ts.m3u8
 #EXTINF:-1 tvg-chno-"52",BUZZER GT (MUSICA, SERIES, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8     
 
-#EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. TIERRA DE ORO. CAP 8. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_9f04dcb76d5a4fe1b660bcbdee5e44d2/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. TIERRA DE ORO. CAP 9. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_e4675802c3d0480ca288f40adf53d7f1/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"54",MULTIPLAY SERIES 2. LA CASA DEL DRAGON TEMP 3. CAP 02. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_adfd96a47fb94969ab5e219394c60f02/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"54",MULTIPLAY SERIES 2. LA CASA DEL DRAGON TEMP 3. CAP 03. VIERNES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_e5302856b81e4f11bce7e01c4a18ed61/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY SERIES 3. HOMBRE EN LLAMAS. CAP 6. MARTES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_1fcd3105c01f446187e86f92dfff5f32/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY SERIES 3. HOMBRE EN LLAMAS. CAP FINAL. VIERNES NUEVA SERIES
+https://video.wixstatic.com/video/08276b_3c844fd5819048ebb44e1e9fa3f76b51/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY ESTRENOS. LICENCIA PARA ROBAR. MARTES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_9123ffa464b2404395c741734ba62390/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY ESTRENOS. BOULEVAR. VIERNES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_b47a896f3a004827b00155f71b1e97a7/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY ESTRENOS 2. AMOS DEL UNIVERSO. HE-MAN. MARTES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_5b614d02518b4f4985e9caa1cac41f6c/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY ESTRENOS 2. PROYECTO EL INTERNADO. HE-MAN. MARTES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_5bda8c4333f3404a80f501e49fc982f0/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY ANIMES.BATMAN BROMA SANGRIENTA.................................................... FINAL SPACE+GRAVITY FALLS+PIOLIN Y SILVETRE+DB SUPER+FUTURAMA
-https://video.wixstatic.com/video/08276b_f2beb8db009a42b2b2c542f56109f9bc/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY ANIMES. FINAL SPACE+GRAVITY FALLS+PIOLIN Y SILVETRE+DB SUPER+FUTURAMA
+https://video.wixstatic.com/video/08276b_bdbe3108e69a4416936378f6be47562b/480p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",ENERGREED FAN. (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
