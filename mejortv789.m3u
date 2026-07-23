@@ -216,8 +216,8 @@ https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
 #EXTINF:-1 tvg-chno-"72",VC ONLINE (MUSICA, FAMILIAR, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8   
 
-#EXTINF:-1 tvg-chno-"73",EXTREMA TV CR.(FAMILIAR, VARIADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO
-https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1 tvg-chno-"73",NG CHANNEL .(FAMILIAR, VARIADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO
+https://vdochile.com:3222/live/ngchalive.m3u8 
 
 #EXTINF:-1 tvg-chno-"74",TELEVISA (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8   
