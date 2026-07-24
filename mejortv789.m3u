@@ -222,8 +222,8 @@ https://vdochile.com:3222/live/ngchalive.m3u8
 #EXTINF:-1 tvg-chno-"74",TELEVISA (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8   
 
-#EXTINF:-1 tvg-chno-"75",MAS TELEVISION COL
-https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-chno-"75",CITY TV COL
+http://138.186.23.7:8082/CITY/index.m3u8
 
 #EXTINF:-1 tvg-chno-"76",DW (DOCUMENTAL, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO..... 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
