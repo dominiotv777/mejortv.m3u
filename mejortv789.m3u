@@ -156,23 +156,23 @@ https://s.emisoras.tv:8081/dtv/tracks-v1a1/index.ts.m3u8
 #EXTINF:-1 tvg-chno-"52",BUZZER GT (MUSICA, SERIES, PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8     
 
-#EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. TIERRA DE ORO. CAP 9. VIERNES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_e4675802c3d0480ca288f40adf53d7f1/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. TIERRA DE ORO. CAP 10. MARTES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_43800a0d63254ffb830f6cab5737534c/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"54",MULTIPLAY SERIES 2. LA CASA DEL DRAGON TEMP 3. CAP 03. VIERNES NUEVO EPISODIO
-https://video.wixstatic.com/video/08276b_e5302856b81e4f11bce7e01c4a18ed61/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"54",MULTIPLAY SERIES 2. LA CASA DEL DRAGON TEMP 3. CAP 04. MARTES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_b0d477557b564710b5522dccb3edc64e/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"55",MULTIPLAY SERIES 3. HOMBRE EN LLAMAS. CAP FINAL. VIERNES NUEVA SERIES
-https://video.wixstatic.com/video/08276b_3c844fd5819048ebb44e1e9fa3f76b51/1080p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"55",MULTIPLAY SERIES 3. MAESTRO DE LA EVASION. CAP 01. MARTES NUEVO EPISODIO
+https://video.wixstatic.com/video/08276b_a1e34118d8dc40f1a27f9876b4cd225a/1080p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"56",MULTIPLAY ESTRENOS. BOULEVAR. VIERNES NUEVO ESTRENO.
-https://video.wixstatic.com/video/08276b_b47a896f3a004827b00155f71b1e97a7/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"56",MULTIPLAY ESTRENOS. EL PASAJERO DEL DIABLO. MARTES NUEVO ESTRENO.
+https://video.wixstatic.com/video/08276b_72a55b4c5b6f4bf1a2dedeab54ebc75f/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"57",MULTIPLAY ESTRENOS 2. PROYECTO EL INTERNADO.VIERNES NUEVO ESTRENO
-https://video.wixstatic.com/video/08276b_5bda8c4333f3404a80f501e49fc982f0/720p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"57",MULTIPLAY ESTRENOS 2.GOLDEN KAMUY 3.MARTES NUEVO ESTRENO
+https://video.wixstatic.com/video/08276b_d2ec9f8f453b4ceaaa0ff1fe114f6fbb/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"58",MULTIPLAY ANIMES. FINAL SPACE+GRAVITY FALLS+PIOLIN Y SILVETRE+DB SUPER+FUTURAMA
-https://video.wixstatic.com/video/08276b_bdbe3108e69a4416936378f6be47562b/480p/mp4/file.mp4
+#EXTINF:-1 tvg-chno-"58",MULTIPLAY ANIMES.XANA LADRONA DEL TIEMPO........................................................ FINAL SPACE+GRAVITY FALLS+PIOLIN Y SILVETRE+DB SUPER+FUTURAMA
+https://video.wixstatic.com/video/08276b_8cb54d3d8da24b59b83212afa875e93d/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"59",ANIMADO 1. (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=465
