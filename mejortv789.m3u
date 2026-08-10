@@ -243,8 +243,8 @@ https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 tvg-chno-"81", TYC SPORTS USA. 
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:0, 82.TV FUTBOL
-https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8 
+#EXTINF:0, 82.CT SPORT
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"52",WIN SPORTS 
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
