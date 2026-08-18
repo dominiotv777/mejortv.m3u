@@ -174,8 +174,8 @@ https://video.wixstatic.com/video/08276b_48ba5e66b2d0434d978754f26cec191e/720p/m
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY ANIMES. CORAJE+FINAL SPACE+GRAVITY FALLS+DB SUPERP+PIOLIN Y SILVETRE
 https://video.wixstatic.com/video/08276b_f0ba1a7872254e8986bd435935246c5f/480p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"59",ANIME ZONE. (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
-http://animezonetv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-chno-"59",ENERGREEK FAN (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-chno-"60",CARTOON NETWORD CITY (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://envivo.cncity.live/hls/envivo.m3u8
