@@ -243,8 +243,8 @@ https://mdstrm.com/live-stream-playlist/6952dc88cb62083467eb6ab4.m3u8
 #EXTINF:-1 tvg-chno-"81", TYC SPORTS USA. 
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:0, 82.CT SPORT
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8 
+#EXTINF:0, 82.WOMEN SPORTS
+https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8 
 
 #EXTINF:-1 tvg-chno-"52",CCTV
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
