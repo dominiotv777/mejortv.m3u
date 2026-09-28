@@ -258,7 +258,7 @@ https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
 #EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"87","52",ESPN COL 
+#EXTINF:-1 tvg-chno-"87","52",ESPN COL spot 
 http://190.61.42.218:9000/play/a062/index.m3u8  
 
 #EXTINF:0,WIN.
