@@ -219,11 +219,11 @@ https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/chunklist.m3u8
 #EXTINF:-1 tvg-chno-"73",NUEVA VIDA CIELO TV P .(FAMILIAR, VARIADO, PELICULAS ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 
-#EXTINF:-1 tvg-chno-"74",TELEVISA (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8   
+#EXTINF:-1 tvg-chno-"74",CBN EN ESPAÑOL (NOVELAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
+https://fastly.live.brightcove.com/6383462549112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgzNDYyNTQ5MTEyIn0.g04lznsvgqgIXQt2ZH0H_tWtIeTsMgGjVORsjOJ0T6U/playlist-hls.m3u8  
 
-#EXTINF:-1 tvg-chno-"75",EURONEWS
-https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:-1 tvg-chno-"75",TELEVISA
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8  
 
 #EXTINF:-1 tvg-chno-"76",DW (DOCUMENTAL, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO..... 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
