@@ -261,8 +261,8 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno-"87","52",ESPN COL 
 http://190.61.42.218:9000/play/a062/index.m3u8  
 
-#EXTINF:0,WIN
-http://15.204.146.163:8002/play/a00h/index.m3u8 
+#EXTINF:0,WIN.
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8 
 
 #EXTINF:-1 tvg-chno-"89",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
