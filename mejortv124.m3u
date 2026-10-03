@@ -246,8 +246,8 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:0, 82.WOMEN SPORTS
 https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8 
 
-#EXTINF:-1 tvg-chno-"52",CCTV
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+#EXTINF:-1 tvg-chno-"52",RCN DEPORTES
+https://www.youtube.com/watch?v=eytaqEDeQs8
 
 #EXTINF:0,84. ESPN 3 (Peru) (🇵🇪) 82
 http://190.61.42.218:9000/play/a061/index.m3u8
