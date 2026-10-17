@@ -100,7 +100,7 @@ https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 
 #EXTINF:-1 tvg-chno-"34",NATIONAL GEOGRAFIC LATINOAMERICA DISNEY(PELICULAS, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
-http://181.119.66.28:8081/NATGEO-HD/index.m3u8          
+https://barinaslive1.boldmss.com/NATGEO/NATGEO.isml/NATGEO.m3u8          
 
 #EXTINF:-1 tvg-chno-"35",CINE PREMIUM USA ( PELICULAS,VARIADO, INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/cinepremium.stream/playlist.m3u8              
