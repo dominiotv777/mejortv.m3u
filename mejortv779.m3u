@@ -154,7 +154,7 @@ https://movil.ejeserver.com/live/visiondorada.m3u8
 https://videohd.live:19360/8076/8076.m3u8   
 
 #EXTINF:-1 tvg-chno-"52",CICLO7. SOLICITA TU PELICULA. ssiptv.cineencasa@gmail.com
-https://video.wixstatic.com/video/08276b_88819808e25042c2b678a0f4384d52d3/720p/mp4/file.mp4
+https://video.wixstatic.com/video/08276b_c2e02d178f89411c9e7aa5d45d73f9c0/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-chno-"53",MULTIPLAY SERIES. OPERACION LIONESS.CAP 02.VIERNES NUEVO EPISODIO 
 https://video.wixstatic.com/video/08276b_ce5a5b74982041b789702741ab9b8959/720p/mp4/file.mp4
@@ -243,8 +243,8 @@ http://190.109.2.92:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-chno-"81", TYC SPORTS USA. 
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:0, 82.WOMEN SPORTS
-https://aegis-cloudfront-1.tubi.video/e974981b-bbcd-42a3-a6c1-6c25e14f10bd/playlist.m3u8 
+#EXTINF:0, 82.ESPN COL SPORTS
+http://190.61.47.54:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-chno-"52",WIN SPORT+
 https://stream1.bitred.cl/nuestra-tele/index.m3u8 
