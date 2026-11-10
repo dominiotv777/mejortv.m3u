@@ -174,8 +174,8 @@ https://video.wixstatic.com/video/08276b_79dd26943cd94bacb6fdb1602c6d7022/1080p/
 #EXTINF:-1 tvg-chno-"58",MULTIPLAY ANIMES. HORA DE AVENTURA+TOM Y YERRY+CORAJE+FINAL SPACE+DB SUPER+GRAVITY FALLS+PIOLIN Y SILVETRE
 https://video.wixstatic.com/video/08276b_e724c721f1d34b869e8c829692e26a84/360p/mp4/file.mp4
 
-#EXTINF:-1 tvg-chno-"59",CHAVO TV (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
-https://live20.bozztv.com/giatvplayout7/giatv-211465/tracks-v1a1/index.ts.m3u8
+#EXTINF:-1 tvg-chno-"59",DREIKO TV (ANIMADO,SERIES ) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+https://cloudvideo.servers10.com:8081/8020/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-chno-"60",CARTOON NETWORD CITY. (ANIMADOS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://envivo.cncity.live/hls/envivo.m3u8
