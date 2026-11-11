@@ -18,8 +18,8 @@ https://tvstream.alojawebgt.net:3434/live/buzzertvlive.m3u8
 #EXTINF:-1 tvg-chno-"6",AXN (SERIES PELICULAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO..... 
 http://138.121.15.230:9002/AXN/index.m3u8
 
-#EXTINF:-1 tvg-chno-"7",BOMBI CL. ( PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
-https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist.m3u8
+#EXTINF:-1 tvg-chno-"7",+ACCION ( PELICULAS,VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+https://live-evg13.tv360.bitel.com.pe/bitel/+movieaccion/chunks.m3u8
 
 #EXTINF:-1 tvg-chno-"8",COSITEL(PELICULAS, SERIES) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO. 
 https://vod3.qbi.lat:15123/cositel/tracks-v1a1/index.m3u8       
