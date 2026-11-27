@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno-"A01",STAR CHANNEL USA. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
+#EXTINF:-1 tvg-chno-"001",STAR CHANNEL USA. (PELICULAS,ESTRENOS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO....
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/StarChannel.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"A02",FMCOSMOS AR. (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
+#EXTINF:-1 tvg-chno-"002",FMCOSMOS AR. (PELICULAS,INFORMATIVO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO....
 https://canaletaplus.com:3922/live/cosmoslive.m3u8         
 
-#EXTINF:-1 tvg-chno-"A03",IMAGEN UNIVERSAL RD(PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
+#EXTINF:-1 tvg-chno-"003",IMAGEN UNIVERSAL RD(PELICULAS, VARIADO) SI NO TIENES SEÑAL VOLVEMOS PRONTO. CARGANDO CONTENIDO.....
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8         
 
-#EXTINF:-1 tvg-chno-"A04",BEST CR (PELICULAS, VARIADO, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO.EN OCASIONES CARGAMOS CONTENIDO.....
+#EXTINF:-1 tvg-chno-"004",BEST CR (PELICULAS, VARIADO, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO.EN OCASIONES CARGAMOS CONTENIDO.....
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-chno-"005",BUZZER GT. ( PELICULAS, NOTICIAS) SI NO TIENES SEÑAL VOLVEMOS PRONTO. EN OCASIONES CARGAMOS CONTENIDO.....
@@ -243,28 +243,28 @@ http://190.109.2.92:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-chno-"081", TYC SPORTS USA. 
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:0, 082.ESPN COL SPORTS
+#EXTINF:0, 82.ESPN COL SPORTS
 http://190.61.47.54:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-chno-"083",WIN.NUESTRA TELE 
 https://stream1.bitred.cl/nuestra-tele/index.m3u8 
 
-#EXTINF:0,084. ESPN 3 (Peru) (🇵🇪) 82
+#EXTINF:0,84. ESPN 3 (Peru) (🇵🇪) 82
 http://190.61.42.218:9000/play/a061/index.m3u8
 
-#EXTINF:0,085.AZTECA DEPORTES
+#EXTINF:0,85.AZTECA DEPORTES
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8  
 
-#EXTINF:-1 tvg-chno-"86",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
+#EXTINF:-1 tvg-chno-"086",BEIN SPORTS XTRA X .SI NO TIENES SEÑAL VOLVEMOS PRONTO.
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-chno-"87","52",ESPN COL spot 
+#EXTINF:-1 tvg-chno-"087","52",ESPN COL spot 
 http://190.61.42.218:9000/play/a062/index.m3u8  
 
 #EXTINF:0,ESPN 4  
 http://181.78.197.59:8000/play/a07n/index.m3u8
 
-#EXTINF:-1 tvg-chno-"89",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
+#EXTINF:-1 tvg-chno-"089",BEIN XTRA Ñ ES . SI NO TIENES SEÑAL VOLVEMOS PRONTO
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
 #EXTINF:0,FS1
